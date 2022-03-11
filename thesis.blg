@@ -1,0 +1,5 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'thesis.blg'
+[29] biber-darwin:313> INFO - === Fri Mar 11, 2022, 11:56:47
+[47] Biber.pm:371> INFO - Reading 'thesis.bcf'
+[111] Utils.pm:193> WARN - No data sources defined!
