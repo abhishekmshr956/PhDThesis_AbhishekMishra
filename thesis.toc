@@ -1,3 +1,18 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {english}{}
 \vspace {-\cftbeforechapskip }
+\contentsline {chapter}{\numberline {1}{Introduction}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}{Motion Vision}}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}{\NoCaseChange {\textit {Drosophila}} as a model organism}}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}{Tools for functional dissection of \NoCaseChange {\textit {Drosophila}} neural circuits}}{1}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}{GAL4-UAS / LexA-lexAop}}{2}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}{Calcium Indicator : GCaMP for recording changes in intracellular calcium}}{2}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}{Voltage Indicator : Arclight for recording changes in neuronal membrane potential}}{3}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}{Suppressor : $shibire^{ts}$, GtACR for silencing neuron}}{4}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}{Activator : ReaChr for activating neuron}}{5}{subsection.1.3.5}
+\contentsline {section}{\numberline {1.4}{Fly motion vision system}}{5}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}{Parallel ON \& OFF processing pathways}}{6}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}{T4 \& T5 cells}}{7}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}{Neural circuit underlying direction selectivity}}{9}{section.1.5}
+\contentsline {section}{\numberline {1.6}{Neural algorithm underlying direction selectivity}}{9}{section.1.6}
+\contentsline {chapter}{{Bibliography}}{11}{section.1.6}

@@ -1,77 +1,7 @@
-%OLD MASTERFILE
-
-
-%\documentclass[10pt,a4paper,twoside,openright,titlepage,fleqn,%
-%               headinclude,,footinclude,BCOR5mm,%
-%               numbers=noenddot,cleardoublepage=empty,%
-%               tablecaptionabove]{scrreprt}
-%               
-%\usepackage[italian,american]{babel}
-%%\usepackage[applemac]{inputenc}
-%\usepackage[utf8]{inputenc}
-%\usepackage[T1]{fontenc}
-%\usepackage{amsmath,amssymb,amsthm}
-%\usepackage{varioref}
-%\usepackage[style=philosophy-modern,hyperref,square,natbib]{biblatex}
-%\usepackage{chngpage}
-%\usepackage{calc}
-%\usepackage{listings}
-%\usepackage{graphicx}
-%\usepackage{subfig}
-%\usepackage{multicol}
-%\usepackage{makeidx}
-%\usepackage{fixltx2e}
-%\usepackage{relsize}
-%\usepackage{lipsum}
-%\usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing,listings]{classicthe%sis}
-%\usepackage{arsclassica}
-%\usepackage{pdfpages}
-%
-%\input{arsclassica-settings}
-%
-%\begin{document}
-%\pagenumbering{roman}
-%\pagestyle{plain}
-%%******************************************************************
-%% Frontmatter
-%%******************************************************************
-%\input{FrontBackMatter/Titlepage}
-%\input{FrontBackMatter/Titleback}
-%\clearpage
-%\input{FrontBackMatter/Supervisor_Page}
-%\clearpage
-%\input{FrontBackMatter/Abstract+Sommario}
-%\input{FrontBackMatter/Acknowledgements}
-%\pagestyle{scrheadings} 
-%\clearpage
-%\input{FrontBackMatter/Contents}
-%\cleardoublepage
-%%******************************************************************
-%% Mainmatter
-%%******************************************************************
-%\pagenumbering{arabic}
-%\input{Chapters/Introduction}
-%%\\input{Chapters/Publications}
-%\input{Chapters/Discussion}
-%%\input{Chapters/Code}
-%% *****************************************************************
-%% Backmatter
-%%******************************************************************
-%\clearpage
-%
-%\input{FrontBackMatter/Bibliography}
-%
-%\clearpage
-%%\input{FrontBackMatter/Index}
-%\end{document}%
-
-
 \documentclass[a4paper,twoside,openright,titlepage,
                headinclude,footinclude,BCOR=15mm,
                numbers=noenddot,cleardoublepage=empty,
-               tablecaptionabove,
-               bibliography=totoc]{scrreprt}
-
+               ]{scrreprt}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
@@ -80,7 +10,9 @@
 \usepackage{gensymb}
 % \usepackage{indentfirst}
 %\usepackage[style=philosophy-modern,hyperref]{biblatex}
-\usepackage[style=philosophy-modern,hyperref,square,natbib]{biblatex}
+%\usepackage[style=philosophy-modern,hyperref,square,natbib]{biblatex}
+\usepackage[citestyle=authoryear-icomp,bibstyle=nature, ibidtracker=false,sorting=ynt]{biblatex}
+\addbibresource{Reference.bib}
 %\usepackage{natbib}
 %\bibliographystyle{rss_no_dash}
 %\bibliography{bibliography}
@@ -96,6 +28,7 @@
 \usepackage{pifont}
 \usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing,listings]{classicthesis}
 \usepackage{arsclassica}
+\graphicspath{{graphics/}}
 
 
 \usepackage{pdfpages}
@@ -112,20 +45,24 @@
 %\hyphenation{Schil-ling}
 
 \raggedbottom
+%\begin{document}
+%dgfg
+%\end{document}
+
 
 \begin{document}
 
-%******************************************************************
-% Frontmatter
-%******************************************************************
+%%******************************************************************
+%% Frontmatter
+%%******************************************************************
 
 \pagestyle{plain}
 \pagenumbering{roman}
-
+%
 \input{sidematter/titlepage}
 \input{sidematter/titleback}
 \cleardoublepage
-
+%
 \input{sidematter/supervisor}
 \clearpage
 
@@ -148,7 +85,7 @@
 
 \pagenumbering{arabic}
 
-%\input{chapters/introduction}
+\input{chapters/introduction}
 \cleardoublepage
 
 \pagestyle{plain}
@@ -179,107 +116,5 @@
 \cleardoublepage
 %\input{sidematter/contributions}
 
+\printbibliography[heading=bibintoc]
 \end{document}
-
-% \documentclass[a4paper,twoside,openright,titlepage,
-%               headinclude,footinclude,BCOR=15mm,
-%               numbers=noenddot,cleardoublepage=empty,
-%               tablecaptionabove,
-%               bibliography=totoc]{scrreprt}
-
-% \usepackage[T1]{fontenc}
-% \usepackage[utf8]{inputenc}
-% \usepackage[english]{babel}
-% \usepackage{amsmath,amssymb}
-% \usepackage{gensymb}
-% % \usepackage{indentfirst}
-% % \usepackage[style=philosophy-modern,hyperref]{biblatex}
-% \usepackage{natbib}
-% \usepackage{chngpage}
-% \usepackage{calc}
-% \usepackage{listings}
-% \usepackage{graphicx}
-% \usepackage{subfig}
-% \usepackage{lipsum}
-% \usepackage{shapepar}
-% \usepackage{siunitx}
-% \usepackage{pifont}
-% \usepackage[eulerchapternumbers,subfig,beramono,eulermath,pdfspacing,listings]{classicthesis}
-% \usepackage{arsclassica}
-
-% \usepackage{pdfpages}
-
-% \input{thesis-settings}
-
-% \hypersetup{
-%     citecolor=Maroon,
-%     linkcolor=Maroon,
-%     pdftitle={\myTitle},
-%     pdfauthor={Aljoscha Leonhardt}
-% }
-
-% \hyphenation{Schil-ling}
-
-% \raggedbottom
-
-% \begin{document}
-
-% %******************************************************************
-% % Frontmatter
-% %******************************************************************
-
-% \pagestyle{plain}
-% \pagenumbering{roman}
-
-% \input{sidematter/titlepage}
-% \input{sidematter/titleback}
-% \cleardoublepage
-
-% \input{sidematter/supervisor}
-% \input{sidematter/summary}
-
-% \pagestyle{scrheadings}
-% % \clearscrheadfoot
-% % \ohead{\leftmark}
-
-% \input{sidematter/contents}
-% \cleardoublepage
-
-% % %******************************************************************
-% % % Chapters
-% % %******************************************************************
-
-% \pagenumbering{arabic}
-
-% \input{chapters/introduction}
-% \cleardoublepage
-
-% \pagestyle{plain}
-% \input{chapters/publications}
-% \cleardoublepage
-
-% \pagestyle{scrheadings}
-% \input{chapters/discussion}
-
-% %******************************************************************
-% % Backmatter
-% %******************************************************************
-
-% \clearpage
-% \input{chapters/bibliography}
-
-% \pagestyle{plain}
-
-% \cleardoublepage
-% \input{sidematter/acknowledgments}
-
-% \cleardoublepage
-% \input{sidematter/curriculumvitae}
-
-% \cleardoublepage
-% \input{sidematter/affidavit}
-
-% \cleardoublepage
-% \input{sidematter/contributions}
-
-% \end{document}
