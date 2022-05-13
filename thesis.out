@@ -1,13 +1,13 @@
 \BOOKMARK [0][]{Titlepage.0}{Titlepage}{}% 1
 \BOOKMARK [0][]{chapter.1}{1 Introduction}{}% 2
-\BOOKMARK [1][-]{section.1.1}{1.1 Motion Vision}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.2}{1.2 Drosophila as a model organism}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.3}{1.3 Tools for functional dissection of Drosophila neural circuits}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 GAL4-UAS / LexA-lexAop}{section.1.3}% 6
-\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Calcium Indicator : GCaMP for recording changes in intracellular calcium}{section.1.3}% 7
-\BOOKMARK [2][-]{subsection.1.3.3}{1.3.3 Voltage Indicator : Arclight for recording changes in neuronal membrane potential}{section.1.3}% 8
-\BOOKMARK [2][-]{subsection.1.3.4}{1.3.4 Suppressor : shibirets, GtACR for silencing neuron}{section.1.3}% 9
-\BOOKMARK [2][-]{subsection.1.3.5}{1.3.5 Activator : ReaChr for activating neuron}{section.1.3}% 10
+\BOOKMARK [1][-]{section.1.1}{1.1 Drosophila as a model organism}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{1.2 Tools for functional dissection of Drosophila neural circuits}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.2.1}{1.2.1 GAL4-UAS / LexA-lexAop}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.2}{1.2.2 Calcium Indicator : GCaMP for recording changes in intracellular calcium}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.3}{1.2.3 Voltage Indicator : Arclight for recording changes in neuronal membrane potential}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.4}{1.2.4 Suppressor : shibirets, GtACR for silencing neuron}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.5}{1.2.5 Activator : ReaChr for activating neuron}{section.1.2}% 9
+\BOOKMARK [1][-]{section.1.3}{1.3 Neural communication and voltage-gated ion channels in Drosophila}{chapter.1}% 10
 \BOOKMARK [1][-]{section.1.4}{1.4 Fly motion vision system}{chapter.1}% 11
 \BOOKMARK [2][-]{subsection.1.4.1}{1.4.1 Parallel ON \046 OFF processing pathways}{section.1.4}% 12
 \BOOKMARK [2][-]{subsection.1.4.2}{1.4.2 T4 \046 T5 cells}{section.1.4}% 13
