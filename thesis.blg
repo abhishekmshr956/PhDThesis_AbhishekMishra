@@ -1,66 +1,37 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'thesis.blg'
-[32] biber-darwin:313> INFO - === Fri May 13, 2022, 15:36:33
-[51] Biber.pm:371> INFO - Reading 'thesis.bcf'
-[117] Biber.pm:857> INFO - Found 59 citekeys in bib section 0
-[131] Biber.pm:3976> INFO - Processing section 0
-[141] Biber.pm:4136> INFO - Looking for bibtex format file 'Reference.bib' for section 0
-[143] bibtex.pm:1500> INFO - LaTeX decoding ...
-[160] bibtex.pm:1316> INFO - Found BibTeX data source 'Reference.bib'
-[217] Utils.pm:193> WARN - I didn't find a database entry for 'Joesch2008' (section 0)
-[217] Utils.pm:193> WARN - I didn't find a database entry for 'Baker1971' (section 0)
-[217] Utils.pm:193> WARN - I didn't find a database entry for 'Sabatini2002' (section 0)
-[217] Utils.pm:193> WARN - I didn't find a database entry for 'Egelhaaf1995' (section 0)
-[217] Utils.pm:193> WARN - I didn't find a database entry for 'Broussard2014' (section 0)
-[217] Utils.pm:193> WARN - I didn't find a database entry for 'Nagai2001' (section 0)
-[217] Utils.pm:193> WARN - I didn't find a database entry for 'Miyawaki1997' (section 0)
-[217] Utils.pm:193> WARN - I didn't find a database entry for 'Chen2013' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Jin2012' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Murata2005' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Chen1996' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Grether1995' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Sweeney1995' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Johns1999' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Toshihiro2001' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Joesch2010' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Govorunova2015' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Mauss2017' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Mohammad2017' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Lin2013' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Busch2018' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Luo2020' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Chapman2002' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Maio2008' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'Littleton2000' (section 0)
-[218] Utils.pm:193> WARN - I didn't find a database entry for 'King2007' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Fischbach1989' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Schnell2010' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Maisak2013' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'RamonyCajal1915' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Tuthill2013' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Joesch2013' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Strother2014' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Eichner2011' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Behnia2014' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Masland2012' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Buchner1984' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Schnell2012' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Bahl2013' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Shinomiya2019' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Takemura2017' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Arenz2017' (section 0)
-[219] Utils.pm:193> WARN - I didn't find a database entry for 'Serbe2016' (section 0)
-[220] Utils.pm:193> WARN - I didn't find a database entry for 'Strother2017' (section 0)
-[220] Utils.pm:193> WARN - I didn't find a database entry for 'Meier2019' (section 0)
-[220] Utils.pm:193> WARN - I didn't find a database entry for 'Borst2020' (section 0)
-[220] Utils.pm:193> WARN - I didn't find a database entry for 'Hassenstein1956' (section 0)
-[220] Utils.pm:193> WARN - I didn't find a database entry for 'Barlow1965' (section 0)
-[220] Utils.pm:193> WARN - I didn't find a database entry for 'Haag2016a' (section 0)
-[220] Utils.pm:193> WARN - I didn't find a database entry for 'Haag2017' (section 0)
-[237] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[237] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[237] Biber.pm:3804> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
-[238] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[248] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[258] bbl.pm:720> INFO - Output to thesis.bbl
-[258] Biber.pm:110> INFO - WARNINGS: 50
+[43] biber-darwin:313> INFO - === Tue May 24, 2022, 12:15:12
+[72] Biber.pm:371> INFO - Reading 'thesis.bcf'
+[184] Biber.pm:857> INFO - Found 68 citekeys in bib section 0
+[202] Biber.pm:3976> INFO - Processing section 0
+[217] Biber.pm:4136> INFO - Looking for bibtex format file 'Reference.bib' for section 0
+[222] bibtex.pm:1500> INFO - LaTeX decoding ...
+[344] bibtex.pm:1316> INFO - Found BibTeX data source 'Reference.bib'
+[807] Utils.pm:193> WARN - month field 'nov' in entry 'RamonyCajal1915' is not an integer - this will probably not sort properly.
+[810] Utils.pm:193> WARN - I didn't find a database entry for 'Tuthill2013' (section 0)
+[810] Utils.pm:193> WARN - I didn't find a database entry for 'Joesch2013' (section 0)
+[810] Utils.pm:193> WARN - I didn't find a database entry for 'Strother2014' (section 0)
+[810] Utils.pm:193> WARN - I didn't find a database entry for 'Eichner2011' (section 0)
+[810] Utils.pm:193> WARN - I didn't find a database entry for 'Behnia2014' (section 0)
+[811] Utils.pm:193> WARN - I didn't find a database entry for 'Masland2012' (section 0)
+[811] Utils.pm:193> WARN - I didn't find a database entry for 'Buchner1984' (section 0)
+[811] Utils.pm:193> WARN - I didn't find a database entry for 'Schnell2012' (section 0)
+[811] Utils.pm:193> WARN - I didn't find a database entry for 'Bahl2013' (section 0)
+[811] Utils.pm:193> WARN - I didn't find a database entry for 'Shinomiya2019' (section 0)
+[811] Utils.pm:193> WARN - I didn't find a database entry for 'Takemura2017' (section 0)
+[811] Utils.pm:193> WARN - I didn't find a database entry for 'Arenz2017' (section 0)
+[811] Utils.pm:193> WARN - I didn't find a database entry for 'Serbe2016' (section 0)
+[811] Utils.pm:193> WARN - I didn't find a database entry for 'Strother2017' (section 0)
+[812] Utils.pm:193> WARN - I didn't find a database entry for 'Meier2019' (section 0)
+[812] Utils.pm:193> WARN - I didn't find a database entry for 'Borst2020' (section 0)
+[812] Utils.pm:193> WARN - I didn't find a database entry for 'Hassenstein1956' (section 0)
+[812] Utils.pm:193> WARN - I didn't find a database entry for 'Barlow1965' (section 0)
+[812] Utils.pm:193> WARN - I didn't find a database entry for 'Haag2016a' (section 0)
+[812] Utils.pm:193> WARN - I didn't find a database entry for 'Haag2017' (section 0)
+[908] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[909] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[909] Biber.pm:3804> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[909] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[986] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[1055] bbl.pm:720> INFO - Output to thesis.bbl
+[1055] Biber.pm:110> INFO - WARNINGS: 21

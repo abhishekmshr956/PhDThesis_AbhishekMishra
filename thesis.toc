@@ -7,12 +7,23 @@
 \contentsline {subsection}{\numberline {1.2.1}{GAL4-UAS / LexA-lexAop}}{1}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}{Calcium Indicator : GCaMP for recording changes in intracellular calcium}}{2}{subsection.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}{Voltage Indicator : Arclight for recording changes in neuronal membrane potential}}{2}{subsection.1.2.3}
-\contentsline {subsection}{\numberline {1.2.4}{Suppressor : $shibire^{ts}$, GtACR for silencing neuron}}{3}{subsection.1.2.4}
-\contentsline {subsection}{\numberline {1.2.5}{Activator : ReaChr for activating neuron}}{4}{subsection.1.2.5}
-\contentsline {section}{\numberline {1.3}{Neural communication and voltage-gated ion channels in \textit {Drosophila}}}{4}{section.1.3}
-\contentsline {section}{\numberline {1.4}{Fly motion vision system}}{5}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}{Parallel ON \& OFF processing pathways}}{6}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}{T4 \& T5 cells}}{6}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}{Neural circuit underlying direction selectivity}}{7}{section.1.5}
-\contentsline {section}{\numberline {1.6}{Neural algorithm underlying direction selectivity}}{8}{section.1.6}
-\contentsline {chapter}{{Bibliography}}{13}{section.1.6}
+\contentsline {subsection}{\numberline {1.2.4}{Suppressor : $shibire^{ts}$, GtACR for silencing neuron}}{4}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}{Activator : ReaChr for activating neuron}}{5}{subsection.1.2.5}
+\contentsline {section}{\numberline {1.3}{Neural communication}}{5}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}{Electrical synapses}}{5}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}{Chemical synapses}}{6}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}{Voltage-gated ion channels}}{6}{subsection.1.3.3}
+\contentsline {paragraph}{{Voltage-gated calcium channels}}{6}{subsection.1.3.3}
+\contentsline {paragraph}{{Voltage-gated sodium channels}}{6}{subsection.1.3.3}
+\contentsline {paragraph}{{Voltage-gated potassium channels}}{8}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}{Fly motion vision system}}{8}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}{Parallel ON \& OFF processing pathways}}{10}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}{T4 \& T5 cells}}{11}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}{Neural circuit underlying direction selectivity}}{11}{section.1.5}
+\contentsline {section}{\numberline {1.6}{Neural algorithm underlying direction selectivity}}{13}{section.1.6}
+\contentsline {chapter}{\numberline {2}{Publications}}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}{A common directional tuning mechanism of \textit {Drosophila} motion-sensing neurons in the ON and in the OFF pathway}}{15}{section.2.1}
+\contentsline {paragraph}{{Abstract}}{15}{section.2.1}
+\contentsline {paragraph}{{Authors}}{15}{section.2.1}
+\contentsline {paragraph}{{Contributions}}{15}{section.2.1}
+\contentsline {chapter}{{Bibliography}}{33}{section.2.1}

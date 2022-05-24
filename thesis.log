@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  13 MAY 2022 15:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  24 MAY 2022 12:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1466,13 +1466,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Baker1971
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Barlow1965
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1494,13 +1487,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Broussard2014
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Buchner1984
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -1508,63 +1494,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Busch2018
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Chapman2002
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Chen1996
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Chen2013
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Egelhaaf1995
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Eichner2011
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Fischbach1989
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Govorunova2015
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Grether1995
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1592,77 +1522,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Jin2012
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Joesch2008
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Joesch2010
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Joesch2013
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Johns1999
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                King2007
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Lin2013
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Littleton2000
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Luo2020
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Maio2008
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Maisak2013
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1676,63 +1536,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Mauss2017
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Meier2019
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Miyawaki1997
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Mohammad2017
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Murata2005
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Nagai2001
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                RamonyCajal1915
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Sabatini2002
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Schnell2010
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -1774,21 +1578,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                Sweeney1995
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                Takemura2017
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                Toshihiro2001
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -2044,12 +1834,12 @@ LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 17.62912pt on input line 14.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 10.20007pt on input line 14.
-<graphics/Siegel_LMU.pdf, id=67, 569.65723pt x 579.11253pt>
+<graphics/Siegel_LMU.pdf, id=87, 569.65723pt x 579.11253pt>
 File: graphics/Siegel_LMU.pdf Graphic file (type pdf)
 <use graphics/Siegel_LMU.pdf>
 Package pdftex.def Info: graphics/Siegel_LMU.pdf  used on input line 24.
 (pdftex.def)             Requested size: 142.26378pt x 144.62755pt.
-<graphics/GSN_Logo_2.jpg, id=68, 853.5087pt x 332.9238pt>
+<graphics/GSN_Logo_2.jpg, id=88, 853.5087pt x 332.9238pt>
 File: graphics/GSN_Logo_2.jpg Graphic file (type jpg)
 <use graphics/GSN_Logo_2.jpg>
 Package pdftex.def Info: graphics/GSN_Logo_2.jpg  used on input line 31.
@@ -2089,9 +1879,9 @@ Overfull \hbox (15.93086pt too wide) in paragraph at lines 10--10
  []
 
 
-Overfull \hbox (59.34833pt too wide) in paragraph at lines 12--12
- [][] []\T1/pplj/m/n/10.95 Neural com-mu-ni-ca-tion and voltage-gated ion chan-
-nels in \T1/pplj/m/it/10.95 Drosophila []  
+Overfull \hbox (3.48628pt too wide) in paragraph at lines 25--25
+ [][] []\T1/pplj/m/n/10.95 A com-mon di-rec-tional tun-ing mech-a-nism of \T1/p
+plj/m/it/10.95 Drosophila \T1/pplj/m/n/10.95 motion- 
  []
 
 )
@@ -2101,9 +1891,15 @@ nels in \T1/pplj/m/it/10.95 Drosophila []
 Package tocbasic Info: character protrusion at lof deactivated on input line 27
 .
  (./thesis.lof
-Overfull \hbox (41.16495pt too wide) in paragraph at lines 7--7
+Overfull \hbox (38.42746pt too wide) in paragraph at lines 7--7
  [][] []\T1/pplj/m/n/10.95 Genetic tools for func-tional ma-nip-u-la-tions in \
-T1/pplj/m/it/10.95 Drosophila\T1/pplj/m/n/10.95 . []  
+T1/pplj/m/it/10.95 Drosophila []  
+ []
+
+
+Overfull \hbox (10.13268pt too wide) in paragraph at lines 8--8
+ [][] []\T1/pplj/m/n/10.95 Chemical synapse: steps of synap-tic trans-mis-sion 
+[]  
  []
 
 )
@@ -2135,7 +1931,7 @@ Package microtype Info: Character `029' is missing
 
 
 ]
-<graphics/gal4uasfigure.pdf, id=169, 567.31952pt x 699.7511pt>
+<graphics/gal4uasfigure.pdf, id=197, 567.31952pt x 699.7511pt>
 File: graphics/gal4uasfigure.pdf Graphic file (type pdf)
 <use graphics/gal4uasfigure.pdf>
 Package pdftex.def Info: graphics/gal4uasfigure.pdf  used on input line 24.
@@ -2149,18 +1945,16 @@ LaTeX Font Info:    Font shape `T1/iwona/bx/n' in size <10> not available
 (Font)              Font shape `T1/iwona/b/n' tried instead on input line 25.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 6.46004pt on input line 25.
+[2]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/iwona/m/sc/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pplj/b/n' tried instead on input line 29.
-
-Overfull \hbox (8.0811pt too wide) in paragraph at lines 31--32
-[]\T1/pplj/m/n/10.95 Neural ac-tiv-ity causes rapid changes in in-tra-cel-lu-la
-r free calcium([];
+Overfull \hbox (3.41249pt too wide) has occurred while \output is active
+ []|[]|
  []
 
-[2]
+[3 <./graphics/gal4uasfigure.pdf>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 38.
@@ -2173,118 +1967,399 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 38.
 
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/iwona/m/sc/10.95'.
-(microtype)             Ignoring protrusion settings for this character.
-
-Overfull \hbox (3.41249pt too wide) has occurred while \output is active
- []|[]|
- []
-
-[3]
+[4]
 Overfull \hbox (3.91928pt too wide) in paragraph at lines 49--50
 []\T1/pplj/m/n/10.95 Therefore by com-bin-ing the use of GCaMP for cal-cium ima
 g-ing and GtACR
  []
 
-[4]
-Overfull \hbox (0.16417pt too wide) in paragraph at lines 59--60
+[5]
+<graphics/Chemical_Synapse.pdf, id=290, 903.375pt x 758.835pt>
+File: graphics/Chemical_Synapse.pdf Graphic file (type pdf)
+<use graphics/Chemical_Synapse.pdf>
+Package pdftex.def Info: graphics/Chemical_Synapse.pdf  used on input line 66.
+(pdftex.def)             Requested size: 451.6864pt x 379.41658pt.
+
+Overfull \hbox (55.65361pt too wide) in paragraph at lines 65--67
+ []|  [] 
+ []
+
+[6] [7 <./graphics/Chemical_Synapse.pdf>]
+<graphics/voltagegatedionchannels.pdf, id=338, 485.6544pt x 154.35529pt>
+File: graphics/voltagegatedionchannels.pdf Graphic file (type pdf)
+<use graphics/voltagegatedionchannels.pdf>
+Package pdftex.def Info: graphics/voltagegatedionchannels.pdf  used on input li
+ne 86.
+(pdftex.def)             Requested size: 412.80818pt x 131.20259pt.
+
+Overfull \hbox (16.77539pt too wide) in paragraph at lines 85--87
+ []|  [] 
+ []
+
+
+Overfull \hbox (0.16417pt too wide) in paragraph at lines 93--94
 \T1/pplj/m/it/10.95 Drosophila \T1/pplj/m/n/10.95 vi-sual pro-cess-ing path-way
  is com-prised of retina, lam-ina, medulla,
  []
 
-[5]
-<graphics/flyopticlobe1.png, id=197, 1359.0775pt x 1461.46pt>
-File: graphics/flyopticlobe1.png Graphic file (type png)
-<use graphics/flyopticlobe1.png>
-Package pdftex.def Info: graphics/flyopticlobe1.png  used on input line 71.
-(pdftex.def)             Requested size: 407.7264pt x 438.44139pt.
+<graphics/fly_optic_lobe.pdf, id=344, 599.84097pt x 551.85873pt>
+File: graphics/fly_optic_lobe.pdf Graphic file (type pdf)
+<use graphics/fly_optic_lobe.pdf>
+Package pdftex.def Info: graphics/fly_optic_lobe.pdf  used on input line 98.
+(pdftex.def)             Requested size: 509.86722pt x 469.08212pt.
 
-Overfull \hbox (37.7264pt too wide) in paragraph at lines 71--72
- [][] 
+Overfull \hbox (113.83443pt too wide) in paragraph at lines 97--99
+ []|  [] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<graphics/flyopticlobe.jpg, id=198, 494.3268pt x 482.32999pt>
-File: graphics/flyopticlobe.jpg Graphic file (type jpg)
-<use graphics/flyopticlobe.jpg>
-Package pdftex.def Info: graphics/flyopticlobe.jpg  used on input line 78.
-(pdftex.def)             Requested size: 395.46196pt x 385.86452pt.
-
-Overfull \hbox (25.46196pt too wide) in paragraph at lines 78--79
- [][] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6]
-<graphics/t4t5inputsynapses.jpg, id=206, 2367.84625pt x 1466.47874pt>
+[8 <./graphics/voltagegatedionchannels.pdf>] [9 <./graphics/fly_optic_lobe.pdf>
+]
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 105.
+ [10] [11]
+<graphics/t4t5inputsynapses.jpg, id=428, 2367.84625pt x 1466.47874pt>
 File: graphics/t4t5inputsynapses.jpg Graphic file (type jpg)
 <use graphics/t4t5inputsynapses.jpg>
-Package pdftex.def Info: graphics/t4t5inputsynapses.jpg  used on input line 94.
-
+Package pdftex.def Info: graphics/t4t5inputsynapses.jpg  used on input line 123
+.
 (pdftex.def)             Requested size: 473.56087pt x 293.29056pt.
 
-Overfull \hbox (103.56087pt too wide) in paragraph at lines 94--95
+Overfull \hbox (103.56087pt too wide) in paragraph at lines 123--124
  [][] 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (32.51044pt too wide) in paragraph at lines 99--100
+Overfull \hbox (32.51044pt too wide) in paragraph at lines 128--129
 []\T1/pplj/m/n/10.95 Most of these in-put el-e-ments have been char-ac-terised 
 phys-i-o-log-i-cally ([];
  []
 
 
-Overfull \hbox (4.0428pt too wide) in paragraph at lines 101--101
+Overfull \hbox (4.0428pt too wide) in paragraph at lines 130--130
 |[]\T1/iwona/m/sc/14.4/80ls neural al-go-rithm un-der-ly-ing di-rec-tion se-lec
 - 
  []
 
 
-Overfull \hbox (31.08698pt too wide) in paragraph at lines 102--103
+Overfull \hbox (31.08698pt too wide) in paragraph at lines 131--132
 \T1/pplj/m/n/10.95 ing mul-ti-pli-ca-tion of the sig-nal from the other in-put 
 line [\T1/pplj/b/n/10.95 Figure\T1/pplj/m/n/10.95 ]([]).
  []
 
-[7]) [8] [9 <./graphics/gal4uasfigure.pdf>] [10 <./graphics/flyopticlobe1.png>]
-[11 <./graphics/flyopticlobe.jpg>] [12 <./graphics/t4t5inputsynapses.jpg>]
-Overfull \hbox (88.2939pt too wide) in paragraph at lines 120--120
-\T1/pplj/m/n/10.95 with trans-pos-able el-e-ment vec-tors. \T1/pplj/m/it/10.95 
-Sci-ence \T1/pplj/b/n/10.95 218, \T1/pplj/m/n/10.95 348^^U353 (1982). [][]doi: 
-10.1126/science.6289436[][] 
+[12 <./graphics/t4t5inputsynapses.jpg>]) [13] [14
+
+
+] (./chapters/publications.tex
+Chapter 2.
+(./chapters/Haag_Mishra_2017.tex [15
+
+
+] [16
+
+
+]
+<papers/Haag_Mishra_2017.pdf, id=450, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf  used on input line 25.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf  used on input line 25.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<papers/Haag_Mishra_2017.pdf, id=453, page=1, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 1>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page1 used on input line
+ 25.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 1>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page1 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 1>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page1 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 1>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page1 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 1>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page1 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+ [17 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=494, page=2, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 2>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page2 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 2>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page2 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 2>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page2 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+[18 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=505, page=3, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 3>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page3 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 3>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page3 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 3>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page3 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+ [19 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=517, page=4, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 4>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page4 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 4>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page4 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 4>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page4 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+
+[20 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=524, page=5, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 5>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page5 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 5>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page5 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 5>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page5 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+ [21 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=532, page=6, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 6>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page6 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 6>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page6 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 6>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page6 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+
+[22 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=546, page=7, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 7>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page7 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 7>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page7 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 7>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page7 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+ [23 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=553, page=8, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 8>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page8 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 8>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page8 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 8>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page8 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+
+[24 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=561, page=9, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 9>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page9 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 9>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page9 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 9>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page9 used on input line
+ 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+ [25 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=570, page=10, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 10>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page10 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 10>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page10 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 10>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page10 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+
+[26 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=577, page=11, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 11>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page11 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 11>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page11 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 11>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page11 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+ [27 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=584, page=12, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 12>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page12 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 12>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page12 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 12>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page12 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+
+[28 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=594, page=13, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 13>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page13 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 13>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page13 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 13>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page13 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+ [29 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=605, page=14, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 14>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page14 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 14>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page14 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 14>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page14 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+
+[30 <./papers/Haag_Mishra_2017.pdf>]
+<papers/Haag_Mishra_2017.pdf, id=612, page=15, 614.295pt x 794.97pt>
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 15>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page15 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 15>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page15 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
+<use papers/Haag_Mishra_2017.pdf, page 15>
+Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page15 used on input lin
+e 25.
+(pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
+ [31 <./papers/Haag_Mishra_2017.pdf>])
+[32
+
+
+])
+Overfull \hbox (12.94788pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/n/10.95 de Hi-jos de Nicolás Moya, Madrid : Nov. 1915). [][]doi: 10.
+5962/bhl.title.37839[][] 
  []
 
 
-Overfull \hbox (13.31407pt too wide) in paragraph at lines 120--120
-[][]\T1/pplj/m/n/10.95 Pfeiffer, B. D. \T1/pplj/m/it/10.95 et al. \T1/pplj/m/n/
-10.95 Tools for neu-roanatomy and neu-ro-ge-net-ics in Drosophila.
+Overfull \hbox (3.70079pt too wide) in paragraph at lines 120--120
+[][]\T1/pplj/m/n/10.95 Fischbach, K.[]F. & Dit-trich, A. The op-tic lobe of Dro
+sophila melanogaster.
  []
 
 
-Overfull \hbox (51.9728pt too wide) in paragraph at lines 120--120
-\T1/pplj/m/n/10.95 malian mo-tion vi-sion. \T1/pplj/m/it/10.95 Na-ture neu-ro-s
-cience \T1/pplj/b/n/10.95 18, \T1/pplj/m/n/10.95 1067^^U1076 (2015). [][]doi: 1
-0.1038/nn.4050[][] 
+Overfull \hbox (20.74979pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/it/10.95 Jour-nal of neu-ro-phys-i-ol-ogy \T1/pplj/b/n/10.95 73, \T1
+/pplj/m/n/10.95 2540^^U2552 (1995). [][]doi: 10.1152/jn.1995.73.6.2540[][] 
  []
 
-
-Overfull \hbox (63.32793pt too wide) in paragraph at lines 120--120
-\T1/pplj/m/n/10.95 adult Drosophila melanogaster. \T1/pplj/m/it/10.95 Cell \T1/
-pplj/b/n/10.95 174, \T1/pplj/m/n/10.95 730^^U743 (2018). [][]doi: 10.1016/j.cel
-l.2018.06.019[][] 
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
-[13
-
-
+[33
 
 
 
@@ -2299,24 +2374,98 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
 
 
 ]
+Overfull \hbox (12.11026pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/it/10.95 science \T1/pplj/b/n/10.95 19, \T1/pplj/m/n/10.95 1691^^U16
+97 (1999). [][]doi: https://doi.org/10.1523/JNEUROSCI.19-
+ []
+
+
+Overfull \hbox (34.23387pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/n/10.95 anal-y-sis of the Drosophila genome. \T1/pplj/m/it/10.95 Neu
+-ron \T1/pplj/b/n/10.95 26, \T1/pplj/m/n/10.95 35^^U43 (2000). [][]doi: 10.1016
+/s0896-
+ []
+
+
+Overfull \hbox (29.17033pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/it/10.95 Na-tional Academy of Sci-ences \T1/pplj/b/n/10.95 98, \T1/p
+plj/m/n/10.95 3197^^U3202 (2001). [][]doi: 10.1073/p-nas.051636098[][] 
+ []
+
+
+Overfull \hbox (16.51213pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/it/10.95 Na-ture Re-views Molec-u-lar Cell Bi-ol-ogy \T1/pplj/b/n/10
+.95 3, \T1/pplj/m/n/10.95 498^^U508 (2002). [][]doi: 10.1038/nrm855[][] 
+ []
+
+
+Overfull \hbox (49.18048pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/n/10.95 a short re-view. \T1/pplj/m/it/10.95 Brain re-search \T1/ppl
+j/b/n/10.95 1225, \T1/pplj/m/n/10.95 26^^U38 (2008). [][]doi: 10.1016/j.brainre
+s.2008.06.016[][] 
+ []
+
+
+Overfull \hbox (33.71916pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/n/10.95 melanogaster. \T1/pplj/m/it/10.95 Cur-rent Bi-ol-ogy \T1/ppl
+j/b/n/10.95 18, \T1/pplj/m/n/10.95 368^^U374 (2008). [][]doi: 10.1016/j.cub.200
+8.02.022[][] 
+ []
+
+
+Overfull \hbox (18.78906pt too wide) in paragraph at lines 120--120
+[][]\T1/pplj/m/n/10.95 Pfeiffer, B. D. \T1/pplj/m/it/10.95 et al. \T1/pplj/m/n/
+10.95 Tools for neu-roanatomy and neu-ro-ge-net-ics in Drosophila.
+ []
+
+
+Overfull \hbox (75.0006pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/n/10.95 Drosophila brain. \T1/pplj/m/it/10.95 Jour-nal of neu-ro-phy
+s-i-ol-ogy \T1/pplj/b/n/10.95 101, \T1/pplj/m/n/10.95 42^^U53 (2009). [][]doi: 
+10.1152/jn.91103.2008[][] 
+ []
+
+[34]
+Overfull \hbox (57.44778pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/n/10.95 malian mo-tion vi-sion. \T1/pplj/m/it/10.95 Na-ture neu-ro-s
+cience \T1/pplj/b/n/10.95 18, \T1/pplj/m/n/10.95 1067^^U1076 (2015). [][]doi: 1
+0.1038/nn.4050[][] 
+ []
+
+[35]
+Overfull \hbox (68.80292pt too wide) in paragraph at lines 120--120
+\T1/pplj/m/n/10.95 adult Drosophila melanogaster. \T1/pplj/m/it/10.95 Cell \T1/
+pplj/b/n/10.95 174, \T1/pplj/m/n/10.95 730^^U743 (2018). [][]doi: 10.1016/j.cel
+l.2018.06.019[][] 
+ []
+
+
+Overfull \hbox (62.14352pt too wide) in paragraph at lines 120--120
+[][]\T1/pplj/m/n/10.95 Luo, L. \T1/pplj/m/it/10.95 Prin-ci-ples of Neu-ro-bi-ol
+-ogy \T1/pplj/m/n/10.95 (Gar-land Sci-ence, 2020). [][]doi: 10.1201/97810030539
+72[][] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 121.
+[36]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 121.
  (./thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 121.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 121.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: B9A743F407218847FFFE7154FD3CB1E1;1458.
+(rerunfilecheck)             Checksum: 92E49F2A0B739548ECA636F3FC80547F;1862.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34911 strings out of 492649
- 676084 string characters out of 6129622
- 1347195 words of memory out of 5000000
- 38199 multiletter control sequences out of 15000+600000
- 657952 words of font info for 171 fonts, out of 8000000 for 9000
+ 35231 strings out of 492649
+ 684458 string characters out of 6129622
+ 1348156 words of memory out of 5000000
+ 38439 multiletter control sequences out of 15000+600000
+ 664159 words of font info for 175 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,22n,91p,10376b,2115s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,22n,93p,10376b,2125s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2018/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/local/texlive/2
 018/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc}</usr/local/texlive/2018/t
@@ -2336,10 +2485,10 @@ i/iwona/iwonari.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatin
 o/uplb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8
 a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 
-Output written on thesis.pdf (19 pages, 4959915 bytes).
+Output written on thesis.pdf (42 pages, 11543779 bytes).
 PDF statistics:
- 336 PDF objects out of 1000 (max. 8388607)
- 274 compressed objects within 3 object streams
- 50 named destinations out of 1000 (max. 500000)
- 27295 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 791 PDF objects out of 1000 (max. 8388607)
+ 629 compressed objects within 7 object streams
+ 118 named destinations out of 1000 (max. 500000)
+ 28454 words of extra memory for PDF output out of 29859 (max. 10000000)
 
