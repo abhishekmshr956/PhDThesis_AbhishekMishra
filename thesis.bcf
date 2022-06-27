@@ -139,7 +139,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
@@ -2039,24 +2039,28 @@
     <bcf:citekey order="45">Masland2012</bcf:citekey>
     <bcf:citekey order="46">Borst2015</bcf:citekey>
     <bcf:citekey order="47">Joesch2010</bcf:citekey>
-    <bcf:citekey order="48">Fischbach1989</bcf:citekey>
-    <bcf:citekey order="48">Buchner1984</bcf:citekey>
-    <bcf:citekey order="49">Maisak2013</bcf:citekey>
-    <bcf:citekey order="50">Schnell2012</bcf:citekey>
-    <bcf:citekey order="51">Bahl2013</bcf:citekey>
-    <bcf:citekey order="52">Maisak2013</bcf:citekey>
-    <bcf:citekey order="53">Shinomiya2019</bcf:citekey>
-    <bcf:citekey order="53">Takemura2017</bcf:citekey>
-    <bcf:citekey order="54">Shinomiya2019</bcf:citekey>
-    <bcf:citekey order="55">Arenz2017</bcf:citekey>
-    <bcf:citekey order="55">Serbe2016</bcf:citekey>
-    <bcf:citekey order="55">Strother2017</bcf:citekey>
-    <bcf:citekey order="55">Meier2019</bcf:citekey>
-    <bcf:citekey order="55">Borst2020</bcf:citekey>
-    <bcf:citekey order="56">Hassenstein1956</bcf:citekey>
-    <bcf:citekey order="57">Barlow1965</bcf:citekey>
-    <bcf:citekey order="58">Haag2016a</bcf:citekey>
-    <bcf:citekey order="59">Haag2017</bcf:citekey>
+    <bcf:citekey order="48">Clark2011</bcf:citekey>
+    <bcf:citekey order="48">Maisak2013</bcf:citekey>
+    <bcf:citekey order="49">Tuthill2013</bcf:citekey>
+    <bcf:citekey order="49">Bahl2013</bcf:citekey>
+    <bcf:citekey order="50">Fischbach1989</bcf:citekey>
+    <bcf:citekey order="50">Buchner1984</bcf:citekey>
+    <bcf:citekey order="51">Maisak2013</bcf:citekey>
+    <bcf:citekey order="52">Schnell2012</bcf:citekey>
+    <bcf:citekey order="53">Bahl2013</bcf:citekey>
+    <bcf:citekey order="54">Maisak2013</bcf:citekey>
+    <bcf:citekey order="55">Shinomiya2019</bcf:citekey>
+    <bcf:citekey order="55">Takemura2017</bcf:citekey>
+    <bcf:citekey order="56">Shinomiya2019</bcf:citekey>
+    <bcf:citekey order="57">Arenz2017</bcf:citekey>
+    <bcf:citekey order="57">Serbe2016</bcf:citekey>
+    <bcf:citekey order="57">Strother2017</bcf:citekey>
+    <bcf:citekey order="57">Meier2019</bcf:citekey>
+    <bcf:citekey order="57">Borst2020</bcf:citekey>
+    <bcf:citekey order="58">Hassenstein1956</bcf:citekey>
+    <bcf:citekey order="59">Barlow1965</bcf:citekey>
+    <bcf:citekey order="60">Haag2016a</bcf:citekey>
+    <bcf:citekey order="61">Haag2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">
