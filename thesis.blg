@@ -1,28 +1,17 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'thesis.blg'
-[29] biber-darwin:313> INFO - === Mon Jun 27, 2022, 14:18:56
-[48] Biber.pm:371> INFO - Reading 'thesis.bcf'
-[119] Biber.pm:857> INFO - Found 69 citekeys in bib section 0
-[131] Biber.pm:3976> INFO - Processing section 0
-[140] Biber.pm:4136> INFO - Looking for bibtex format file 'Reference.bib' for section 0
+[30] biber-darwin:313> INFO - === Wed Jun 29, 2022, 16:24:55
+[51] Biber.pm:371> INFO - Reading 'thesis.bcf'
+[115] Biber.pm:857> INFO - Found 70 citekeys in bib section 0
+[126] Biber.pm:3976> INFO - Processing section 0
+[138] Biber.pm:4136> INFO - Looking for bibtex format file 'Reference.bib' for section 0
 [143] bibtex.pm:1500> INFO - LaTeX decoding ...
-[245] bibtex.pm:1316> INFO - Found BibTeX data source 'Reference.bib'
-[567] Utils.pm:193> WARN - month field 'nov' in entry 'RamonyCajal1915' is not an integer - this will probably not sort properly.
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Shinomiya2019' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Takemura2017' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Arenz2017' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Serbe2016' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Strother2017' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Meier2019' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Borst2020' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Hassenstein1956' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Barlow1965' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Haag2016a' (section 0)
-[632] Utils.pm:193> WARN - I didn't find a database entry for 'Haag2017' (section 0)
-[698] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[698] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[698] Biber.pm:3804> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
-[698] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[754] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[807] bbl.pm:720> INFO - Output to thesis.bbl
-[807] Biber.pm:110> INFO - WARNINGS: 12
+[254] bibtex.pm:1316> INFO - Found BibTeX data source 'Reference.bib'
+[568] Utils.pm:193> WARN - month field 'nov' in entry 'RamonyCajal1915' is not an integer - this will probably not sort properly.
+[809] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[809] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[809] Biber.pm:3804> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[809] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[892] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[954] bbl.pm:720> INFO - Output to thesis.bbl
+[955] Biber.pm:110> INFO - WARNINGS: 1
