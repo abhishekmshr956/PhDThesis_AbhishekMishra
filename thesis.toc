@@ -32,4 +32,8 @@
 \contentsline {paragraph}{{Abstract}}{33}{section.2.2}
 \contentsline {paragraph}{{Authors}}{33}{section.2.2}
 \contentsline {paragraph}{{Contributions}}{33}{section.2.2}
-\contentsline {chapter}{{Bibliography}}{51}{section.2.2}
+\contentsline {chapter}{\numberline {3}{Discussion}}{51}{chapter.3}
+\contentsline {section}{\numberline {3.1}{Effect of voltage to calcium transformation on T4 output signals}}{51}{section.3.1}
+\contentsline {section}{\numberline {3.2}{Differential expression of voltage-gated calcium channels}}{52}{section.3.2}
+\contentsline {section}{\numberline {3.3}{Comparison between fly and mammalian motion vision}}{52}{section.3.3}
+\contentsline {chapter}{{Bibliography}}{53}{section.3.3}
