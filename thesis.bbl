@@ -441,6 +441,39 @@
       \field{pages}{441\bibrangedash 475}
       \range{pages}{35}
     \endentry
+    \entry{Hardie1989}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=94b9736c78d8425590ca60683ef026b1}{%
+           family={Hardie},
+           familyi={H\bibinitperiod},
+           given={Roger\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{94b9736c78d8425590ca60683ef026b1}
+      \strng{fullhash}{94b9736c78d8425590ca60683ef026b1}
+      \strng{bibnamehash}{94b9736c78d8425590ca60683ef026b1}
+      \strng{authorbibnamehash}{94b9736c78d8425590ca60683ef026b1}
+      \strng{authornamehash}{94b9736c78d8425590ca60683ef026b1}
+      \strng{authorfullhash}{94b9736c78d8425590ca60683ef026b1}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/339704a0}{doi: 10.1038/339704a0}}
+      \field{journaltitle}{Nature}
+      \field{number}{6227}
+      \field{title}{A histamine-activated chloride channel involved in neurotransmission at a photoreceptor synapse}
+      \field{volume}{339}
+      \field{year}{1989}
+      \field{pages}{704\bibrangedash 706}
+      \range{pages}{3}
+    \endentry
     \entry{Covarrubias1991}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=5bc91ea277e2a9f48bde96a401042fc9}{%
@@ -620,6 +653,95 @@
       \field{year}{1995}
       \field{pages}{1694\bibrangedash 1708}
       \range{pages}{15}
+    \endentry
+    \entry{Masu1995}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=187a951bca81080355ec14176fdcdbc1}{%
+           family={Masu},
+           familyi={M\bibinitperiod},
+           given={Masayuki},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a6e42ef9e3ad59f2758871c8950c9de5}{%
+           family={Iwakabe},
+           familyi={I\bibinitperiod},
+           given={Hideki},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f04946789f7b9edd3f222b4b32951521}{%
+           family={Tagawa},
+           familyi={T\bibinitperiod},
+           given={Yoshiaki},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=70aa774a3b26197e4ab8f9b26cad23ea}{%
+           family={Miyoshi},
+           familyi={M\bibinitperiod},
+           given={Tomomitsu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1d0476d756f87caec7d3fea27dc20980}{%
+           family={Yamashita},
+           familyi={Y\bibinitperiod},
+           given={Masayuki},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe5f9cbc1305ef24cbebe60673e5d60e}{%
+           family={Fukuda},
+           familyi={F\bibinitperiod},
+           given={Yutaka},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=14f78a3be488c3047f3d958b07f666fd}{%
+           family={Sasaki},
+           familyi={S\bibinitperiod},
+           given={Hitoshi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=95ca6cb44fc509ae098216c5435b3d91}{%
+           family={Hiroi},
+           familyi={H\bibinitperiod},
+           given={Kano},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8a14b8a2246b31ecb3e44562ea966ac5}{%
+           family={Nakamura},
+           familyi={N\bibinitperiod},
+           given={Yasuhisa},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=44c2760d918a4f1d8317688a223da39e}{%
+           family={Shigemoto},
+           familyi={S\bibinitperiod},
+           given={Ryuichi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5bcd11bae5adcacb47227491ba28453d}
+      \strng{fullhash}{caedf82e087e9d2db737947c9e1846d2}
+      \strng{bibnamehash}{5bcd11bae5adcacb47227491ba28453d}
+      \strng{authorbibnamehash}{5bcd11bae5adcacb47227491ba28453d}
+      \strng{authornamehash}{5bcd11bae5adcacb47227491ba28453d}
+      \strng{authorfullhash}{caedf82e087e9d2db737947c9e1846d2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/0092-8674(95)90354-2}{doi: 10.1016/0092-8674(95)90354-2}}
+      \field{journaltitle}{Cell}
+      \field{number}{5}
+      \field{title}{Specific deficit of the ON response in visual transmission by targeted disruption of the mGIuR6 gene}
+      \field{volume}{80}
+      \field{year}{1995}
+      \field{pages}{757\bibrangedash 765}
+      \range{pages}{9}
     \endentry
     \entry{Sweeney1995}{article}{}
       \name{author}{5}{}{%
@@ -1490,6 +1612,51 @@
       \field{year}{2008}
       \field{pages}{9715\bibrangedash 9720}
       \range{pages}{6}
+    \endentry
+    \entry{Takemura2008}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=be016b8df459a3dbb2f2c533050df070}{%
+           family={Takemura},
+           familyi={T\bibinitperiod},
+           given={Shin-ya},
+           giveni={S\bibinithyphendelim y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=093d54edf4a2751500a727fb6b155547}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Zhiyuan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ce3e84ebda3ecd6c938deed9b999d989}{%
+           family={Meinertzhagen},
+           familyi={M\bibinitperiod},
+           given={Ian\bibnamedelima A},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{579565cf92ce7fc9b3a957bb7f652c23}
+      \strng{fullhash}{9dfdd6ba7e3590d6e7685b2e5bd2018b}
+      \strng{bibnamehash}{9dfdd6ba7e3590d6e7685b2e5bd2018b}
+      \strng{authorbibnamehash}{9dfdd6ba7e3590d6e7685b2e5bd2018b}
+      \strng{authornamehash}{579565cf92ce7fc9b3a957bb7f652c23}
+      \strng{authorfullhash}{9dfdd6ba7e3590d6e7685b2e5bd2018b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1002/cne.21757}{doi: 10.1002/cne.21757}}
+      \field{journaltitle}{Journal of Comparative Neurology}
+      \field{number}{5}
+      \field{title}{Synaptic circuits of the Drosophila optic lobe: the input terminals to the medulla}
+      \field{volume}{509}
+      \field{year}{2008}
+      \field{pages}{493\bibrangedash 513}
+      \range{pages}{21}
     \endentry
     \entry{Borst2009}{article}{}
       \name{author}{1}{}{%
@@ -2628,6 +2795,102 @@
       \field{pages}{97}
       \range{pages}{1}
     \endentry
+    \entry{Euler2014}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=81e00b6d0cfcc83b3d496d8f4380586c}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a74894712059310335b435f55d55ecd7}{%
+           family={Haverkamp},
+           familyi={H\bibinitperiod},
+           given={Silke},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=aca70d1832b994445e79f47dfa12cf57}{%
+           family={Schubert},
+           familyi={S\bibinitperiod},
+           given={Timm},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3502c3b40a59d847e7d9723a01cc8230}{%
+           family={Baden},
+           familyi={B\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{640ee25a9b8f319c5dc13d2d4177a4b7}
+      \strng{fullhash}{25cee0cb43f9ce9ecf33bf4f16d913e8}
+      \strng{bibnamehash}{25cee0cb43f9ce9ecf33bf4f16d913e8}
+      \strng{authorbibnamehash}{25cee0cb43f9ce9ecf33bf4f16d913e8}
+      \strng{authornamehash}{640ee25a9b8f319c5dc13d2d4177a4b7}
+      \strng{authorfullhash}{25cee0cb43f9ce9ecf33bf4f16d913e8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/nrn3783}{doi: 10.1038/nrn3783}}
+      \field{journaltitle}{Nature Reviews Neuroscience}
+      \field{number}{8}
+      \field{title}{Retinal bipolar cells: elementary building blocks of vision}
+      \field{volume}{15}
+      \field{year}{2014}
+      \field{pages}{507\bibrangedash 519}
+      \range{pages}{13}
+    \endentry
+    \entry{Gjorgjieva2014}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=557194da12763243440e9402d4ffaf30}{%
+           family={Gjorgjieva},
+           familyi={G\bibinitperiod},
+           given={Julijana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ed8f7756b26934dfcef286998c88ac0a}{%
+           family={Sompolinsky},
+           familyi={S\bibinitperiod},
+           given={Haim},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=828934cf1fc78e77680a2a2e7651665a}{%
+           family={Meister},
+           familyi={M\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Soc Neuroscience}%
+      }
+      \strng{namehash}{140c8cee03b998cac43107b2010fdbe4}
+      \strng{fullhash}{b924ccaca46141a1ac870479fe50e6c0}
+      \strng{bibnamehash}{b924ccaca46141a1ac870479fe50e6c0}
+      \strng{authorbibnamehash}{b924ccaca46141a1ac870479fe50e6c0}
+      \strng{authornamehash}{140c8cee03b998cac43107b2010fdbe4}
+      \strng{authorfullhash}{b924ccaca46141a1ac870479fe50e6c0}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.1032-14.2014}{doi: 10.1523/JNEUROSCI.1032-14.2014}}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{number}{36}
+      \field{title}{Benefits of pathway splitting in sensory coding}
+      \field{volume}{34}
+      \field{year}{2014}
+      \field{pages}{12127\bibrangedash 12144}
+      \range{pages}{18}
+    \endentry
     \entry{Mauss2014}{article}{}
       \name{author}{4}{}{%
         {{uniquename=0,uniquepart=base,hash=c4c0c4c56ef146dc21bac1317bfc7c14}{%
@@ -3629,6 +3892,80 @@
       \field{pages}{1545\bibrangedash 1550}
       \range{pages}{6}
     \endentry
+    \entry{Molina2019}{article}{}
+      \name{author}{8}{}{%
+        {{uniquename=0,uniquepart=base,hash=7580588ccb8655fa1b2f08a680aa83c1}{%
+           family={Molina-Obando},
+           familyi={M\bibinithyphendelim O\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ae6a7c21d19b7f576ec02c6cb618eec2}{%
+           family={Vargas-Fique},
+           familyi={V\bibinithyphendelim F\bibinitperiod},
+           given={Juan\bibnamedelima Felipe},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2ad870b254e8231d12d9e1f35f03e949}{%
+           family={Henning},
+           familyi={H\bibinitperiod},
+           given={Miriam},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d4eea43e4341a1106a38efdc06f5b6ed}{%
+           family={G{ü}r},
+           familyi={G\bibinitperiod},
+           given={Burak},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5fb09f96d61b58a081fb5b74b73b99c3}{%
+           family={Schladt},
+           familyi={S\bibinitperiod},
+           given={T\bibnamedelima Moritz},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=da23eed2f8920d3dd9a6ea354355b0c1}{%
+           family={Akhtar},
+           familyi={A\bibinitperiod},
+           given={Junaid},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c21f9122d1b4110af10353489d77470d}{%
+           family={Berger},
+           familyi={B\bibinitperiod},
+           given={Thomas\bibnamedelima K},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ddd9dae990952185e8e53cdcb959fb7a}{%
+           family={Silies},
+           familyi={S\bibinitperiod},
+           given={Marion},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {eLife Sciences Publications Limited}%
+      }
+      \strng{namehash}{c98df40c411ac8d8318a0c3040c8d729}
+      \strng{fullhash}{1f3d781d11260db5b6c5b43b97fd9407}
+      \strng{bibnamehash}{c98df40c411ac8d8318a0c3040c8d729}
+      \strng{authorbibnamehash}{c98df40c411ac8d8318a0c3040c8d729}
+      \strng{authornamehash}{c98df40c411ac8d8318a0c3040c8d729}
+      \strng{authorfullhash}{1f3d781d11260db5b6c5b43b97fd9407}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.49373}{doi: 10.7554/eLife.49373}}
+      \field{journaltitle}{Elife}
+      \field{title}{ON selectivity in the Drosophila visual system is a multisynaptic process involving both glutamatergic and GABAergic inhibition}
+      \field{volume}{8}
+      \field{year}{2019}
+      \field{pages}{e49373}
+      \range{pages}{-1}
+    \endentry
     \entry{Piggott2019}{article}{}
       \name{author}{7}{}{%
         {{uniquename=0,uniquepart=base,hash=690fd7513a795ea1c932481143a1a8e9}{%
@@ -3818,6 +4155,7 @@
       \strng{authorfullhash}{5b61bbead9c0723af6e7581df4260299}
       \field{sortinit}{2}
       \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -3829,6 +4167,52 @@
       \field{year}{2020}
       \field{pages}{33\bibrangedash 42}
       \range{pages}{10}
+    \endentry
+    \entry{Borst2020b}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cae0d0b0589a290c54811d1412e58a3f}{%
+           family={Haag},
+           familyi={H\bibinitperiod},
+           given={J{ü}rgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c4c0c4c56ef146dc21bac1317bfc7c14}{%
+           family={Mauss},
+           familyi={M\bibinitperiod},
+           given={Alex\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{3bfb8caa345c7088820635e0b7b75826}
+      \strng{fullhash}{1cdac2773680bc1cf53442704900b2f2}
+      \strng{bibnamehash}{1cdac2773680bc1cf53442704900b2f2}
+      \strng{authorbibnamehash}{1cdac2773680bc1cf53442704900b2f2}
+      \strng{authornamehash}{3bfb8caa345c7088820635e0b7b75826}
+      \strng{authorfullhash}{1cdac2773680bc1cf53442704900b2f2}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1007/s00359-019-01375-9}{doi: 10.1007/s00359-019-01375-9}}
+      \field{journaltitle}{Journal of Comparative Physiology A}
+      \field{number}{2}
+      \field{title}{How fly neurons compute the direction of visual motion}
+      \field{volume}{206}
+      \field{year}{2020}
+      \field{pages}{109\bibrangedash 124}
+      \range{pages}{16}
     \endentry
     \entry{Davis2020}{article}{}
       \name{author}{7}{}{%

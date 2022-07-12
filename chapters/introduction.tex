@@ -95,8 +95,8 @@ Voltage-gated potassium channels are transmembrane channels specific for potassi
 \begin{figure}
 \centering
 \hspace*{-1cm} 
-\includegraphics[scale=0.85]{fly_optic_lobe}
-\caption[Fly optic lobe] {Fly optic lobe}
+\includegraphics[scale=0.75]{fly_optic_lobe}
+\caption[Fly optic lobe] {Fly optic lobe: (a) The horizontal cross-section of a reduced silver stain shows the columnar organization of the retina (R), lamina (L), external chiasm (EC), medulla (M), internal chiasm (IC), lobula (Lo), and lobula plate (Lp). Scale bar = 50 mm. Reproduced, with permission, from \cite{Takemura2008} (b) Schematic illustration of direction selectivity: moving a bar in front of a fly's eye leads to depolarization of photoreceptors every time, regardless of whether the bar moves to the right or left. It is a non-directional signal. A few synapses downstream, on the lobula plate tangential cells, signals are direction-selective: these cells depolarize during movement along one direction, i.e., their 'preferred' direction, and hyperpolarize during motion along the opposite direction, i.e., their 'null' direction. (c) An overview of all types of columnar cells in the Drosophila optic lobe. (\cite{Fischbach1989}) (d) Columnar cell types involved in the motion vision circuit. (Used with permission from \cite{Borst2020, Borst2020b})}
 \label{fig:opticlobe}
 \end{figure}
 
@@ -129,26 +129,7 @@ Having identified T4 and T5 as the elementary local motion detectors, the next q
 
 Most of these input elements have been characterised physiologically \parencite{Arenz2017, Serbe2016, Strother2017, Meier2019, Borst2020}. None of these cells were found to be direction-selective. Hence, we can conclude that T4 and T5 are the first elementary motion detector found in the ON and OFF pathway respectively, and thus represents an important processing stage where direction is computed.    
 
-\section{Neural algorithm underlying direction selectivity}
-Different models have been proposed to explain the neural computations involved in motion detection. In order to detect motion in a directionally selective manner, local motion detection mechanisms must meet certain minimum requirements \parencite{Borst1989}:
-\begin{enumerate}
-\item Spatial offset: Motion is a vector that needs two points to be represented, so at least two spatially separated inputs are required.
-\item Temporal asymmetry: There must be at least one input that is delayed. If not, the input signals arrive in the subsequent stage simultaneously independent of the stimulus direction.
-\item Non-linear interaction: It is necessary to integrate input signals nonlinearly at a subsequent stage of the process. In the absence of this, the detector's output would be equal for both directions on average.
-\end{enumerate} 
 
-Classically two opposing models have been proposed for implementation of direction selectivity. Both these model use two input lines, where one of the input line has been asymmetrically delayed compared to the the other, which is then followed by a non-linear interaction. The Hassenstein-Reichardt (HR) model proposes a Preferred Direction (PD) enhancement: the signal on the preferred side is delayed and is subsequently amplified using multiplication of the signal from the other input line (figure \ref{fig:hrblmodel}a) \parencite{Hassenstein1956}. The Barlow-Levick (BL) detector however, proposes a Null Direction (ND) suppression: the signal on the null side is delayed and divides the signal from the other input resulting in suppression (figure \ref{fig:hrblmodel}b) \parencite{Barlow1965} . \cite{Haag2016} used apparent motion stimuli to show that both the mechanisms i.e. PD enhancement and ND suppression is used by T4 and T5 cell to produce a direction selective response (figure \ref{fig:hrblmodel}c). In the first manuscript \ref{sct:manuscript_haag_mishra} - \parencite{Haag2017}, we showed that all four subtypes of T4 and T5 indeed uses both PD enhancement and ND suppression to produce direction selective responses. Therefore, a new model combining both PD enhancement on the preferred side and ND suppression on the null side was proposed. The next important task now is to identify neural correlates implementing these mechanisms. 
-
-The model requires a fast input at the center, slow input providing excitation on the preferred side and slow input providing suppression on the null side. Interestingly, from the anatomical and functional characterization of input data we have discussed earlier, we could predict the input neurons for T4 providing these three kind of inputs. Mi1 is a fast neuron providing input at the central part of dendrite, thus a candidate for central fast input. Mi9 is a slow neuron providing input on the preferred side of the dendrite, hence a candidate for slow excitatory input. Mi4, C3 and CT1 are slow neurons providing input on the null side of the dendrite. 
-
-In addition to synaptic mechanisms on the dendrites of T4 cells, further processing in the T4 neurons can enhance the direction selectivity of the output signals. Neuronal signaling and information processing involves the transformation of membrane voltage into calcium signals, which lead to transmitter release. Computations can occur at different stages in the signaling cascade: 1.) dendritic integration and processing of voltage signals. 2.) transformation from voltage to calcium and 3.) between calcium and neurotransmitter release. In the second manuscript \ref{sct:manuscript_mishra_haag}, we explored the transformation of voltage to calcium in T4-cells. We found that the voltage to calcium transformation in T4c neurons enhances their direction selectivity: calcium signals in T4c cells have a significantly higher direction selectivity and tuning compared to membrane voltage across different stimuli conditions. 
-\begin{figure}
-\centering
-\hspace*{-2cm} 
-\includegraphics[scale=0.85]{HRBL_model}
-\caption[Models for motion detection] {Models for motion detection}
-\label{fig:hrblmodel}
-\end{figure}
 
 
 

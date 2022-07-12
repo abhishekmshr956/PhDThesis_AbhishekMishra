@@ -22,7 +22,6 @@
 \contentsline {subsection}{\numberline {1.4.1}{Parallel ON and OFF processing pathways}}{10}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}{T4 and T5 cells}}{11}{subsection.1.4.2}
 \contentsline {section}{\numberline {1.5}{Neural circuit underlying direction selectivity}}{11}{section.1.5}
-\contentsline {section}{\numberline {1.6}{Neural algorithm underlying direction selectivity}}{13}{section.1.6}
 \contentsline {chapter}{\numberline {2}{Publications}}{15}{chapter.2}
 \contentsline {section}{\numberline {2.1}{A common directional tuning mechanism of \textit {Drosophila} motion-sensing neurons in the ON and in the OFF pathway}}{15}{section.2.1}
 \contentsline {paragraph}{{Abstract}}{15}{section.2.1}
@@ -33,7 +32,8 @@
 \contentsline {paragraph}{{Authors}}{33}{section.2.2}
 \contentsline {paragraph}{{Contributions}}{33}{section.2.2}
 \contentsline {chapter}{\numberline {3}{Discussion}}{51}{chapter.3}
-\contentsline {section}{\numberline {3.1}{Effect of voltage to calcium transformation on T4 output signals}}{51}{section.3.1}
-\contentsline {section}{\numberline {3.2}{Differential expression of voltage-gated calcium channels}}{52}{section.3.2}
-\contentsline {section}{\numberline {3.3}{Comparison between fly and mammalian motion vision}}{52}{section.3.3}
-\contentsline {chapter}{{Bibliography}}{53}{section.3.3}
+\contentsline {section}{\numberline {3.1}{Comparison between ON and OFF pathways in the fly optic lobe and the mouse retina}}{51}{section.3.1}
+\contentsline {section}{\numberline {3.2}{Neural algorithm underlying direction selectivity}}{53}{section.3.2}
+\contentsline {section}{\numberline {3.3}{Effect of voltage to calcium transformation on T4 output signals}}{54}{section.3.3}
+\contentsline {section}{\numberline {3.4}{Differential expression of voltage-gated calcium channels}}{55}{section.3.4}
+\contentsline {chapter}{{Bibliography}}{57}{section.3.4}
