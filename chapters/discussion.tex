@@ -14,9 +14,9 @@ The split into ON and OFF pathway occurs at the level of lamina cells in the fly
 Direction-selective T4/T5 cells in flies are comparable to starburst amacrine cells (SACs) in mammals and lobula plate tangential cells are comparable to direction-selective ganglion cells (figure \ref{fig:flymouse}).
 \begin{figure}
 \centering
-\hspace*{-2cm} 
-\includegraphics[scale=0.8]{fly_mouse_comparison}
-\caption[Fly and mouse motion detection circuits] {Fly and mouse motion detection circuits}
+\hspace*{-1cm} 
+\includegraphics[scale=0.6]{fly_mouse_comparison}
+\caption[Fly and mouse motion detection circuits] {Fly and mouse motion detection circuits: In the fly, the photoreceptors connect via sign-inverting synapses to lamina monopolar cells L1 and L2, the entry to the ON and OFF pathway, respectively. The mouse retina lacks this additional layer of lamina cells and splits the signal directly between ON and OFF bipolar cells via two types of glutamate receptors. T4 (ON) and T5 (OFF) neurons in the fly optic lobe and ON and OFF SACs in the mouse retina are the first stage of direction-selective cells. Lobula plate tangential cells (LPTCs) in the fly and ON-OFF direction-selective ganglion cells (DSGCs) in the mouse integrate direction-selective information from these two pathways. (Used with permission from \cite{Borst2015})} 
 \label{fig:flymouse}
 \end{figure}
 \section{Neural algorithm underlying direction selectivity}
@@ -34,9 +34,9 @@ The model requires a fast input at the center, slow input providing excitation o
 In addition to synaptic mechanisms on the dendrites of T4 cells, further processing in the T4 neurons can enhance the direction selectivity of the output signals. Neuronal signaling and information processing involves the transformation of membrane voltage into calcium signals, which lead to transmitter release. Computations can occur at different stages in the signaling cascade: 1.) dendritic integration and processing of voltage signals. 2.) transformation from voltage to calcium and 3.) between calcium and neurotransmitter release. In the second manuscript \ref{sct:manuscript_mishra_haag}, we explored the transformation of voltage to calcium in T4-cells. We found that the voltage to calcium transformation in T4c neurons enhances their direction selectivity: calcium signals in T4c cells have a significantly higher direction selectivity and tuning compared to membrane voltage across different stimuli conditions. 
 \begin{figure}
 \centering
-\hspace*{-2cm} 
-\includegraphics[scale=0.85]{HRBL_model}
-\caption[Models for motion detection] {Models for motion detection}
+\hspace*{-1cm} 
+\includegraphics[scale=0.8]{HRBL_model}
+\caption[Models for motion detection] {Models for motion detection: (a) The Hassenstein-Reichardt (HR) correlator (half-detector shown here) consists of two arms. Motion in the preferred direction (PD) causes two signals from neighboring photoreceptors to coincide due to a delay ($\tau$) on the first arm. There is an enhancement in PD resulting from a multiplicative non-linearity. (b) The Barlow-Levick (BL) detector has the delay on the opposite arm, and the non-linearity is inhibitory, resulting in a null-direction (ND) suppression. (c) Hybrid detector consisting of one HR unit and one BL unit: Three points in space are sampled. There is a time delay ($\tau$) on the outer two arms. The input signals from the detector arms A and B are multiplied and divided by the signal from the detector arm C in the following stage. Consequemtly, the signal in the preferred direction is enhanced and the signal in the null direction is suppressed.}
 \label{fig:hrblmodel}
 \end{figure}
 \section{Effect of voltage to calcium transformation on T4 output signals}

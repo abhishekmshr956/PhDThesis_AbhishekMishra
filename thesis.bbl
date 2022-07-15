@@ -1016,6 +1016,45 @@
       \field{pages}{35\bibrangedash 43}
       \range{pages}{9}
     \endentry
+    \entry{Haag2001}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=2b75762e744f92c8ecacf697db327212}{%
+           family={Haag},
+           familyi={H\bibinitperiod},
+           given={Juergen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Soc Neuroscience}%
+      }
+      \strng{namehash}{5ce49519660d8abc986d994568395e96}
+      \strng{fullhash}{5ce49519660d8abc986d994568395e96}
+      \strng{bibnamehash}{5ce49519660d8abc986d994568395e96}
+      \strng{authorbibnamehash}{5ce49519660d8abc986d994568395e96}
+      \strng{authornamehash}{5ce49519660d8abc986d994568395e96}
+      \strng{authorfullhash}{5ce49519660d8abc986d994568395e96}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.21-15-05685.2001}{doi: 10.1523/JNEUROSCI.21-15-05685.2001}}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{number}{15}
+      \field{title}{Recurrent network interactions underlying flow-field selectivity of visual interneurons}
+      \field{volume}{21}
+      \field{year}{2001}
+      \field{pages}{5685\bibrangedash 5692}
+      \range{pages}{8}
+    \endentry
     \entry{Kitamoto2001}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=d47a1802bd743931554fd7a4ff69081c}{%
@@ -3719,6 +3758,51 @@
       \field{pages}{4037\bibrangedash 4045}
       \range{pages}{9}
     \endentry
+    \entry{Gruntman2018}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=dd9f77ba341179ddc4b96fd5b3736546}{%
+           family={Gruntman},
+           familyi={G\bibinitperiod},
+           given={Eyal},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0a3d7cd05914859062f36d0686191850}{%
+           family={Romani},
+           familyi={R\bibinitperiod},
+           given={Sandro},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b7acdd94ff5d3bafc83c22a286dfb68e}{%
+           family={Reiser},
+           familyi={R\bibinitperiod},
+           given={Michael\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{128dae9dbf5fc0d9f5f230d4f37cde7a}
+      \strng{fullhash}{01635b3835d4700ad608028eea4c2db2}
+      \strng{bibnamehash}{01635b3835d4700ad608028eea4c2db2}
+      \strng{authorbibnamehash}{01635b3835d4700ad608028eea4c2db2}
+      \strng{authornamehash}{128dae9dbf5fc0d9f5f230d4f37cde7a}
+      \strng{authorfullhash}{01635b3835d4700ad608028eea4c2db2}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/s41593-017-0046-4}{doi: 10.1038/s41593-017-0046-4}}
+      \field{journaltitle}{Nature neuroscience}
+      \field{number}{2}
+      \field{title}{Simple integration of fast excitation and offset, delayed inhibition computes directional selectivity in Drosophila}
+      \field{volume}{21}
+      \field{year}{2018}
+      \field{pages}{250\bibrangedash 257}
+      \range{pages}{8}
+    \endentry
     \entry{Wienecke2018}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=37e34122a9e579ca6b804331948dd4af}{%
@@ -4358,6 +4442,57 @@
       \field{title}{Anatomical distribution and functional roles of electrical synapses in Drosophila}
       \field{volume}{32}
       \field{year}{2022}
+    \endentry
+    \entry{Groschner2022}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=efe42c8e2af574a698b13c685a864cda}{%
+           family={Groschner},
+           familyi={G\bibinitperiod},
+           given={Lukas\bibnamedelima N},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0607bf66d135fdd199a929bf8d527feb}{%
+           family={Malis},
+           familyi={M\bibinitperiod},
+           given={Jonatan\bibnamedelima G},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=899fe7ed42d5d424bf28b4c7847150cf}{%
+           family={Zuidinga},
+           familyi={Z\bibinitperiod},
+           given={Birte},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{752f91f125f0ec9fe603e0ee3d3a4128}
+      \strng{fullhash}{33ce19a83b6c769b18d6455eacb1fa38}
+      \strng{bibnamehash}{33ce19a83b6c769b18d6455eacb1fa38}
+      \strng{authorbibnamehash}{33ce19a83b6c769b18d6455eacb1fa38}
+      \strng{authornamehash}{752f91f125f0ec9fe603e0ee3d3a4128}
+      \strng{authorfullhash}{33ce19a83b6c769b18d6455eacb1fa38}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/s41586-022-04428-3}{doi: 10.1038/s41586-022-04428-3}}
+      \field{journaltitle}{Nature}
+      \field{number}{7899}
+      \field{title}{A biophysical account of multiplication by a single neuron}
+      \field{volume}{603}
+      \field{year}{2022}
+      \field{pages}{119\bibrangedash 123}
+      \range{pages}{5}
     \endentry
   \enddatalist
 \endrefsection

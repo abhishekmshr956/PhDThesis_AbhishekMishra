@@ -7,20 +7,23 @@
 \BOOKMARK [2][-]{subsection.1.2.3}{1.2.3 Voltage Indicator : Arclight for recording changes in neuronal membrane potential}{section.1.2}% 7
 \BOOKMARK [2][-]{subsection.1.2.4}{1.2.4 Suppressor : shibirets, GtACR for silencing neuron}{section.1.2}% 8
 \BOOKMARK [2][-]{subsection.1.2.5}{1.2.5 Activator : ReaChr for activating neuron}{section.1.2}% 9
-\BOOKMARK [1][-]{section.1.3}{1.3 Neural communication}{chapter.1}% 10
-\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 Electrical synapses}{section.1.3}% 11
-\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Chemical synapses}{section.1.3}% 12
-\BOOKMARK [2][-]{subsection.1.3.3}{1.3.3 Voltage-gated ion channels}{section.1.3}% 13
-\BOOKMARK [1][-]{section.1.4}{1.4 Fly motion vision system}{chapter.1}% 14
-\BOOKMARK [2][-]{subsection.1.4.1}{1.4.1 Parallel ON and OFF processing pathways}{section.1.4}% 15
-\BOOKMARK [2][-]{subsection.1.4.2}{1.4.2 T4 and T5 cells}{section.1.4}% 16
-\BOOKMARK [1][-]{section.1.5}{1.5 Neural circuit underlying direction selectivity}{chapter.1}% 17
-\BOOKMARK [0][]{chapter.2}{2 Publications}{}% 18
-\BOOKMARK [1][-]{section.2.1}{2.1 A common directional tuning mechanism of Drosophila motion-sensing neurons in the ON and in the OFF pathway}{chapter.2}% 19
-\BOOKMARK [1][-]{section.2.2}{2.2 Voltage to Calcium Transformation Enhances Direction Selectivity in Drosophila T4 neurons}{chapter.2}% 20
-\BOOKMARK [0][]{chapter.3}{3 Discussion}{}% 21
-\BOOKMARK [1][-]{section.3.1}{3.1 Comparison between ON and OFF pathways in the fly optic lobe and the mouse retina}{chapter.3}% 22
-\BOOKMARK [1][-]{section.3.2}{3.2 Neural algorithm underlying direction selectivity}{chapter.3}% 23
-\BOOKMARK [1][-]{section.3.3}{3.3 Effect of voltage to calcium transformation on T4 output signals}{chapter.3}% 24
-\BOOKMARK [1][-]{section.3.4}{3.4 Differential expression of voltage-gated calcium channels}{chapter.3}% 25
-\BOOKMARK [0][]{section.3.4}{Bibliography}{}% 26
+\BOOKMARK [1][-]{section.1.3}{1.3 Physiological techniques for recording neural activity}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 Whole-cell patch clamp recording}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Two-photon imaging}{section.1.3}% 12
+\BOOKMARK [1][-]{section.1.4}{1.4 Neural communication}{chapter.1}% 13
+\BOOKMARK [2][-]{subsection.1.4.1}{1.4.1 Electrical synapses}{section.1.4}% 14
+\BOOKMARK [2][-]{subsection.1.4.2}{1.4.2 Chemical synapses}{section.1.4}% 15
+\BOOKMARK [2][-]{subsection.1.4.3}{1.4.3 Voltage-gated ion channels}{section.1.4}% 16
+\BOOKMARK [1][-]{section.1.5}{1.5 Fly motion vision system}{chapter.1}% 17
+\BOOKMARK [2][-]{subsection.1.5.1}{1.5.1 Parallel ON and OFF processing pathways}{section.1.5}% 18
+\BOOKMARK [2][-]{subsection.1.5.2}{1.5.2 T4 and T5 cells}{section.1.5}% 19
+\BOOKMARK [1][-]{section.1.6}{1.6 Neural circuit underlying direction selectivity}{chapter.1}% 20
+\BOOKMARK [0][]{chapter.2}{2 Publications}{}% 21
+\BOOKMARK [1][-]{section.2.1}{2.1 A common directional tuning mechanism of Drosophila motion-sensing neurons in the ON and in the OFF pathway}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.2}{2.2 Voltage to Calcium Transformation Enhances Direction Selectivity in Drosophila T4 neurons}{chapter.2}% 23
+\BOOKMARK [0][]{chapter.3}{3 Discussion}{}% 24
+\BOOKMARK [1][-]{section.3.1}{3.1 Comparison between ON and OFF pathways in the fly optic lobe and the mouse retina}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.2}{3.2 Neural algorithm underlying direction selectivity}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.3}{3.3 Effect of voltage to calcium transformation on T4 output signals}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.4}{3.4 Differential expression of voltage-gated calcium channels}{chapter.3}% 28
+\BOOKMARK [0][]{section.3.4}{Bibliography}{}% 29
