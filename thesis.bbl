@@ -52,7 +52,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.5962/bhl.title.37839}{doi: 10.5962/bhl.title.37839}}
+      \field{addendum}{\href{http://dx.doi.org/10.5962/bhl.title.37839}{\\doi: 10.5962/bhl.title.37839}}
       \field{booktitle}{Contribuci{ó}n al conocimiento de los centros nerviosos de los insectos / por S.R. Cajal y D. S{á}nchez.}
       \field{month}{11}
       \field{title}{{Contribuci{ó}n al conocimiento de los centros nerviosos de los insectos / por S.R. Cajal y D. S{á}nchez.}}
@@ -252,7 +252,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1126/science.6289436}{doi: \\10.1126/science.6289436}}
+      \field{addendum}{\href{http://dx.doi.org/10.1126/science.6289436}{\\doi: 10.1126/science.6289436}}
       \field{journaltitle}{Science}
       \field{number}{4570}
       \field{title}{Genetic transformation of Drosophila with transposable element vectors}
@@ -474,6 +474,51 @@
       \field{pages}{704\bibrangedash 706}
       \range{pages}{3}
     \endentry
+    \entry{Denk1990}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=2c2a173e69ac3c1193dfb9a168a9fda8}{%
+           family={Denk},
+           familyi={D\bibinitperiod},
+           given={Winifried},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=67cc8ed8f326953b2d0cd4385de150ba}{%
+           family={Strickler},
+           familyi={S\bibinitperiod},
+           given={James\bibnamedelima H},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8136f562b4fa42cc207fe242e28b59fc}{%
+           family={Webb},
+           familyi={W\bibinitperiod},
+           given={Watt\bibnamedelima W},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{579a30e1458dda974b656b7c64c41869}
+      \strng{fullhash}{4753809b5ff0831da98a6fee3c6a8227}
+      \strng{bibnamehash}{4753809b5ff0831da98a6fee3c6a8227}
+      \strng{authorbibnamehash}{4753809b5ff0831da98a6fee3c6a8227}
+      \strng{authornamehash}{579a30e1458dda974b656b7c64c41869}
+      \strng{authorfullhash}{4753809b5ff0831da98a6fee3c6a8227}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1126/science.2321027}{\\doi: 10.1126/science.2321027}}
+      \field{journaltitle}{Science}
+      \field{number}{4951}
+      \field{title}{Two-photon laser scanning fluorescence microscopy}
+      \field{volume}{248}
+      \field{year}{1990}
+      \field{pages}{73\bibrangedash 76}
+      \range{pages}{4}
+    \endentry
     \entry{Covarrubias1991}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=5bc91ea277e2a9f48bde96a401042fc9}{%
@@ -588,7 +633,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1152/jn.1995.73.6.2540}{doi: 10.1152/jn.1995.73.6.2540}}
+      \field{addendum}{\href{http://dx.doi.org/10.1152/jn.1995.73.6.2540}{\\doi: 10.1152/jn.1995.73.6.2540}}
       \field{journaltitle}{Journal of neurophysiology}
       \field{number}{6}
       \field{title}{Calcium accumulation in visual interneurons of the fly: stimulus dependence and relationship to membrane potential}
@@ -645,7 +690,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1101/gad.9.14.1694}{doi: https://doi.org/10.1101/gad.9.14.1694}}
+      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1101/gad.9.14.1694}{doi: 10.1101/gad.9.14.1694}}
       \field{journaltitle}{Genes \& development}
       \field{number}{14}
       \field{title}{The head involution defective gene of Drosophila melanogaster functions in programmed cell death.}
@@ -968,7 +1013,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1523/JNEUROSCI.19-05-01691.1999}{doi: https://doi.org/10.1523/JNEUROSCI.19-05-01691.1999}}
+      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1523/JNEUROSCI.19-05-01691.1999}{doi: 10.1523/JNEUROSCI.19-05-01691.1999}}
       \field{journaltitle}{Journal of Neuroscience}
       \field{number}{5}
       \field{title}{Inducible genetic suppression of neuronal excitability}
@@ -1007,7 +1052,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/s0896-6273(00)81135-6}{doi: 10.1016/s0896-6273(00)81135-6}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/s0896-6273(00)81135-6}{\\doi: 10.1016/s0896-6273(00)81135-6}}
       \field{journaltitle}{Neuron}
       \field{number}{1}
       \field{title}{Ion channels and synaptic organization: analysis of the Drosophila genome}
@@ -1130,7 +1175,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1073/pnas.051636098}{doi: 10.1073/pnas.051636098}}
+      \field{addendum}{\href{http://dx.doi.org/10.1073/pnas.051636098}{\\doi: 10.1073/pnas.051636098}}
       \field{journaltitle}{Proceedings of the National Academy of Sciences}
       \field{number}{6}
       \field{title}{Circularly permuted green fluorescent proteins engineered to sense Ca2+}
@@ -1163,7 +1208,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1038/nrm855}{doi: 10.1038/nrm855}}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/nrm855}{\\doi: 10.1038/nrm855}}
       \field{journaltitle}{Nature Reviews Molecular Cell Biology}
       \field{number}{7}
       \field{title}{Synaptotagmin: a Ca2+ sensor that triggers exocytosis?}
@@ -1504,7 +1549,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.brainres.2008.06.016}{doi: 10.1016/j.brainres.2008.06.016}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.brainres.2008.06.016}{\\doi: 10.1016/j.brainres.2008.06.016}}
       \field{journaltitle}{Brain research}
       \field{title}{Regulation of information passing by synaptic transmission: a short review}
       \field{volume}{1225}
@@ -1554,7 +1599,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2008.02.022}{doi: 10.1016/j.cub.2008.02.022}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2008.02.022}{\\doi: 10.1016/j.cub.2008.02.022}}
       \field{journaltitle}{Current Biology}
       \field{number}{5}
       \field{title}{Response properties of motion-sensitive visual interneurons in the lobula plate of Drosophila melanogaster}
@@ -1802,7 +1847,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1152/jn.91103.2008}{doi: 10.1152/jn.91103.2008}}
+      \field{addendum}{\href{http://dx.doi.org/10.1152/jn.91103.2008}{\\doi: 10.1152/jn.91103.2008}}
       \field{journaltitle}{Journal of neurophysiology}
       \field{number}{1}
       \field{title}{Cav2-type calcium channels encoded by cac regulate AP-independent neurotransmitter release at cholinergic synapses in adult Drosophila brain}
@@ -2036,7 +2081,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2011.05.023}{doi: 10.1016/j.neuron.2011.05.023}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2011.05.023}{\\doi: 10.1016/j.neuron.2011.05.023}}
       \field{journaltitle}{Neuron}
       \field{number}{6}
       \field{title}{Defining the computational structure of the motion detector in Drosophila}
@@ -2285,7 +2330,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1007/s00359-012-0716-3}{doi: 10.1007/s00359-012-0716-3}}
+      \field{addendum}{\href{http://dx.doi.org/10.1007/s00359-012-0716-3}{\\doi: 10.1007/s00359-012-0716-3}}
       \field{journaltitle}{Journal of Comparative Physiology A}
       \field{number}{5}
       \field{title}{Columnar cells necessary for motion responses of wide-field visual interneurons in Drosophila}
@@ -2578,7 +2623,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1038/nn.3502}{doi: \\https://doi.org/10.1038/nn.3502}}
+      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1038/nn.3502}{\\doi: 10.1038/nn.3502}}
       \field{journaltitle}{Nature neuroscience}
       \field{number}{10}
       \field{title}{ReaChR: a red-shifted variant of channelrhodopsin enables deep transcranial optogenetic excitation}
@@ -2972,7 +3017,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.3938-13.2014}{doi: 10.1523/JNEUROSCI.3938-13.2014}}
+      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.3938-13.2014}{\\doi: 10.1523/JNEUROSCI.3938-13.2014}}
       \field{journaltitle}{Journal of Neuroscience}
       \field{number}{6}
       \field{title}{Optogenetic and pharmacologic dissection of feedforward inhibition in Drosophila motion vision}
@@ -3056,7 +3101,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1038/nn.4050}{doi: 10.1038/nn.4050}}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/nn.4050}{\\doi: 10.1038/nn.4050}}
       \field{journaltitle}{Nature neuroscience}
       \field{number}{8}
       \field{title}{Common circuit design in fly and mammalian motion vision}
@@ -3113,7 +3158,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1126/science.aaa7484}{doi: \\https://doi.org/10.1126/science.aaa7484}}
+      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1126/science.aaa7484}{\\doi: 10.1126/science.aaa7484}}
       \field{journaltitle}{Science}
       \field{number}{6248}
       \field{title}{Natural light-gated anion channels: A family of microbial rhodopsins for advanced optogenetics}
@@ -3346,7 +3391,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cell.2016.05.031}{doi: 10.1016/j.cell.2016.05.031}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cell.2016.05.031}{\\doi: 10.1016/j.cell.2016.05.031}}
       \field{journaltitle}{Cell}
       \field{number}{1}
       \field{title}{Subcellular imaging of voltage and calcium signals reveals neural processing in vivo}
@@ -3492,7 +3537,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1038/s41598-017-14076-7}{doi: https://doi.org/10.1038/s41598-017-14076-7}}
+      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1038/s41598-017-14076-7}{doi: 10.1038/s41598-017-14076-7}}
       \field{journaltitle}{Scientific reports}
       \field{number}{1}
       \field{title}{Optogenetic neuronal silencing in Drosophila during visual processing}
@@ -3567,7 +3612,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1038/nmeth.4148}{doi: \\https://doi.org/10.1038/nmeth.4148}}
+      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1038/nmeth.4148}{doi: 10.1038/nmeth.4148}}
       \field{journaltitle}{Nature methods}
       \field{number}{3}
       \field{title}{Optogenetic inhibition of behavior with anion channelrhodopsins}
@@ -3749,7 +3794,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1016/j.cub.2018.11.010}{doi: https://doi.org/10.1016/j.cub.2018.11.010}}
+      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1016/j.cub.2018.11.010}{doi: 10.1016/j.cub.2018.11.010}}
       \field{journaltitle}{Current Biology}
       \field{number}{24}
       \field{title}{Bi-directional control of walking behavior by horizontal optic flow sensors}
@@ -3928,7 +3973,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cell.2018.06.019}{doi: 10.1016/j.cell.2018.06.019}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cell.2018.06.019}{\\doi: 10.1016/j.cell.2018.06.019}}
       \field{journaltitle}{Cell}
       \field{number}{3}
       \field{title}{A complete electron microscopy volume of the brain of adult Drosophila melanogaster}
@@ -3967,7 +4012,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2019.03.070}{doi: 10.1016/j.cub.2019.03.070}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2019.03.070}{\\doi: 10.1016/j.cub.2019.03.070}}
       \field{journaltitle}{Current Biology}
       \field{number}{9}
       \field{title}{Extreme compartmentalization in a Drosophila amacrine cell}
@@ -4199,7 +4244,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.40025}{doi: 10.7554/eLife.40025}}
+      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.40025}{\\doi: 10.7554/eLife.40025}}
       \field{journaltitle}{Elife}
       \field{title}{Comparisons between the ON-and OFF-edge motion pathways in the Drosophila brain}
       \field{volume}{8}
@@ -4244,7 +4289,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cophys.2020.05.004}{doi: 10.1016/j.cophys.2020.05.004}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cophys.2020.05.004}{\\doi: 10.1016/j.cophys.2020.05.004}}
       \field{journaltitle}{Current Opinion in Physiology}
       \field{title}{The neural network behind the eyes of a fly}
       \field{volume}{16}
@@ -4358,7 +4403,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.50901}{doi: 10.7554/eLife.50901}}
+      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.50901}{\\doi: 10.7554/eLife.50901}}
       \field{journaltitle}{Elife}
       \field{title}{A genetic, genomic, and computational resource for exploring neural circuit function}
       \field{volume}{9}
@@ -4390,7 +4435,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1201/9781003053972}{doi: 10.1201/9781003053972}}
+      \field{addendum}{\href{http://dx.doi.org/10.1201/9781003053972}{\\doi: 10.1201/9781003053972}}
       \field{title}{Principles of Neurobiology}
       \field{year}{2020}
     \endentry

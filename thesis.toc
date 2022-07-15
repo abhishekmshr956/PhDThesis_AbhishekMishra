@@ -14,16 +14,16 @@
 \contentsline {subsection}{\numberline {1.3.2}{Two-photon imaging}}{6}{subsection.1.3.2}
 \contentsline {section}{\numberline {1.4}{Neural communication}}{6}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}{Electrical synapses}}{6}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}{Chemical synapses}}{6}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}{Voltage-gated ion channels}}{8}{subsection.1.4.3}
-\contentsline {paragraph}{{Voltage-gated calcium channels}}{8}{subsection.1.4.3}
-\contentsline {paragraph}{{Voltage-gated sodium channels}}{8}{subsection.1.4.3}
-\contentsline {paragraph}{{Voltage-gated potassium channels}}{8}{subsection.1.4.3}
-\contentsline {section}{\numberline {1.5}{Fly motion vision system}}{8}{section.1.5}
-\contentsline {paragraph}{{Lamina}}{9}{figure.caption.6}
-\contentsline {paragraph}{{Medulla}}{9}{figure.caption.6}
+\contentsline {subsection}{\numberline {1.4.2}{Chemical synapses}}{7}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}{Voltage-gated ion channels}}{7}{subsection.1.4.3}
+\contentsline {paragraph}{{Voltage-gated calcium channels}}{7}{subsection.1.4.3}
+\contentsline {paragraph}{{Voltage-gated sodium channels}}{7}{subsection.1.4.3}
+\contentsline {paragraph}{{Voltage-gated potassium channels}}{9}{subsection.1.4.3}
+\contentsline {section}{\numberline {1.5}{Fly motion vision system}}{9}{section.1.5}
+\contentsline {paragraph}{{Lamina}}{11}{figure.caption.6}
+\contentsline {paragraph}{{Medulla}}{11}{figure.caption.6}
 \contentsline {subsection}{\numberline {1.5.1}{Parallel ON and OFF processing pathways}}{11}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}{T4 and T5 cells}}{11}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.2}{T4 and T5 cells}}{12}{subsection.1.5.2}
 \contentsline {section}{\numberline {1.6}{Neural circuit underlying direction selectivity}}{12}{section.1.6}
 \contentsline {chapter}{\numberline {2}{Publications}}{15}{chapter.2}
 \contentsline {section}{\numberline {2.1}{A common directional tuning mechanism of \textit {Drosophila} motion-sensing neurons in the ON and in the OFF pathway}}{15}{section.2.1}
