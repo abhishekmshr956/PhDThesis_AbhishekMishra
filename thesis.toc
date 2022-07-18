@@ -5,10 +5,10 @@
 \contentsline {section}{\numberline {1.1}{\NoCaseChange {\textit {Drosophila}} as a model organism}}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}{Tools for functional dissection of \NoCaseChange {\textit {Drosophila}} neural circuits}}{1}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}{GAL4-UAS / LexA-lexAop}}{1}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}{Calcium Indicator : GCaMP for recording changes in intracellular calcium}}{2}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}{Voltage Indicator : Arclight for recording changes in neuronal membrane potential}}{2}{subsection.1.2.3}
-\contentsline {subsection}{\numberline {1.2.4}{Suppressor : $shibire^{ts}$, GtACR for silencing neuron}}{4}{subsection.1.2.4}
-\contentsline {subsection}{\numberline {1.2.5}{Activator : ReaChr for activating neuron}}{5}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.2}{Calcium Indicator: GCaMP for recording changes in intracellular calcium}}{2}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}{Voltage Indicator: Arclight for recording changes in neuronal membrane potential}}{2}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}{Suppressor: $shibire^{ts}$, GtACR for silencing neuron}}{4}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}{Activator: ReaChr for activating neuron}}{5}{subsection.1.2.5}
 \contentsline {section}{\numberline {1.3}{Physiological techniques for recording neural activity}}{5}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}{Whole-cell patch clamp recording}}{5}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}{Two-photon imaging}}{6}{subsection.1.3.2}
@@ -39,4 +39,5 @@
 \contentsline {section}{\numberline {3.2}{Neural algorithm underlying direction selectivity}}{53}{section.3.2}
 \contentsline {section}{\numberline {3.3}{Effect of voltage to calcium transformation on T4 output signals}}{54}{section.3.3}
 \contentsline {section}{\numberline {3.4}{Differential expression of voltage-gated calcium channels}}{56}{section.3.4}
-\contentsline {chapter}{{Bibliography}}{57}{section.3.4}
+\contentsline {section}{\numberline {3.5}{Conclusion}}{56}{section.3.5}
+\contentsline {chapter}{{Bibliography}}{57}{section.3.5}
