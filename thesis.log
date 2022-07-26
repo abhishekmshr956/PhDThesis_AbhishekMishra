@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  18 JUL 2022 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  26 JUL 2022 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1835,6 +1835,13 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 38.
 
+
+Overfull \hbox (15.73138pt too wide) in paragraph at lines 41--42
+\T1/pplj/m/n/10.95 and re-versible in-hi-bi-tion of synap-tic trans-mis-sion ([
+]Ki-ta-moto [][]2001[][]). In \T1/pplj/m/it/10.95 Drosophila\T1/pplj/m/n/10.95 
+,
+ []
+
 [4]
 Overfull \hbox (3.91928pt too wide) in paragraph at lines 49--50
 []\T1/pplj/m/n/10.95 Therefore by com-bin-ing the use of GCaMP for cal-cium ima
@@ -1853,7 +1860,7 @@ Overfull \hbox (10.48221pt too wide) in paragraph at lines 74--76
  []
 
 [7] [8 <./graphics/Chemical_Synapse.pdf>]
-<graphics/voltagegatedionchannels.pdf, id=422, 485.6544pt x 154.35529pt>
+<graphics/voltagegatedionchannels.pdf, id=421, 485.6544pt x 154.35529pt>
 File: graphics/voltagegatedionchannels.pdf Graphic file (type pdf)
 <use graphics/voltagegatedionchannels.pdf>
 Package pdftex.def Info: graphics/voltagegatedionchannels.pdf  used on input li
@@ -1870,7 +1877,7 @@ Overfull \hbox (0.16417pt too wide) in paragraph at lines 102--103
  is com-prised of retina, lam-ina, medulla,
  []
 
-<graphics/fly_optic_lobe.pdf, id=428, 599.84097pt x 551.85873pt>
+<graphics/fly_optic_lobe.pdf, id=427, 599.84097pt x 551.85873pt>
 File: graphics/fly_optic_lobe.pdf Graphic file (type pdf)
 <use graphics/fly_optic_lobe.pdf>
 Package pdftex.def Info: graphics/fly_optic_lobe.pdf  used on input line 107.
@@ -1882,7 +1889,7 @@ Overfull \hbox (53.84682pt too wide) in paragraph at lines 106--108
 
 [9 <./graphics/voltagegatedionchannels.pdf>] [10 <./graphics/fly_optic_lobe.pdf
 >] [11] [12]
-<graphics/t4t5inputsynapses.jpg, id=551, 2367.84625pt x 1466.47874pt>
+<graphics/t4t5inputsynapses.jpg, id=549, 2367.84625pt x 1466.47874pt>
 File: graphics/t4t5inputsynapses.jpg Graphic file (type jpg)
 <use graphics/t4t5inputsynapses.jpg>
 Package pdftex.def Info: graphics/t4t5inputsynapses.jpg  used on input line 135
@@ -1899,7 +1906,7 @@ Overfull \hbox (5.71582pt too wide) in paragraph at lines 140--141
 phys-i-o-log-i-cally ([]Serbe
  []
 
-) [13 <./graphics/t4t5inputsynapses.jpg>] [14] (./chapters/publications.tex
+) [13] [14 <./graphics/t4t5inputsynapses.jpg>] (./chapters/publications.tex
 Chapter 2.
 (./chapters/Haag_Mishra_2017.tex
 LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
@@ -2498,30 +2505,12 @@ e 25.
 
 [50 <./papers/Mishra_Haag_2022.pdf>])) (./chapters/discussion.tex
 Chapter 3.
-
-Overfull \hbox (6.01144pt too wide) in paragraph at lines 12--13
-\T1/pplj/m/it/10.95 Drosophila \T1/pplj/m/n/10.95 pho-tore-cep-tors de-po-lar-i
-ze un-der light and re-lease his-tamine, which
- []
-
-
-Overfull \hbox (4.96036pt too wide) in paragraph at lines 12--13
-\T1/pplj/m/n/10.95 in turn in-hibits lam-ina neu-rons via histamine-gated chlo-
-ride chan-nels ([]Hardie
- []
-
 <graphics/fly_mouse_comparison.png, id=1484, 649.58685pt x 482.5227pt>
 File: graphics/fly_mouse_comparison.png Graphic file (type png)
 <use graphics/fly_mouse_comparison.png>
 Package pdftex.def Info: graphics/fly_mouse_comparison.png  used on input line 
 18.
 (pdftex.def)             Requested size: 389.75511pt x 289.51585pt.
-
-Overfull \hbox (3.06598pt too wide) in paragraph at lines 14--22
-[]\T1/pplj/m/n/10.95 Direction-selective T4/T5 cells in flies are com-pa-ra-ble
- to star-burst amacrine
- []
-
 
 Overfull \hbox (4.0428pt too wide) in paragraph at lines 22--22
 |[]\T1/iwona/m/sc/14.4/80ls neural al-go-rithm un-der-ly-ing di-rec-tion se-lec
@@ -2557,13 +2546,6 @@ Overfull \hbox (24.99257pt too wide) has occurred while \output is active
  []
 
 [55 <./graphics/HRBL_model.pdf>]
-Overfull \hbox (8.61034pt too wide) in paragraph at lines 51--52
-\T1/pplj/m/n/10.95 other cal-cium chan-nels. Three fam-i-lies of genes en-code 
-$\U/zeur/m/n/10.95 1$ \T1/pplj/m/n/10.95 sub-units. \T1/pplj/m/it/10.95 Drosop
-hila
- []
-
-
 Overfull \hbox (0.2729pt too wide) in paragraph at lines 54--55
 \T1/pplj/m/n/10.95 In the course of this work, I in-ves-ti-gated neu-ral com-pu
 -ta-tion in the \T1/pplj/m/it/10.95 Drosophila
@@ -2613,7 +2595,7 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 Here is how much of TeX's memory you used:
  35581 strings out of 492649
  693184 string characters out of 6129622
- 1351592 words of memory out of 5000000
+ 1351597 words of memory out of 5000000
  38686 multiletter control sequences out of 15000+600000
  666884 words of font info for 179 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2645,7 +2627,7 @@ ype1/public/stix/stix-mathrm.pfb></usr/local/texlive/2018/texmf-dist/fonts/type
 1/urw/palatino/uplb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/p
 alatino/uplr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino
 /uplri8a.pfb>
-Output written on thesis.pdf (74 pages, 21018252 bytes).
+Output written on thesis.pdf (74 pages, 21018477 bytes).
 PDF statistics:
  1870 PDF objects out of 2073 (max. 8388607)
  1165 compressed objects within 12 object streams
