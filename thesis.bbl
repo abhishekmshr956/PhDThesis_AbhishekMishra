@@ -3071,6 +3071,63 @@
       \field{pages}{976\bibrangedash 983}
       \range{pages}{8}
     \endentry
+    \entry{Ammer2015}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=502caf3f132f36185e197df481e46a05}{%
+           family={Ammer},
+           familyi={A\bibinitperiod},
+           given={Georg},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=32a43f32d99d6cb89ea0f93735622f3f}{%
+           family={Leonhardt},
+           familyi={L\bibinitperiod},
+           given={Aljoscha},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=600fb8ff33c42d75ef6e67abe8c922f8}{%
+           family={Bahl},
+           familyi={B\bibinitperiod},
+           given={Armin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=23c0222bc484f8f1a1ec2d7647a530e6}{%
+           family={Dickson},
+           familyi={D\bibinitperiod},
+           given={Barry\bibnamedelima J},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e50e42e51b66b259b69d02fba4863c65}
+      \strng{fullhash}{49d892830317044b5a0154735e069012}
+      \strng{bibnamehash}{49d892830317044b5a0154735e069012}
+      \strng{authorbibnamehash}{49d892830317044b5a0154735e069012}
+      \strng{authornamehash}{e50e42e51b66b259b69d02fba4863c65}
+      \strng{authorfullhash}{49d892830317044b5a0154735e069012}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2015.07.014}{\\doi: 10.1016/j.cub.2015.07.014}}
+      \field{journaltitle}{Current Biology}
+      \field{number}{17}
+      \field{title}{Functional specialization of neural input elements to the Drosophila ON motion detector}
+      \field{volume}{25}
+      \field{year}{2015}
+      \field{pages}{2247\bibrangedash 2253}
+      \range{pages}{7}
+    \endentry
     \entry{Borst2015}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%

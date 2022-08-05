@@ -7,37 +7,37 @@
 \contentsline {subsection}{\numberline {1.2.1}{GAL4-UAS / LexA-lexAop}}{1}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}{Calcium Indicator: GCaMP for recording changes in intracellular calcium}}{2}{subsection.1.2.2}
 \contentsline {subsection}{\numberline {1.2.3}{Voltage Indicator: Arclight for recording changes in neuronal membrane potential}}{2}{subsection.1.2.3}
-\contentsline {subsection}{\numberline {1.2.4}{Suppressor: $shibire^{ts}$, GtACR for silencing neuron}}{4}{subsection.1.2.4}
-\contentsline {subsection}{\numberline {1.2.5}{Activator: ReaChr for activating neuron}}{5}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.4}{Manipulating neural activity}}{4}{subsection.1.2.4}
 \contentsline {section}{\numberline {1.3}{Physiological techniques for recording neural activity}}{5}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}{Whole-cell patch clamp recording}}{6}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}{Two-photon imaging}}{6}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.1}{Whole-cell patch clamp recording}}{5}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}{Two-photon imaging}}{5}{subsection.1.3.2}
 \contentsline {section}{\numberline {1.4}{Neural communication}}{6}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}{Electrical synapses}}{6}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}{Chemical synapses}}{7}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}{Voltage-gated ion channels}}{7}{subsection.1.4.3}
-\contentsline {paragraph}{{Voltage-gated calcium channels}}{7}{subsection.1.4.3}
-\contentsline {paragraph}{{Voltage-gated sodium channels}}{7}{subsection.1.4.3}
-\contentsline {paragraph}{{Voltage-gated potassium channels}}{9}{subsection.1.4.3}
-\contentsline {section}{\numberline {1.5}{Fly motion vision system}}{9}{section.1.5}
-\contentsline {paragraph}{{Lamina}}{11}{figure.caption.6}
-\contentsline {paragraph}{{Medulla}}{11}{figure.caption.6}
+\contentsline {subsection}{\numberline {1.4.2}{Chemical synapses}}{6}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}{Voltage-gated ion channels}}{8}{subsection.1.4.3}
+\contentsline {paragraph}{{Voltage-gated calcium channels}}{8}{subsection.1.4.3}
+\contentsline {paragraph}{{Voltage-gated sodium channels}}{8}{subsection.1.4.3}
+\contentsline {paragraph}{{Voltage-gated potassium channels}}{8}{subsection.1.4.3}
+\contentsline {section}{\numberline {1.5}{Fly motion vision system}}{8}{section.1.5}
+\contentsline {paragraph}{{Lamina}}{9}{figure.caption.6}
+\contentsline {paragraph}{{Medulla}}{9}{figure.caption.6}
 \contentsline {subsection}{\numberline {1.5.1}{Parallel ON and OFF processing pathways}}{11}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}{T4 and T5 cells}}{12}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.2}{T4 and T5 cells}}{11}{subsection.1.5.2}
 \contentsline {section}{\numberline {1.6}{Neural circuit underlying direction selectivity}}{12}{section.1.6}
-\contentsline {chapter}{\numberline {2}{Publications}}{15}{chapter.2}
-\contentsline {section}{\numberline {2.1}{A common directional tuning mechanism of \textit {Drosophila} motion-sensing neurons in the ON and in the OFF pathway}}{15}{section.2.1}
-\contentsline {paragraph}{{Abstract}}{15}{section.2.1}
-\contentsline {paragraph}{{Authors}}{15}{section.2.1}
-\contentsline {paragraph}{{Contributions}}{15}{section.2.1}
-\contentsline {section}{\numberline {2.2}{Voltage to Calcium Transformation Enhances Direction Selectivity in \textit {Drosophila} T4 neurons}}{33}{section.2.2}
-\contentsline {paragraph}{{Abstract}}{33}{section.2.2}
-\contentsline {paragraph}{{Authors}}{33}{section.2.2}
-\contentsline {paragraph}{{Contributions}}{33}{section.2.2}
-\contentsline {chapter}{\numberline {3}{Discussion}}{51}{chapter.3}
-\contentsline {section}{\numberline {3.1}{Comparison between ON and OFF pathways in the fly optic lobe and the mouse retina}}{51}{section.3.1}
-\contentsline {section}{\numberline {3.2}{Neural algorithm underlying direction selectivity}}{53}{section.3.2}
-\contentsline {section}{\numberline {3.3}{Effect of voltage to calcium transformation on T4 output signals}}{54}{section.3.3}
-\contentsline {section}{\numberline {3.4}{Differential expression of voltage-gated calcium channels}}{56}{section.3.4}
+\contentsline {section}{\numberline {1.7}{Neural algorithm underlying direction selectivity}}{14}{section.1.7}
+\contentsline {chapter}{\numberline {2}{Publications}}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}{A common directional tuning mechanism of \textit {Drosophila} motion-sensing neurons in the ON and in the OFF pathway}}{17}{section.2.1}
+\contentsline {paragraph}{{Abstract}}{17}{section.2.1}
+\contentsline {paragraph}{{Authors}}{17}{section.2.1}
+\contentsline {paragraph}{{Contributions}}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}{Voltage to Calcium Transformation Enhances Direction Selectivity in \textit {Drosophila} T4 neurons}}{35}{section.2.2}
+\contentsline {paragraph}{{Abstract}}{35}{section.2.2}
+\contentsline {paragraph}{{Authors}}{35}{section.2.2}
+\contentsline {paragraph}{{Contributions}}{35}{section.2.2}
+\contentsline {chapter}{\numberline {3}{Discussion}}{53}{chapter.3}
+\contentsline {section}{\numberline {3.1}{Neural correlates implementing direction selectivity in the ON and the OFF pathways}}{53}{section.3.1}
+\contentsline {section}{\numberline {3.2}{Effect of voltage to calcium transformation on T4 output signals}}{54}{section.3.2}
+\contentsline {section}{\numberline {3.3}{Differential expression of voltage-gated calcium channels}}{54}{section.3.3}
+\contentsline {section}{\numberline {3.4}{Comparison between the ON and OFF pathways in the fly optic lobe and the mouse retina}}{55}{section.3.4}
 \contentsline {section}{\numberline {3.5}{Conclusion}}{56}{section.3.5}
-\contentsline {chapter}{{Bibliography}}{57}{section.3.5}
+\contentsline {chapter}{{Bibliography}}{59}{section.3.5}
