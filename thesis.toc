@@ -37,8 +37,9 @@
 \contentsline {chapter}{\numberline {3}{Discussion}}{53}{chapter.3}
 \contentsline {section}{\numberline {3.1}{Cellular implementation of PD enhancement and ND suppression in the T4 and T5 neurons}}{53}{section.3.1}
 \contentsline {section}{\numberline {3.2}{The mechanism for the temporal delay in T4 and T5 input neurons}}{54}{section.3.2}
-\contentsline {section}{\numberline {3.3}{Effect of voltage to calcium transformation on T4 output signals}}{56}{section.3.3}
-\contentsline {section}{\numberline {3.4}{Differential expression of voltage-gated calcium channels}}{57}{section.3.4}
-\contentsline {section}{\numberline {3.5}{Comparison between the ON and OFF pathways in the fly optic lobe and the mouse retina}}{58}{section.3.5}
-\contentsline {section}{\numberline {3.6}{Conclusion}}{59}{section.3.6}
-\contentsline {chapter}{{Bibliography}}{61}{section.3.6}
+\contentsline {section}{\numberline {3.3}{Circuits downstream to T4 and T5 cells}}{56}{section.3.3}
+\contentsline {section}{\numberline {3.4}{Effect of voltage to calcium transformation on T4 output signals}}{57}{section.3.4}
+\contentsline {section}{\numberline {3.5}{Differential expression of voltage-gated calcium channels}}{59}{section.3.5}
+\contentsline {section}{\numberline {3.6}{Comparison between the ON and OFF pathways in the fly optic lobe and the mouse retina}}{60}{section.3.6}
+\contentsline {section}{\numberline {3.7}{Conclusion}}{61}{section.3.7}
+\contentsline {chapter}{{Bibliography}}{63}{section.3.7}
