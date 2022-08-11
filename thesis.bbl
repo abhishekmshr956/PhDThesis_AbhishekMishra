@@ -4558,6 +4558,45 @@
       \field{pages}{730\bibrangedash 743}
       \range{pages}{14}
     \endentry
+    \entry{Knopfel2019}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=432951ed61e669d2814fa553b91c1316}{%
+           family={Kn{ö}pfel},
+           familyi={K\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=9e0239743d29f43aeb09cd7ceeea9dbd}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Chenchen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{269b48b703888ab841f90ec9a2a45b07}
+      \strng{fullhash}{269b48b703888ab841f90ec9a2a45b07}
+      \strng{bibnamehash}{269b48b703888ab841f90ec9a2a45b07}
+      \strng{authorbibnamehash}{269b48b703888ab841f90ec9a2a45b07}
+      \strng{authornamehash}{269b48b703888ab841f90ec9a2a45b07}
+      \strng{authorfullhash}{269b48b703888ab841f90ec9a2a45b07}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/s41583-019-0231-4}{doi: 10.1038/s41583-019-0231-4}}
+      \field{journaltitle}{Nature Reviews Neuroscience}
+      \field{number}{12}
+      \field{title}{Optical voltage imaging in neurons: moving from technology development to practical tool}
+      \field{volume}{20}
+      \field{year}{2019}
+      \field{pages}{719\bibrangedash 727}
+      \range{pages}{9}
+    \endentry
     \entry{Meier2019}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=6059f6936de134c1a1cb7421fbe2b506}{%
