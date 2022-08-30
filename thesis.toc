@@ -40,7 +40,9 @@
 \contentsline {section}{\numberline {3.3}{Circuits downstream to T4 and T5 cells}}{57}{section.3.3}
 \contentsline {section}{\numberline {3.4}{Effect of voltage to calcium transformation on T4 output signals}}{58}{section.3.4}
 \contentsline {section}{\numberline {3.5}{Optical voltage imaging in neurons}}{58}{section.3.5}
-\contentsline {section}{\numberline {3.6}{Differential expression of voltage-gated calcium channels}}{60}{section.3.6}
-\contentsline {section}{\numberline {3.7}{Comparison between the ON and OFF pathways in the fly optic lobe and the mouse retina}}{62}{section.3.7}
-\contentsline {section}{\numberline {3.8}{Conclusion}}{62}{section.3.8}
-\contentsline {chapter}{{Bibliography}}{65}{section.3.8}
+\contentsline {section}{\numberline {3.6}{Neuronal calcium signaling}}{60}{section.3.6}
+\contentsline {section}{\numberline {3.7}{Differential expression of voltage-gated calcium channels}}{62}{section.3.7}
+\contentsline {section}{\numberline {3.8}{Comparison between the ON and OFF pathways in the fly optic lobe and the mouse retina}}{63}{section.3.8}
+\contentsline {section}{\numberline {3.9}{The function of the visual circuit during natural behavior}}{65}{section.3.9}
+\contentsline {section}{\numberline {3.10}{Conclusion}}{65}{section.3.10}
+\contentsline {chapter}{{Bibliography}}{67}{section.3.10}
