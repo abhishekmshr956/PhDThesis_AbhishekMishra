@@ -138,14 +138,53 @@
       \field{pages}{513\bibrangedash 524}
       \range{pages}{12}
     \endentry
+    \entry{Barlow1963}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=1,uniquepart=given,hash=1a733b33ba4521792f7ddb120baee25f}{%
+           family={Barlow},
+           familyi={B\bibinitperiod},
+           given={Horace\bibnamedelima B},
+           giveni={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=e943704d809dd11a773987f58ac29272}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Richard\bibnamedelima M},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Association for the Advancement of Science}%
+      }
+      \strng{namehash}{e9824501e477342aa8ab86b62dbac889}
+      \strng{fullhash}{e9824501e477342aa8ab86b62dbac889}
+      \strng{bibnamehash}{e9824501e477342aa8ab86b62dbac889}
+      \strng{authorbibnamehash}{e9824501e477342aa8ab86b62dbac889}
+      \strng{authornamehash}{e9824501e477342aa8ab86b62dbac889}
+      \strng{authorfullhash}{e9824501e477342aa8ab86b62dbac889}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1126/science.139.3553.412}{doi: 10.1126/science.139.3553.412}}
+      \field{journaltitle}{Science}
+      \field{number}{3553}
+      \field{title}{Selective sensitivity to direction of movement in ganglion cells of the rabbit retina}
+      \field{volume}{139}
+      \field{year}{1963}
+      \field{pages}{412\bibrangedash 414}
+      \range{pages}{3}
+    \endentry
     \entry{Barlow1965}{article}{}
       \name{author}{2}{}{%
-        {{uniquename=0,uniquepart=base,hash=b3a0e1615a7f454a572d574eec1060e3}{%
+        {{uniquename=1,uniquepart=given,hash=b3a0e1615a7f454a572d574eec1060e3}{%
            family={Barlow},
            familyi={B\bibinitperiod},
            given={HB},
            giveni={H\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{uniquename=0,uniquepart=base,hash=617b46960edf4fdb11d0942e03e86ffa}{%
            family={Levick},
            familyi={L\bibinitperiod},
@@ -1554,6 +1593,69 @@
       \field{pages}{3197\bibrangedash 3202}
       \range{pages}{6}
     \endentry
+    \entry{Yoshida2001}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=ecb386d16cd168728945253da74464c9}{%
+           family={Yoshida},
+           familyi={Y\bibinitperiod},
+           given={Kazumichi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2aed6fe6f95c8f0124b77cf7fe82412a}{%
+           family={Watanabe},
+           familyi={W\bibinitperiod},
+           given={Dai},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=925e42b913551046b297db9ec3d28bed}{%
+           family={Ishikane},
+           familyi={I\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0c0fac31cb3049de797eb0dbab516eb9}{%
+           family={Tachibana},
+           familyi={T\bibinitperiod},
+           given={Masao},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ad28e7df0ca059e30fc3a6eb053d7885}{%
+           family={Pastan},
+           familyi={P\bibinitperiod},
+           given={Ira},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=aa5dc44cd5a062c402467697d42ba82a}{%
+           family={Nakanishi},
+           familyi={N\bibinitperiod},
+           given={Shigetada},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{5187a6d5644dc055ecbc7de2cde8b6c1}
+      \strng{fullhash}{034372ae4f81198dbfb6caaddf25c644}
+      \strng{bibnamehash}{5187a6d5644dc055ecbc7de2cde8b6c1}
+      \strng{authorbibnamehash}{5187a6d5644dc055ecbc7de2cde8b6c1}
+      \strng{authornamehash}{5187a6d5644dc055ecbc7de2cde8b6c1}
+      \strng{authorfullhash}{034372ae4f81198dbfb6caaddf25c644}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/S0896-6273(01)00316-6}{doi: 10.1016/S0896-6273(01)00316-6}}
+      \field{journaltitle}{Neuron}
+      \field{number}{3}
+      \field{title}{A key role of starburst amacrine cells in originating retinal directional selectivity and optokinetic eye movement}
+      \field{volume}{30}
+      \field{year}{2001}
+      \field{pages}{771\bibrangedash 780}
+      \range{pages}{10}
+    \endentry
     \entry{Chapman2002}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=6ef1d98201080a35be87b7cc93b9fe59}{%
@@ -1586,6 +1688,51 @@
       \field{year}{2002}
       \field{pages}{498\bibrangedash 508}
       \range{pages}{11}
+    \endentry
+    \entry{Euler2002}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=81e00b6d0cfcc83b3d496d8f4380586c}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=98ed43c8c7ec1883865bd6fe6722dfa4}{%
+           family={Detwiler},
+           familyi={D\bibinitperiod},
+           given={Peter\bibnamedelima B},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d18823c5bb8d992572cfd964f5d82f9e}{%
+           family={Denk},
+           familyi={D\bibinitperiod},
+           given={Winfried},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{640ee25a9b8f319c5dc13d2d4177a4b7}
+      \strng{fullhash}{32bb079cc2a58bad58e23951ff0ec772}
+      \strng{bibnamehash}{32bb079cc2a58bad58e23951ff0ec772}
+      \strng{authorbibnamehash}{32bb079cc2a58bad58e23951ff0ec772}
+      \strng{authornamehash}{640ee25a9b8f319c5dc13d2d4177a4b7}
+      \strng{authorfullhash}{32bb079cc2a58bad58e23951ff0ec772}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/nature00931}{doi: 10.1038/nature00931}}
+      \field{journaltitle}{Nature}
+      \field{number}{6900}
+      \field{title}{Directionally selective calcium signals in dendrites of starburst amacrine cells}
+      \field{volume}{418}
+      \field{year}{2002}
+      \field{pages}{845\bibrangedash 852}
+      \range{pages}{8}
     \endentry
     \entry{Sabatini2002}{article}{}
       \name{author}{3}{}{%
@@ -2091,6 +2238,75 @@
       \field{year}{2008}
       \field{pages}{26\bibrangedash 38}
       \range{pages}{13}
+    \endentry
+    \entry{Elstrott2008}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=811f9c77ebb212030f1d307c1cfd2efa}{%
+           family={Elstrott},
+           familyi={E\bibinitperiod},
+           given={Justin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7db248a890ebff8fa41c525af61770a4}{%
+           family={Anishchenko},
+           familyi={A\bibinitperiod},
+           given={Anastasia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a360ce1630b6a626ee157164b073dba9}{%
+           family={Greschner},
+           familyi={G\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1eeca49c8f9c189b1456fab980e6f93f}{%
+           family={Sher},
+           familyi={S\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=85dd1140d7db2e9bc849a1f906482d9f}{%
+           family={Litke},
+           familyi={L\bibinitperiod},
+           given={Alan\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d5479ad5d9db05dd76f5d0ad3123cbda}{%
+           family={Chichilnisky},
+           familyi={C\bibinitperiod},
+           given={EJ},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ac7ba005b1a742000c3a9821d02d4024}{%
+           family={Feller},
+           familyi={F\bibinitperiod},
+           given={Marla\bibnamedelima B},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b69fac6590c92dccdd36d4d749d7ce2b}
+      \strng{fullhash}{01399979d8f76c8af6abd6c5c7d05ccf}
+      \strng{bibnamehash}{b69fac6590c92dccdd36d4d749d7ce2b}
+      \strng{authorbibnamehash}{b69fac6590c92dccdd36d4d749d7ce2b}
+      \strng{authornamehash}{b69fac6590c92dccdd36d4d749d7ce2b}
+      \strng{authorfullhash}{01399979d8f76c8af6abd6c5c7d05ccf}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2008.03.013}{doi: 10.1016/j.neuron.2008.03.013}}
+      \field{journaltitle}{Neuron}
+      \field{number}{4}
+      \field{title}{Direction selectivity in the retina is established independent of visual experience and cholinergic retinal waves}
+      \field{volume}{58}
+      \field{year}{2008}
+      \field{pages}{499\bibrangedash 506}
+      \range{pages}{8}
     \endentry
     \entry{Joesch2008}{article}{}
       \name{author}{4}{}{%
@@ -2900,6 +3116,51 @@
       \field{pages}{1646\bibrangedash 1657}
       \range{pages}{12}
     \endentry
+    \entry{Briggman2011}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=1bd349cf430b2f271c90202cdc520da5}{%
+           family={Briggman},
+           familyi={B\bibinitperiod},
+           given={Kevin\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d27d34da05d38f697ad27c1842e22682}{%
+           family={Helmstaedter},
+           familyi={H\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d18823c5bb8d992572cfd964f5d82f9e}{%
+           family={Denk},
+           familyi={D\bibinitperiod},
+           given={Winfried},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{61d997adbb526eb8b324b933bae7fb02}
+      \strng{fullhash}{ca14df6f87dd843a2447d225321453c8}
+      \strng{bibnamehash}{ca14df6f87dd843a2447d225321453c8}
+      \strng{authorbibnamehash}{ca14df6f87dd843a2447d225321453c8}
+      \strng{authornamehash}{61d997adbb526eb8b324b933bae7fb02}
+      \strng{authorfullhash}{ca14df6f87dd843a2447d225321453c8}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/nature09818}{doi: 10.1038/nature09818}}
+      \field{journaltitle}{Nature}
+      \field{number}{7337}
+      \field{title}{Wiring specificity in the direction-selectivity circuit of the retina}
+      \field{volume}{471}
+      \field{year}{2011}
+      \field{pages}{183\bibrangedash 188}
+      \range{pages}{6}
+    \endentry
     \entry{Catterall2011}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=2fdf9cf67024c5fdc2a46b728e4f1f39}{%
@@ -3547,6 +3808,57 @@
       \field{year}{2012}
       \field{pages}{389\bibrangedash 395}
       \range{pages}{7}
+    \endentry
+    \entry{Baden2013}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=3502c3b40a59d847e7d9723a01cc8230}{%
+           family={Baden},
+           familyi={B\bibinitperiod},
+           given={Tom},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=30f46bf5fd8b18adc9707a70cec598b6}{%
+           family={Berens},
+           familyi={B\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=653ad8c2337d9615a186b743cc8d69a5}{%
+           family={Bethge},
+           familyi={B\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=81e00b6d0cfcc83b3d496d8f4380586c}{%
+           family={Euler},
+           familyi={E\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{b5b8d1f8f5928ad87cfd5959dbf12b25}
+      \strng{fullhash}{d64ec61ee52a6edc11773cb8a6e509b6}
+      \strng{bibnamehash}{d64ec61ee52a6edc11773cb8a6e509b6}
+      \strng{authorbibnamehash}{d64ec61ee52a6edc11773cb8a6e509b6}
+      \strng{authornamehash}{b5b8d1f8f5928ad87cfd5959dbf12b25}
+      \strng{authorfullhash}{d64ec61ee52a6edc11773cb8a6e509b6}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2012.11.006}{doi: 10.1016/j.cub.2012.11.006}}
+      \field{journaltitle}{Current Biology}
+      \field{number}{1}
+      \field{title}{Spikes in mammalian bipolar cells support temporal layering of the inner retina}
+      \field{volume}{23}
+      \field{year}{2013}
+      \field{pages}{48\bibrangedash 52}
+      \range{pages}{5}
     \endentry
     \entry{Bahl2013}{article}{}
       \name{author}{4}{}{%
@@ -4486,6 +4798,95 @@
       \field{year}{2014}
       \field{pages}{12127\bibrangedash 12144}
       \range{pages}{18}
+    \endentry
+    \entry{Kim2014}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=1,uniquepart=given,hash=20ae0c9e908524ede8965762f49c8f8c}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Jinseop\bibnamedelima S},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=07bfa85d7c1ca550fe593e57f100c3c7}{%
+           family={Greene},
+           familyi={G\bibinitperiod},
+           given={Matthew\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c1b9f9947c9863e1550b1ad4dcb1dd3c}{%
+           family={Zlateski},
+           familyi={Z\bibinitperiod},
+           given={Aleksandar},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=54c7b8f057db7fcb8f2e01f503f4f132}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Kisuk},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=35d41f46e6f0feebc748be902b1e6b17}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=1adfe02e5d966f8dc5ffa03a4812e235}{%
+           family={Turaga},
+           familyi={T\bibinitperiod},
+           given={Srinivas\bibnamedelima C},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4ff19f9391652a3ba2b3b5f40de6a008}{%
+           family={Purcaro},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=c19507bec1a9a4da35462e0442263fda}{%
+           family={Balkam},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=bc15692ee4bfede2a02412fc9bca5935}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=58c09b00e05e91efb75c306b76c74651}{%
+           family={Behabadi},
+           familyi={B\bibinitperiod},
+           given={Bardia\bibnamedelima F},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group}%
+      }
+      \strng{namehash}{be183e6f355c9a081d59ea752f5c1c28}
+      \strng{fullhash}{c7cf7c0355faf235a773126c2cf9e7c4}
+      \strng{bibnamehash}{be183e6f355c9a081d59ea752f5c1c28}
+      \strng{authorbibnamehash}{be183e6f355c9a081d59ea752f5c1c28}
+      \strng{authornamehash}{be183e6f355c9a081d59ea752f5c1c28}
+      \strng{authorfullhash}{c7cf7c0355faf235a773126c2cf9e7c4}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1038/nature13240}{doi: 10.1038/nature13240}}
+      \field{journaltitle}{Nature}
+      \field{number}{7500}
+      \field{title}{Space--time wiring specificity supports direction selectivity in the retina}
+      \field{volume}{509}
+      \field{year}{2014}
+      \field{pages}{331\bibrangedash 336}
+      \range{pages}{6}
     \endentry
     \entry{Mauss2014}{article}{}
       \name{author}{4}{}{%
@@ -5439,12 +5840,12 @@
     \endentry
     \entry{Kim2017}{article}{}
       \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=7a1f1ba8ac3d743256ad1c28fb9f7da8}{%
+        {{uniquename=1,uniquepart=given,hash=7a1f1ba8ac3d743256ad1c28fb9f7da8}{%
            family={Kim},
            familyi={K\bibinitperiod},
            given={Anmo\bibnamedelima J},
            giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{uniquename=0,uniquepart=base,hash=dd26f971c9e2c6dcd33902a0e392ce05}{%
            family={Fenk},
            familyi={F\bibinitperiod},
@@ -5971,12 +6372,12 @@
            given={Eric},
            giveni={E\bibinitperiod},
            givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=fa4cfe080c9cfaa1fe43c7dc8d4c96df}{%
+        {{uniquename=1,uniquepart=given,hash=fa4cfe080c9cfaa1fe43c7dc8d4c96df}{%
            family={Robinson},
            familyi={R\bibinitperiod},
            given={Camenzind\bibnamedelima G},
            giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{uniquename=0,uniquepart=base,hash=0330c5289b8ba90f9c1e4cee6c97a560}{%
            family={Nichols},
            familyi={N\bibinitperiod},

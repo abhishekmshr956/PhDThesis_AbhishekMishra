@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  31 AUG 2022 14:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  1 SEP 2022 11:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2540,14 +2540,8 @@ Overfull \hbox (22.90414pt too wide) has occurred while \output is active
  []|[]|
  []
 
-[57] [58 <./graphics/Receptors_Fig_1.png>]
-Overfull \hbox (6.86557pt too wide) in paragraph at lines 48--49
-\T1/pplj/m/n/10.95 fects the hy-per-po-lar-iza-tion when stim-u-lated along the
-ir null di-rec-tion ([]Schnell
- []
-
-[59]
-<graphics/LPi_figure.pdf, id=1689, 594.05943pt x 432.18008pt>
+[57] [58 <./graphics/Receptors_Fig_1.png>] [59]
+<graphics/LPi_figure.pdf, id=1686, 594.05943pt x 432.18008pt>
 File: graphics/LPi_figure.pdf Graphic file (type pdf)
 <use graphics/LPi_figure.pdf>
 Package pdftex.def Info: graphics/LPi_figure.pdf  used on input line 53.
@@ -2557,7 +2551,7 @@ Overfull \hbox (19.80597pt too wide) in paragraph at lines 52--54
  []|  [] 
  []
 
-<graphics/LpiBlock.jpg, id=1696, 490.7133pt x 130.66415pt>
+<graphics/LpiBlock.jpg, id=1693, 490.7133pt x 130.66415pt>
 File: graphics/LpiBlock.jpg Graphic file (type jpg)
 <use graphics/LpiBlock.jpg>
 Package pdftex.def Info: graphics/LpiBlock.jpg  used on input line 69.
@@ -2609,30 +2603,31 @@ Overfull \hbox (6.82204pt too wide) in paragraph at lines 101--101
  []
 
 [65]
-<graphics/fly_mouse_comparison.png, id=1781, 649.58685pt x 482.5227pt>
+Overfull \hbox (11.84781pt too wide) in paragraph at lines 114--115
+\T1/pplj/m/n/10.95 GABAer-gic star-burst amacrine cells (SACs) are nec-es-sary 
+for direction-selective
+ []
+
+[66]
+<graphics/fly_mouse_comparison.png, id=1799, 649.58685pt x 482.5227pt>
 File: graphics/fly_mouse_comparison.png Graphic file (type png)
 <use graphics/fly_mouse_comparison.png>
 Package pdftex.def Info: graphics/fly_mouse_comparison.png  used on input line 
-118.
+119.
 (pdftex.def)             Requested size: 389.75511pt x 289.51585pt.
 
-Overfull \hbox (2.44328pt too wide) in paragraph at lines 123--123
+Overfull \hbox (2.44328pt too wide) in paragraph at lines 124--124
 |[]\T1/iwona/m/sc/14.4/80ls the func-tion of the vi-sual cir-cuit dur-ing nat- 
 
  []
 
-[66]
-Overfull \hbox (150.05069pt too wide) has occurred while \output is active
- []|[]|
- []
-
-[67 <./graphics/fly_mouse_comparison.png>]
-Overfull \hbox (0.2729pt too wide) in paragraph at lines 129--130
+[67] [68 <./graphics/fly_mouse_comparison.png>]
+Overfull \hbox (0.2729pt too wide) in paragraph at lines 130--131
 \T1/pplj/m/n/10.95 In the course of this work, I in-ves-ti-gated neu-ral com-pu
 -ta-tion in the \T1/pplj/m/it/10.95 Drosophila
  []
 
-[68]) [69] [70
+) [69] [70
 
 
 
@@ -2655,13 +2650,13 @@ Overfull \hbox (7.00764pt too wide) in paragraph at lines 110--110
 T1/pplj/m/n/10.95 471^^U483 (1984). [][]doi: 10.1007/BF00611912[][] 
  []
 
-
+[71]
 Overfull \hbox (9.17578pt too wide) in paragraph at lines 110--110
 [][]\T1/pplj/m/n/10.95 Fischbach, K.[]F. & Dit-trich, A. The op-tic lobe of Dro
 sophila melanogaster.
  []
 
-[71] [72]
+[72]
 Overfull \hbox (3.77736pt too wide) in paragraph at lines 110--110
 \T1/pplj/m/it/10.95 science \T1/pplj/b/n/10.95 19, \T1/pplj/m/n/10.95 1691^^U16
 97 (1999). [][]doi: 10.1523/JNEUROSCI.19-05-01691.1999[][] 
@@ -2674,45 +2669,45 @@ l-ogy \T1/pplj/b/n/10.95 14, \T1/pplj/m/n/10.95 576^^U584 (2004). [][]doi: 10.1
 016/j.tcb.2004.09.007[][] 
  []
 
-
+[73]
 Overfull \hbox (1.47533pt too wide) in paragraph at lines 110--110
 [][]\T1/pplj/m/n/10.95 Gutman, G. A. \T1/pplj/m/it/10.95 et al. \T1/pplj/m/n/10
 .95 In-ter-na-tional Union of Phar-ma-col-ogy. LIII. Nomen-
  []
 
-[73]
+
 Overfull \hbox (24.26405pt too wide) in paragraph at lines 110--110
 [][]\T1/pplj/m/n/10.95 Pfeiffer, B. D. \T1/pplj/m/it/10.95 et al. \T1/pplj/m/n/
 10.95 Tools for neu-roanatomy and neu-ro-ge-net-ics in Drosophila.
  []
 
-[74]
+[74] [75]
 Overfull \hbox (10.23143pt too wide) in paragraph at lines 110--110
 \T1/pplj/m/n/10.95 mals. \T1/pplj/m/it/10.95 Jour-nal of The Royal So-ci-ety In
 -ter-face \T1/pplj/b/n/10.95 8, \T1/pplj/m/n/10.95 395^^U409 (2011). [][]doi: 1
 0.1098/r-
  []
 
-[75]
+
 Overfull \hbox (5.42441pt too wide) in paragraph at lines 110--110
 \T1/pplj/m/n/10.95 ex-pres-sion. \T1/pplj/m/it/10.95 Neu-ron \T1/pplj/b/n/10.95
  74, \T1/pplj/m/n/10.95 887^^U898 (2012). [][]doi: 10.1016/j.neuron.2012.03.039
 [][] 
  []
 
-
+[76]
 Overfull \hbox (1.8687pt too wide) in paragraph at lines 110--110
 [][]\T1/pplj/m/n/10.95 Lin, J. Y., Knut-sen, P. M., Muller, A., Kle-in-feld, D.
  & Tsien, R. Y. ReaChR:
  []
 
-[76]
+[77]
 Overfull \hbox (13.24844pt too wide) in paragraph at lines 110--110
 \T1/pplj/m/n/10.95 J. L. Nat-u-ral light-gated an-ion chan-nels: A fam-ily of m
 i-cro-bial rhodopsins
  []
 
-[77]
+
 Overfull \hbox (29.45961pt too wide) in paragraph at lines 110--110
 \T1/pplj/m/n/10.95 mo-tion de-tec-tor. \T1/pplj/m/it/10.95 Neu-ron \T1/pplj/b/n
 /10.95 89, \T1/pplj/m/n/10.95 829^^U841 (2016). [][]doi: 10.1016/j.neuron.2016.
@@ -2791,10 +2786,10 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35922 strings out of 492649
- 700796 string characters out of 6129622
- 1362472 words of memory out of 5000000
- 38934 multiletter control sequences out of 15000+600000
+ 35957 strings out of 492649
+ 701678 string characters out of 6129622
+ 1373196 words of memory out of 5000000
+ 38962 multiletter control sequences out of 15000+600000
  669674 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,22n,97p,10376b,3087s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2827,10 +2822,10 @@ alatino/uplb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino
 /uplbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8
 a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
 
-Output written on thesis.pdf (95 pages, 28827324 bytes).
+Output written on thesis.pdf (95 pages, 28831190 bytes).
 PDF statistics:
- 2230 PDF objects out of 2487 (max. 8388607)
- 1486 compressed objects within 15 object streams
- 280 named destinations out of 1000 (max. 500000)
+ 2254 PDF objects out of 2487 (max. 8388607)
+ 1509 compressed objects within 16 object streams
+ 287 named destinations out of 1000 (max. 500000)
  29723 words of extra memory for PDF output out of 29859 (max. 10000000)
 

@@ -45,6 +45,6 @@
 \contentsline {section}{\numberline {3.6}{Neuronal calcium signaling}}{64}{section.3.6}
 \contentsline {section}{\numberline {3.7}{Differential expression of voltage-gated calcium channels}}{65}{section.3.7}
 \contentsline {section}{\numberline {3.8}{Comparison between the ON and OFF pathways in the fly optic lobe and the mouse retina}}{66}{section.3.8}
-\contentsline {section}{\numberline {3.9}{The function of the visual circuit during natural behavior}}{68}{section.3.9}
-\contentsline {section}{\numberline {3.10}{Conclusion}}{68}{section.3.10}
+\contentsline {section}{\numberline {3.9}{The function of the visual circuit during natural behavior}}{67}{section.3.9}
+\contentsline {section}{\numberline {3.10}{Conclusion}}{69}{section.3.10}
 \contentsline {chapter}{{Bibliography}}{71}{section.3.10}
