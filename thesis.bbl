@@ -3859,12 +3859,9 @@
       \true{moreauthor}
       \true{morelabelname}
       \name{author}{10}{}{%
-        {{uniquename=1,uniquepart=given,hash=20ae0c9e908524ede8965762f49c8f8c}{%
+        {{uniquename=0,uniquepart=base,hash=f55fbaaca148300ac11f7752528cae3d}{%
            family={Kim},
-           familyi={K\bibinitperiod},
-           given={Jinseop\bibnamedelima S},
-           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=1}}%
+           familyi={K\bibinitperiod}}}%
         {{uniquename=0,uniquepart=base,hash=07bfa85d7c1ca550fe593e57f100c3c7}{%
            family={Greene},
            familyi={G\bibinitperiod},
@@ -3923,12 +3920,12 @@
       \list{publisher}{1}{%
         {Nature Publishing Group}%
       }
-      \strng{namehash}{be183e6f355c9a081d59ea752f5c1c28}
-      \strng{fullhash}{c7cf7c0355faf235a773126c2cf9e7c4}
-      \strng{bibnamehash}{be183e6f355c9a081d59ea752f5c1c28}
-      \strng{authorbibnamehash}{be183e6f355c9a081d59ea752f5c1c28}
-      \strng{authornamehash}{be183e6f355c9a081d59ea752f5c1c28}
-      \strng{authorfullhash}{c7cf7c0355faf235a773126c2cf9e7c4}
+      \strng{namehash}{07c4d481d0495d958a769381d2b0739a}
+      \strng{fullhash}{af45d2605faa059160e64c5a570e8fa3}
+      \strng{bibnamehash}{07c4d481d0495d958a769381d2b0739a}
+      \strng{authorbibnamehash}{07c4d481d0495d958a769381d2b0739a}
+      \strng{authornamehash}{07c4d481d0495d958a769381d2b0739a}
+      \strng{authorfullhash}{af45d2605faa059160e64c5a570e8fa3}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
       \field{extradatescope}{labelyear}

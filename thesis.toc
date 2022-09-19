@@ -26,7 +26,7 @@
 \contentsline {subsection}{\numberline {1.5.1}{Parallel ON and OFF processing pathways}}{12}{subsection.1.5.1}
 \contentsline {subsection}{\numberline {1.5.2}{T4 and T5 cells}}{13}{subsection.1.5.2}
 \contentsline {section}{\numberline {1.6}{Neural circuit underlying direction selectivity}}{13}{section.1.6}
-\contentsline {section}{\numberline {1.7}{Neural algorithm underlying direction selectivity}}{14}{section.1.7}
+\contentsline {section}{\numberline {1.7}{Neural algorithm underlying direction selectivity}}{15}{section.1.7}
 \contentsline {chapter}{\numberline {2}{Publications}}{19}{chapter.2}
 \contentsline {section}{\numberline {2.1}{A common directional tuning mechanism of \textit {Drosophila} motion-sensing neurons in the ON and in the OFF pathway}}{19}{section.2.1}
 \contentsline {paragraph}{{Abstract}}{19}{section.2.1}

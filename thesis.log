@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  19 SEP 2022 15:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  19 SEP 2022 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2539,7 +2539,7 @@ Overfull \hbox (159.78218pt too wide) has occurred while \output is active
  []
 
 [57 <./graphics/Receptors_Fig_1.png>] [58] [59]
-<graphics/LPi_figure.pdf, id=1715, 594.05943pt x 432.18008pt>
+<graphics/LPi_figure.pdf, id=1714, 594.05943pt x 432.18008pt>
 File: graphics/LPi_figure.pdf Graphic file (type pdf)
 <use graphics/LPi_figure.pdf>
 Package pdftex.def Info: graphics/LPi_figure.pdf  used on input line 53.
@@ -2549,7 +2549,7 @@ Overfull \hbox (19.80597pt too wide) in paragraph at lines 52--54
  []|  [] 
  []
 
-<graphics/LpiBlock.jpg, id=1724, 490.7133pt x 130.66415pt>
+<graphics/LpiBlock.jpg, id=1723, 490.7133pt x 130.66415pt>
 File: graphics/LpiBlock.jpg Graphic file (type jpg)
 <use graphics/LpiBlock.jpg>
 Package pdftex.def Info: graphics/LpiBlock.jpg  used on input line 71.
@@ -2744,13 +2744,13 @@ Package logreq Info: Writing requests to 'thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36034 strings out of 492649
- 703515 string characters out of 6129622
- 1391023 words of memory out of 5000000
- 39023 multiletter control sequences out of 15000+600000
+ 36035 strings out of 492649
+ 703535 string characters out of 6129622
+ 1389775 words of memory out of 5000000
+ 39024 multiletter control sequences out of 15000+600000
  669674 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,23n,97p,10376b,3087s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,22n,97p,10376b,3087s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2018/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/local/texlive/2
 018/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc}</usr/local/texlive/2018/t
@@ -2778,10 +2778,10 @@ ic/stix/stix-mathrm.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/pal
 atino/uplb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/u
 plbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.
 pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on thesis.pdf (97 pages, 28836120 bytes).
+Output written on thesis.pdf (97 pages, 28835938 bytes).
 PDF statistics:
- 2319 PDF objects out of 2487 (max. 8388607)
- 1573 compressed objects within 16 object streams
+ 2318 PDF objects out of 2487 (max. 8388607)
+ 1572 compressed objects within 16 object streams
  303 named destinations out of 1000 (max. 500000)
  29723 words of extra memory for PDF output out of 29859 (max. 10000000)
 
