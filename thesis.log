@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  14 SEP 2022 10:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  19 SEP 2022 15:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1406,38 +1406,38 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 Package biblatex Warning: Conflicting options.
 (biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
-(biblatex)                Setting 'uniquename=init' on input line 60.
+(biblatex)                Setting 'uniquename=init' on input line 62.
 
 (./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Try loading font information for T1+pplj on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Try loading font information for T1+pplj on input line 62.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )
-LaTeX Info: Redefining \celsius on input line 60.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 60.
+LaTeX Info: Redefining \celsius on input line 62.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 62.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 60.
-Package gensymb Info: Using \upOmega for \ohm on input line 60.
+LaTeX Info: Redefining \ohm on input line 62.
+Package gensymb Info: Using \upOmega for \ohm on input line 62.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1449,8 +1449,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'thesis.bbl' found.
 (./thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 60.
-Package biblatex Info: Reference segment=0 on input line 60.
+Package biblatex Info: Reference section=0 on input line 62.
+Package biblatex Info: Reference segment=0 on input line 62.
 \c@lstlisting=\count444
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1571,7 +1571,7 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 \AtBeginShipoutBox=\box62
-Package hyperref Info: Link coloring ON on input line 60.
+Package hyperref Info: Link coloring ON on input line 62.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1580,15 +1580,15 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count451
 )
-LaTeX Info: Redefining \ref on input line 60.
-LaTeX Info: Redefining \pageref on input line 60.
-LaTeX Info: Redefining \nameref on input line 60.
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write5
 \openout5 = `thesis.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 60.
+LaTeX Info: Redefining \microtypecontext on input line 62.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1608,7 +1608,7 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-LaTeX Font Info:    Try loading font information for U+zeur on input line 60.
+LaTeX Font Info:    Try loading font information for U+zeur on input line 62.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/eulervm/uzeur.fd
 File: uzeur.fd 2005/01/11 v4.0 (WaS)
@@ -1616,7 +1616,7 @@ File: uzeur.fd 2005/01/11 v4.0 (WaS)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-eur.cfg
 File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 )
-LaTeX Font Info:    Try loading font information for U+zeus on input line 60.
+LaTeX Font Info:    Try loading font information for U+zeus on input line 62.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/eulervm/uzeus.fd
 File: uzeus.fd 2005/01/11 v4.0 (WaS)
@@ -1624,7 +1624,7 @@ File: uzeus.fd 2005/01/11 v4.0 (WaS)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-eus.cfg
 File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
 )
-LaTeX Font Info:    Try loading font information for U+zeuex on input line 60.
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 62.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/eulervm/uzeuex.fd
 File: uzeuex.fd 2005/01/11 v4.0 (WaS)
@@ -1635,13 +1635,13 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+esvect on input line 60.
+LaTeX Font Info:    Try loading font information for U+esvect on input line 62.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/esvect/uesvect.fd
 File: uesvect.fd 
 )
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 60.
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 62.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1zplm.fd
@@ -1651,7 +1651,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `zplm' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 60.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 62.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1660,21 +1660,21 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for T1+fvm on input line 60.
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 62.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/bera/t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 9.30756pt on input line 60.
+(Font)              scaled to size 9.30756pt on input line 62.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `fvm' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 60.
+(Font)              scaled to size 6.80005pt on input line 62.
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 5.10004pt on input line 60.
+(Font)              scaled to size 5.10004pt on input line 62.
 
 (./sidematter/titlepage.tex
 LaTeX Font Info:    Try loading font information for T1+iwona on input line 7.
@@ -1711,7 +1711,7 @@ Package pdftex.def Info: graphics/GSN_Logo_2.jpg  used on input line 31.
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./graph
 ics/Siegel_LMU.pdf> <./graphics/GSN_Logo_2.jpg>]) (./sidematter/titleback.tex
 Overfull \hbox (0.2666pt too wide) in paragraph at lines 33--38
-[][]\T1/fvm/m/n/10.95 abhishek.mishra@bi.mpg.de[][]   \T1/pplj/m/n/10.95 13$[]$
+[][]\T1/fvm/m/n/10.95 abhishek.mishra@bi.mpg.de[][]   \T1/pplj/m/n/10.95 19$[]$
  of Septem-ber, 2022 
  []
 
@@ -1867,7 +1867,7 @@ Overfull \hbox (53.84682pt too wide) in paragraph at lines 110--112
  []
 
 [9] [10 <./graphics/fly_optic_lobe.pdf>] [11] [12] [13]
-<graphics/t4t5inputsynapses.jpg, id=627, 2367.84625pt x 1466.47874pt>
+<graphics/t4t5inputsynapses.jpg, id=626, 2367.84625pt x 1466.47874pt>
 File: graphics/t4t5inputsynapses.jpg Graphic file (type jpg)
 <use graphics/t4t5inputsynapses.jpg>
 Package pdftex.def Info: graphics/t4t5inputsynapses.jpg  used on input line 148
@@ -1879,9 +1879,9 @@ Overfull \hbox (18.78021pt too wide) in paragraph at lines 147--149
  []
 
 
-Overfull \hbox (5.71582pt too wide) in paragraph at lines 153--154
+Overfull \hbox (8.70517pt too wide) in paragraph at lines 153--154
 []\T1/pplj/m/n/10.95 Most of these in-put el-e-ments have been char-ac-terised 
-phys-i-o-log-i-cally ([]Serbe
+phys-i-o-log-i-cally ([]Arenz
  []
 
 
@@ -1986,7 +1986,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page3 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [23 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=795, page=4, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=796, page=4, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 4>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page4 used on input line
@@ -2520,7 +2520,7 @@ Overfull \hbox (2.20093pt too wide) in paragraph at lines 16--17
 es are not connection-
  []
 
-<graphics/Receptors_Fig_1.png, id=1655, 541.3023pt x 754.3382pt>
+<graphics/Receptors_Fig_1.png, id=1658, 541.3023pt x 754.3382pt>
 File: graphics/Receptors_Fig_1.png Graphic file (type png)
 <use graphics/Receptors_Fig_1.png>
 Package pdftex.def Info: graphics/Receptors_Fig_1.png  used on input line 21.
@@ -2539,7 +2539,7 @@ Overfull \hbox (159.78218pt too wide) has occurred while \output is active
  []
 
 [57 <./graphics/Receptors_Fig_1.png>] [58] [59]
-<graphics/LPi_figure.pdf, id=1709, 594.05943pt x 432.18008pt>
+<graphics/LPi_figure.pdf, id=1715, 594.05943pt x 432.18008pt>
 File: graphics/LPi_figure.pdf Graphic file (type pdf)
 <use graphics/LPi_figure.pdf>
 Package pdftex.def Info: graphics/LPi_figure.pdf  used on input line 53.
@@ -2549,13 +2549,13 @@ Overfull \hbox (19.80597pt too wide) in paragraph at lines 52--54
  []|  [] 
  []
 
-<graphics/LpiBlock.jpg, id=1719, 490.7133pt x 130.66415pt>
+<graphics/LpiBlock.jpg, id=1724, 490.7133pt x 130.66415pt>
 File: graphics/LpiBlock.jpg Graphic file (type jpg)
 <use graphics/LpiBlock.jpg>
 Package pdftex.def Info: graphics/LpiBlock.jpg  used on input line 71.
 (pdftex.def)             Requested size: 392.57117pt x 104.53145pt.
 [60] [61 <./graphics/LPi_figure.pdf>]
-<graphics/GEVI_overview.pdf, id=1751, 673.55638pt x 506.09587pt>
+<graphics/GEVI_overview.pdf, id=1754, 673.55638pt x 506.09587pt>
 File: graphics/GEVI_overview.pdf Graphic file (type pdf)
 <use graphics/GEVI_overview.pdf>
 Package pdftex.def Info: graphics/GEVI_overview.pdf  used on input line 86.
@@ -2583,12 +2583,6 @@ Overfull \hbox (4.1682pt too wide) in paragraph at lines 96--97
 M-PARs). In the mam-
  []
 
-
-Overfull \hbox (6.00047pt too wide) in paragraph at lines 96--97
-\T1/pplj/m/n/10.95 malian cen-tral ner-vous sys-tem (CNS), AM-PARs trans-mit fa
-st ex-ci-ta-tory synap-
- []
-
 [64]
 Overfull \hbox (15.35182pt too wide) in paragraph at lines 101--102
 \T1/pplj/m/n/10.95 tion, the volt-age to cal-cium trans-for-ma-tion we stud-ied
@@ -2607,7 +2601,7 @@ for direction-selective
  []
 
 [66]
-<graphics/fly_mouse_comparison.png, id=1829, 649.58685pt x 482.5227pt>
+<graphics/fly_mouse_comparison.png, id=1835, 649.58685pt x 482.5227pt>
 File: graphics/fly_mouse_comparison.png Graphic file (type png)
 <use graphics/fly_mouse_comparison.png>
 Package pdftex.def Info: graphics/fly_mouse_comparison.png  used on input line 
@@ -2629,63 +2623,69 @@ Overfull \hbox (0.2729pt too wide) in paragraph at lines 132--133
 
 
 
-]
-Overfull \hbox (6.43669pt too wide) in paragraph at lines 110--110
-\T1/pplj/m/n/10.95 retina, a neu-ro-crys-talline lat-tice. \T1/pplj/m/it/10.95 
-De-vel-op-men-tal bi-ol-ogy \T1/pplj/b/n/10.95 53, \T1/pplj/m/n/10.95 217^^U240
- (1976).
- []
-
-[71]
-Overfull \hbox (9.17578pt too wide) in paragraph at lines 110--110
+] [71] [72] [73]
+Overfull \hbox (9.17578pt too wide) in paragraph at lines 112--112
 [][]\T1/pplj/m/n/10.95 Fischbach, K.[]F. & Dit-trich, A. The op-tic lobe of Dro
 sophila melanogaster.
  []
 
-[72]
-Overfull \hbox (3.77736pt too wide) in paragraph at lines 110--110
-\T1/pplj/m/it/10.95 science \T1/pplj/b/n/10.95 19, \T1/pplj/m/n/10.95 1691^^U16
-97 (1999). [][]doi: 10.1523/JNEUROSCI.19-05-01691.1999[][] 
+
+Overfull \hbox (13.24844pt too wide) in paragraph at lines 112--112
+\T1/pplj/m/n/10.95 J. L. Nat-u-ral light-gated an-ion chan-nels: A fam-ily of m
+i-cro-bial rhodopsins
  []
 
-[73]
-Overfull \hbox (1.47533pt too wide) in paragraph at lines 110--110
+
+Overfull \hbox (11.09915pt too wide) in paragraph at lines 112--112
+\T1/pplj/m/n/10.95 böck, G. Den-dritic in-te-gra-tion of sen-sory ev-i-dence in
+ per-cep-tual decision-
+ []
+
+[74]
+Overfull \hbox (1.47533pt too wide) in paragraph at lines 112--112
 [][]\T1/pplj/m/n/10.95 Gutman, G. A. \T1/pplj/m/it/10.95 et al. \T1/pplj/m/n/10
 .95 In-ter-na-tional Union of Phar-ma-col-ogy. LIII. Nomen-
  []
 
-[74]
-Overfull \hbox (24.26405pt too wide) in paragraph at lines 110--110
-[][]\T1/pplj/m/n/10.95 Pfeiffer, B. D. \T1/pplj/m/it/10.95 et al. \T1/pplj/m/n/
-10.95 Tools for neu-roanatomy and neu-ro-ge-net-ics in Drosophila.
+[75]
+Overfull \hbox (3.77736pt too wide) in paragraph at lines 112--112
+\T1/pplj/m/it/10.95 science \T1/pplj/b/n/10.95 19, \T1/pplj/m/n/10.95 1691^^U16
+97 (1999). [][]doi: 10.1523/JNEUROSCI.19-05-01691.1999[][] 
  []
 
-[75] [76]
-Overfull \hbox (5.42441pt too wide) in paragraph at lines 110--110
+[76]
+Overfull \hbox (1.8687pt too wide) in paragraph at lines 112--112
+[][]\T1/pplj/m/n/10.95 Lin, J. Y., Knut-sen, P. M., Muller, A., Kle-in-feld, D.
+ & Tsien, R. Y. ReaChR:
+ []
+
+[77]
+Overfull \hbox (5.42441pt too wide) in paragraph at lines 112--112
 \T1/pplj/m/n/10.95 ex-pres-sion. \T1/pplj/m/it/10.95 Neu-ron \T1/pplj/b/n/10.95
  74, \T1/pplj/m/n/10.95 887^^U898 (2012). [][]doi: 10.1016/j.neuron.2012.03.039
 [][] 
  []
 
 
-Overfull \hbox (1.8687pt too wide) in paragraph at lines 110--110
-[][]\T1/pplj/m/n/10.95 Lin, J. Y., Knut-sen, P. M., Muller, A., Kle-in-feld, D.
- & Tsien, R. Y. ReaChR:
- []
-
-[77]
-Overfull \hbox (13.24844pt too wide) in paragraph at lines 110--110
-\T1/pplj/m/n/10.95 J. L. Nat-u-ral light-gated an-ion chan-nels: A fam-ily of m
-i-cro-bial rhodopsins
- []
-
-[78] [79]
-Overfull \hbox (14.1692pt too wide) in paragraph at lines 110--110
+Overfull \hbox (14.1692pt too wide) in paragraph at lines 112--112
 \T1/pplj/m/n/10.95 tem is a mul-ti-sy-nap-tic pro-cess in-volv-ing both glu-ta-
 mater-gic and GABAer-
  []
 
-[80] [81] [82
+
+Overfull \hbox (24.26405pt too wide) in paragraph at lines 112--112
+[][]\T1/pplj/m/n/10.95 Pfeiffer, B. D. \T1/pplj/m/it/10.95 et al. \T1/pplj/m/n/
+10.95 Tools for neu-roanatomy and neu-ro-ge-net-ics in Drosophila.
+ []
+
+[78]
+Overfull \hbox (6.43669pt too wide) in paragraph at lines 112--112
+\T1/pplj/m/n/10.95 retina, a neu-ro-crys-talline lat-tice. \T1/pplj/m/it/10.95 
+De-vel-op-men-tal bi-ol-ogy \T1/pplj/b/n/10.95 53, \T1/pplj/m/n/10.95 217^^U240
+ (1976).
+ []
+
+[79] [80] [81] [82
 
 
 ] (./sidematter/acknowledgments.tex) [83] [84
@@ -2732,25 +2732,25 @@ Overfull \hbox (13.36995pt too wide) in paragraph at lines 36--47
 
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 128.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 128.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
  (./thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 128.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 128.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: CF1282945CE9DA67891A8523326BEDC3;3193.
+(rerunfilecheck)             Checksum: 9FF2EE44649173DAE0E49BEE9CC2A88D;3175.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36021 strings out of 492649
- 703168 string characters out of 6129622
- 1389256 words of memory out of 5000000
- 39013 multiletter control sequences out of 15000+600000
+ 36034 strings out of 492649
+ 703515 string characters out of 6129622
+ 1391023 words of memory out of 5000000
+ 39023 multiletter control sequences out of 15000+600000
  669674 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,22n,97p,10376b,3087s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,23n,97p,10376b,3087s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2018/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/local/texlive/2
 018/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc}</usr/local/texlive/2018/t
@@ -2765,25 +2765,23 @@ r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></u
 sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb><
 /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eurm10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eurm7.pf
-b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eusm10.
-pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></us
-r/local/texlive/2018/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/
-texlive/2018/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive
-/2018/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2018/te
-xmf-dist/fonts/type1/nowacki/iwona/iwonab.pfb></usr/local/texlive/2018/texmf-di
-st/fonts/type1/nowacki/iwona/iwonar.pfb></usr/local/texlive/2018/texmf-dist/fon
-ts/type1/nowacki/iwona/iwonari.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
-pe1/public/stix/stix-mathex.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
-/public/stix/stix-mathit.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/pu
-blic/stix/stix-mathrm.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/p
-alatino/uplb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino
-/uplbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8
-a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-
-Output written on thesis.pdf (97 pages, 28836619 bytes).
+b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/nowacki/iwona/iwonab.pfb></usr/local/texlive/2018/texmf-dist
+/fonts/type1/nowacki/iwona/iwonar.pfb></usr/local/texlive/2018/texmf-dist/fonts
+/type1/nowacki/iwona/iwonari.pfb></usr/local/texlive/2018/texmf-dist/fonts/type
+1/public/stix/stix-mathex.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/p
+ublic/stix/stix-mathit.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/publ
+ic/stix/stix-mathrm.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/pal
+atino/uplb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/u
+plbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.
+pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on thesis.pdf (97 pages, 28836120 bytes).
 PDF statistics:
- 2313 PDF objects out of 2487 (max. 8388607)
- 1566 compressed objects within 16 object streams
- 300 named destinations out of 1000 (max. 500000)
+ 2319 PDF objects out of 2487 (max. 8388607)
+ 1573 compressed objects within 16 object streams
+ 303 named destinations out of 1000 (max. 500000)
  29723 words of extra memory for PDF output out of 29859 (max. 10000000)
 
