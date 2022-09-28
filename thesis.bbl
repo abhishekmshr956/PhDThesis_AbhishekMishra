@@ -1228,6 +1228,45 @@
       \field{pages}{904\bibrangedash 913}
       \range{pages}{10}
     \endentry
+    \entry{Card2008}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=d967ed09c68b229e8a58cff12267e632}{%
+           family={Card},
+           familyi={C\bibinitperiod},
+           given={Gwyneth},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=972ad7b32b411ed2e100a3875c8fe2be}{%
+           family={Dickinson},
+           familyi={D\bibinitperiod},
+           given={Michael\bibnamedelima H},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{7959788ed049281b698b585460b57c13}
+      \strng{fullhash}{7959788ed049281b698b585460b57c13}
+      \strng{bibnamehash}{7959788ed049281b698b585460b57c13}
+      \strng{authorbibnamehash}{7959788ed049281b698b585460b57c13}
+      \strng{authornamehash}{7959788ed049281b698b585460b57c13}
+      \strng{authorfullhash}{7959788ed049281b698b585460b57c13}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2008.07.094}{doi: 10.1016/j.cub.2008.07.094}}
+      \field{journaltitle}{Current Biology}
+      \field{number}{17}
+      \field{title}{Visually mediated motor planning in the escape response of Drosophila}
+      \field{volume}{18}
+      \field{year}{2008}
+      \field{pages}{1300\bibrangedash 1307}
+      \range{pages}{8}
+    \endentry
     \entry{Catterall2000}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=2fdf9cf67024c5fdc2a46b728e4f1f39}{%
@@ -2959,6 +2998,45 @@
       \field{pages}{e17421}
       \range{pages}{-1}
     \endentry
+    \entry{Haag1998}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=2b75762e744f92c8ecacf697db327212}{%
+           family={Haag},
+           familyi={H\bibinitperiod},
+           given={Juergen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
+           family={Borst},
+           familyi={B\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Soc Neuroscience}%
+      }
+      \strng{namehash}{5ce49519660d8abc986d994568395e96}
+      \strng{fullhash}{5ce49519660d8abc986d994568395e96}
+      \strng{bibnamehash}{5ce49519660d8abc986d994568395e96}
+      \strng{authorbibnamehash}{5ce49519660d8abc986d994568395e96}
+      \strng{authornamehash}{5ce49519660d8abc986d994568395e96}
+      \strng{authorfullhash}{5ce49519660d8abc986d994568395e96}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/doi.org/10.1523/JNEUROSCI.18-19-07972.1998}{doi: doi.org/10.1523/JNEUROSCI.18-19-07972.1998}}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{number}{19}
+      \field{title}{Active membrane properties and signal encoding in graded potential neurons}
+      \field{volume}{18}
+      \field{year}{1998}
+      \field{pages}{7972\bibrangedash 7986}
+      \range{pages}{15}
+    \endentry
     \entry{Haag2001}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=2b75762e744f92c8ecacf697db327212}{%
@@ -3137,6 +3215,63 @@
       \field{year}{2013}
       \field{pages}{13927\bibrangedash 13934}
       \range{pages}{8}
+    \endentry
+    \entry{Hamill1981}{article}{}
+      \name{author}{5}{}{%
+        {{uniquename=0,uniquepart=base,hash=763e7f28150bad7530a62f9961e871c5}{%
+           family={Hamill},
+           familyi={H\bibinitperiod},
+           given={Owen\bibnamedelima P},
+           giveni={O\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a2047a6a88e6c0cb02fbf1a7ce4dc96c}{%
+           family={Marty},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e8a1a14d5b03a5d49eabf0a63676b12e}{%
+           family={Neher},
+           familyi={N\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=cd976ef2a692f54af47155e3ea294a66}{%
+           family={Sakmann},
+           familyi={S\bibinitperiod},
+           given={Bert},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f49a0ab3ed709278ed6fb1ee313a33ed}{%
+           family={Sigworth},
+           familyi={S\bibinitperiod},
+           given={Frederick\bibnamedelima J},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{869bb1a614ca46d9215864148324af8b}
+      \strng{fullhash}{0303d14de983f74509b51dcf9f2e1665}
+      \strng{bibnamehash}{0303d14de983f74509b51dcf9f2e1665}
+      \strng{authorbibnamehash}{0303d14de983f74509b51dcf9f2e1665}
+      \strng{authornamehash}{869bb1a614ca46d9215864148324af8b}
+      \strng{authorfullhash}{0303d14de983f74509b51dcf9f2e1665}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/doi.org/10.1007/BF00656997}{doi: doi.org/10.1007/BF00656997}}
+      \field{journaltitle}{Pfl{ü}gers Archiv}
+      \field{number}{2}
+      \field{title}{Improved patch-clamp techniques for high-resolution current recording from cells and cell-free membrane patches}
+      \field{volume}{391}
+      \field{year}{1981}
+      \field{pages}{85\bibrangedash 100}
+      \range{pages}{16}
     \endentry
     \entry{Hardie1989}{article}{}
       \name{author}{1}{}{%
@@ -3319,6 +3454,39 @@
       \field{year}{1956}
       \field{pages}{513\bibrangedash 524}
       \range{pages}{12}
+    \endentry
+    \entry{Hausen1976}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=5d961dfa1477e9cfa7772fdeda7c5014}{%
+           family={Hausen},
+           familyi={H\bibinitperiod},
+           given={K},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{5d961dfa1477e9cfa7772fdeda7c5014}
+      \strng{fullhash}{5d961dfa1477e9cfa7772fdeda7c5014}
+      \strng{bibnamehash}{5d961dfa1477e9cfa7772fdeda7c5014}
+      \strng{authorbibnamehash}{5d961dfa1477e9cfa7772fdeda7c5014}
+      \strng{authornamehash}{5d961dfa1477e9cfa7772fdeda7c5014}
+      \strng{authorfullhash}{5d961dfa1477e9cfa7772fdeda7c5014}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/doi.org/10.1515/znc-1976-9-1001}{doi: doi.org/10.1515/znc-1976-9-1001}}
+      \field{journaltitle}{Zeitschrift f{ü}r Naturforschung c}
+      \field{number}{9-10}
+      \field{title}{Functional characterization and anatomical identification of motion sensitive neurons in the lobula plate of the blowfly Calliphora erythrocephala}
+      \field{volume}{31}
+      \field{year}{1976}
+      \field{pages}{629\bibrangedash 634}
+      \range{pages}{6}
     \endentry
     \entry{Hodgkin1952}{article}{}
       \name{author}{2}{}{%
@@ -3530,6 +3698,95 @@
       \field{year}{2013}
       \field{pages}{1490\bibrangedash 1496}
       \range{pages}{7}
+    \endentry
+    \entry{Jenett2012}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{uniquename=0,uniquepart=base,hash=173b10a247d78a8035d0735a6ad7414d}{%
+           family={Jenett},
+           familyi={J\bibinitperiod},
+           given={Arnim},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=99359b633625918bc44764f233e1f269}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Gerald\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=1,uniquepart=given,hash=bd8d35100bd503f6623ae0c5a66d5316}{%
+           family={Ngo},
+           familyi={N\bibinitperiod},
+           given={Teri-TB},
+           giveni={T\bibinithyphendelim T\bibinitperiod},
+           givenun=1}}%
+        {{uniquename=0,uniquepart=base,hash=ea355f2ee8d46ac4554336ecc31cae93}{%
+           family={Shepherd},
+           familyi={S\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=920df72975a69175a4fdb75cdebaaf54}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=73b65b974c478c865835d00d71e3503f}{%
+           family={Dionne},
+           familyi={D\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=86ec75c8bbe8e768d3b185f9714fb454}{%
+           family={Pfeiffer},
+           familyi={P\bibinitperiod},
+           given={Barret\bibnamedelima D},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=548740bfd646491b8086a438fea6b186}{%
+           family={Cavallaro},
+           familyi={C\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f89a6cf058a4413002d1ef96866bb5e8}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=d23be5639ad0f002fc667ab8b1105cc5}{%
+           family={Jeter},
+           familyi={J\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{3010c8f202ae2b39f519cfc9d3a450e3}
+      \strng{fullhash}{36e4c2735261c1e4974e8a198e288bc7}
+      \strng{bibnamehash}{3010c8f202ae2b39f519cfc9d3a450e3}
+      \strng{authorbibnamehash}{3010c8f202ae2b39f519cfc9d3a450e3}
+      \strng{authornamehash}{3010c8f202ae2b39f519cfc9d3a450e3}
+      \strng{authorfullhash}{36e4c2735261c1e4974e8a198e288bc7}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/doi.org/10.1016/j.celrep.2012.09.011}{doi: doi.org/10.1016/j.celrep.2012.09.011}}
+      \field{journaltitle}{Cell reports}
+      \field{number}{4}
+      \field{title}{A GAL4-driver line resource for Drosophila neurobiology}
+      \field{volume}{2}
+      \field{year}{2012}
+      \field{pages}{991\bibrangedash 1001}
+      \range{pages}{11}
     \endentry
     \entry{Jin2012}{article}{}
       \name{author}{6}{}{%
@@ -4127,6 +4384,51 @@
       \field{pages}{719\bibrangedash 727}
       \range{pages}{9}
     \endentry
+    \entry{Krapp1998}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=c7a9e3b8d7e0303962a405300d1b75db}{%
+           family={Krapp},
+           familyi={K\bibinitperiod},
+           given={Holger\bibnamedelima G},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e510818ef81f67746a12f530d2b5d1e3}{%
+           family={Hengstenberg},
+           familyi={H\bibinitperiod},
+           given={Barbel},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=170274fdaa3335badd25a47bb8682c90}{%
+           family={Hengstenberg},
+           familyi={H\bibinitperiod},
+           given={Roland},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Physiological Society Bethesda, MD}%
+      }
+      \strng{namehash}{ce7b16e1bf9cc025f7795c1389a4d21d}
+      \strng{fullhash}{602273575118e414e6e56a0f4b1261f2}
+      \strng{bibnamehash}{602273575118e414e6e56a0f4b1261f2}
+      \strng{authorbibnamehash}{602273575118e414e6e56a0f4b1261f2}
+      \strng{authornamehash}{ce7b16e1bf9cc025f7795c1389a4d21d}
+      \strng{authorfullhash}{602273575118e414e6e56a0f4b1261f2}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/doi.org/10.1152/jn.1998.79.4.1902}{doi: doi.org/10.1152/jn.1998.79.4.1902}}
+      \field{journaltitle}{Journal of neurophysiology}
+      \field{number}{4}
+      \field{title}{Dendritic structure and receptive-field organization of optic flow processing interneurons in the fly}
+      \field{volume}{79}
+      \field{year}{1998}
+      \field{pages}{1902\bibrangedash 1917}
+      \range{pages}{16}
+    \endentry
     \entry{Krapp1996}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=c7a9e3b8d7e0303962a405300d1b75db}{%
@@ -4401,6 +4703,57 @@
       \field{year}{2016}
       \field{pages}{e13238}
       \range{pages}{-1}
+    \endentry
+    \entry{Luan2006}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=2c1e870449809c843462fb7e83be1ff3}{%
+           family={Luan},
+           familyi={L\bibinitperiod},
+           given={Haojiang},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=67d529b0b37eb25e9281438862dce1c3}{%
+           family={Peabody},
+           familyi={P\bibinitperiod},
+           given={Nathan\bibnamedelima C},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=647f5109b42f55b707b6c829dd8530d1}{%
+           family={Vinson},
+           familyi={V\bibinitperiod},
+           given={Charles\bibnamedelima R},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b6d178dedbbd08fe788f82523784991a}{%
+           family={White},
+           familyi={W\bibinitperiod},
+           given={Benjamin\bibnamedelima H},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{e72d041623c550f11113816b99def607}
+      \strng{fullhash}{137f4e9e7e6d78e28a1756a9999beffd}
+      \strng{bibnamehash}{137f4e9e7e6d78e28a1756a9999beffd}
+      \strng{authorbibnamehash}{137f4e9e7e6d78e28a1756a9999beffd}
+      \strng{authornamehash}{e72d041623c550f11113816b99def607}
+      \strng{authorfullhash}{137f4e9e7e6d78e28a1756a9999beffd}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/doi.org/10.1016/j.neuron.2006.08.028}{doi: doi.org/10.1016/j.neuron.2006.08.028}}
+      \field{journaltitle}{Neuron}
+      \field{number}{3}
+      \field{title}{Refined spatial manipulation of neuronal function by combinatorial restriction of transgene expression}
+      \field{volume}{52}
+      \field{year}{2006}
+      \field{pages}{425\bibrangedash 436}
+      \range{pages}{12}
     \endentry
     \entry{Luo2020}{book}{}
       \name{author}{1}{}{%
@@ -5570,6 +5923,45 @@
       \field{pages}{749\bibrangedash 753}
       \range{pages}{5}
     \endentry
+    \entry{Pavlou2013}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=8a829ef3109a9db98fc7dafb1be6a6ee}{%
+           family={Pavlou},
+           familyi={P\bibinitperiod},
+           given={Hania\bibnamedelima J},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0d79c0fcc872d9b1a7b2bfc61ce770fd}{%
+           family={Goodwin},
+           familyi={G\bibinitperiod},
+           given={Stephen\bibnamedelima F},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{2203a2c11fca125acec4c17def562830}
+      \strng{fullhash}{2203a2c11fca125acec4c17def562830}
+      \strng{bibnamehash}{2203a2c11fca125acec4c17def562830}
+      \strng{authorbibnamehash}{2203a2c11fca125acec4c17def562830}
+      \strng{authornamehash}{2203a2c11fca125acec4c17def562830}
+      \strng{authorfullhash}{2203a2c11fca125acec4c17def562830}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.conb.2012.09.002}{doi: 10.1016/j.conb.2012.09.002}}
+      \field{journaltitle}{Current opinion in neurobiology}
+      \field{number}{1}
+      \field{title}{Courtship behavior in Drosophila melanogaster: towards a ‘courtship connectome’}
+      \field{volume}{23}
+      \field{year}{2013}
+      \field{pages}{76\bibrangedash 83}
+      \range{pages}{8}
+    \endentry
     \entry{Pfeiffer2008}{article}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -5592,12 +5984,12 @@
            given={Ann\bibnamedelima S},
            giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=71eb43fa8fb5695e17b7c40cd8878d6b}{%
+        {{uniquename=1,uniquepart=given,hash=71eb43fa8fb5695e17b7c40cd8878d6b}{%
            family={Ngo},
            familyi={N\bibinitperiod},
            given={Teri-T\bibnamedelima B},
            giveni={T\bibinithyphendelim T\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{uniquename=0,uniquepart=base,hash=0e3ba9e04e7f3ee3bc7bdfb8b2916827}{%
            family={Misra},
            familyi={M\bibinitperiod},
@@ -5658,6 +6050,75 @@
       \field{year}{2008}
       \field{pages}{9715\bibrangedash 9720}
       \range{pages}{6}
+    \endentry
+    \entry{Pfeiffer2010}{article}{}
+      \name{author}{7}{}{%
+        {{uniquename=0,uniquepart=base,hash=86ec75c8bbe8e768d3b185f9714fb454}{%
+           family={Pfeiffer},
+           familyi={P\bibinitperiod},
+           given={Barret\bibnamedelima D},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=71eb43fa8fb5695e17b7c40cd8878d6b}{%
+           family={Ngo},
+           familyi={N\bibinitperiod},
+           given={Teri-T\bibnamedelima B},
+           giveni={T\bibinithyphendelim T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=357e57d9e7f50ac66534414a6855e7c7}{%
+           family={Hibbard},
+           familyi={H\bibinitperiod},
+           given={Karen\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=920df72975a69175a4fdb75cdebaaf54}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=173b10a247d78a8035d0735a6ad7414d}{%
+           family={Jenett},
+           familyi={J\bibinitperiod},
+           given={Arnim},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=493db2a40c4372a8cf0a7df89d4a02f9}{%
+           family={Truman},
+           familyi={T\bibinitperiod},
+           given={James\bibnamedelima W},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=99359b633625918bc44764f233e1f269}{%
+           family={Rubin},
+           familyi={R\bibinitperiod},
+           given={Gerald\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{fd3847015f4e89a05f109054c8c31351}
+      \strng{fullhash}{f2ea721611a011b2a4779ac147587e2a}
+      \strng{bibnamehash}{fd3847015f4e89a05f109054c8c31351}
+      \strng{authorbibnamehash}{fd3847015f4e89a05f109054c8c31351}
+      \strng{authornamehash}{fd3847015f4e89a05f109054c8c31351}
+      \strng{authorfullhash}{f2ea721611a011b2a4779ac147587e2a}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/doi.org/10.1534/genetics.110.119917}{doi: doi.org/10.1534/genetics.110.119917}}
+      \field{journaltitle}{Genetics}
+      \field{number}{2}
+      \field{title}{Refinement of tools for targeted gene expression in Drosophila}
+      \field{volume}{186}
+      \field{year}{2010}
+      \field{pages}{735\bibrangedash 755}
+      \range{pages}{21}
     \endentry
     \entry{Piggott2019}{article}{}
       \name{author}{7}{}{%
@@ -6124,6 +6585,48 @@
       \field{year}{1982}
       \field{pages}{348\bibrangedash 353}
       \range{pages}{6}
+    \endentry
+    \entry{Ryu2022}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=e17a74e63c18fc7eaac67e856db4d27d}{%
+           family={Ryu},
+           familyi={R\bibinitperiod},
+           given={Leesun},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=62bef6954e9577910ea4fccb1f113876}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Sung\bibnamedelima Yong},
+           giveni={S\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7a1f1ba8ac3d743256ad1c28fb9f7da8}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Anmo\bibnamedelima J},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers Media SA}%
+      }
+      \strng{namehash}{fb8668d7999f28b4c1a469b98eb5ed24}
+      \strng{fullhash}{e7f6eb5fcbe370a2fc1551bb23154f6f}
+      \strng{bibnamehash}{e7f6eb5fcbe370a2fc1551bb23154f6f}
+      \strng{authorbibnamehash}{e7f6eb5fcbe370a2fc1551bb23154f6f}
+      \strng{authornamehash}{fb8668d7999f28b4c1a469b98eb5ed24}
+      \strng{authorfullhash}{e7f6eb5fcbe370a2fc1551bb23154f6f}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/doi.org/10.3389/fnins.2022.883640}{doi: doi.org/10.3389/fnins.2022.883640}}
+      \field{journaltitle}{Frontiers in Neuroscience}
+      \field{title}{From Photons to Behaviors: Neural Implementations of Visual Behaviors in Drosophila}
+      \field{volume}{16}
+      \field{year}{2022}
     \endentry
     \entry{Sabatini2002}{article}{}
       \name{author}{3}{}{%
@@ -7333,51 +7836,6 @@
       \field{year}{2013}
       \field{pages}{128\bibrangedash 140}
       \range{pages}{13}
-    \endentry
-    \entry{Venken2011}{article}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,uniquepart=base,hash=d043cfc9b7812841ff414f7b870c9448}{%
-           family={Venken},
-           familyi={V\bibinitperiod},
-           given={Koen\bibnamedelima JT},
-           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=1b0081855bcb2293ad04fb59b1f5802d}{%
-           family={Simpson},
-           familyi={S\bibinitperiod},
-           given={Julie\bibnamedelima H},
-           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=093fc543db3eda64cee6e89b51da400b}{%
-           family={Bellen},
-           familyi={B\bibinitperiod},
-           given={Hugo\bibnamedelima J},
-           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{556889a328b22398287fcf1bd5ca5ac0}
-      \strng{fullhash}{76ae8ad0f2f9bddaba65e6aeeba845e9}
-      \strng{bibnamehash}{76ae8ad0f2f9bddaba65e6aeeba845e9}
-      \strng{authorbibnamehash}{76ae8ad0f2f9bddaba65e6aeeba845e9}
-      \strng{authornamehash}{556889a328b22398287fcf1bd5ca5ac0}
-      \strng{authorfullhash}{76ae8ad0f2f9bddaba65e6aeeba845e9}
-      \field{sortinit}{V}
-      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2011.09.021}{doi: 10.1016/j.neuron.2011.09.021}}
-      \field{journaltitle}{Neuron}
-      \field{number}{2}
-      \field{title}{Genetic manipulation of genes and cells in the nervous system of the fruit fly}
-      \field{volume}{72}
-      \field{year}{2011}
-      \field{pages}{202\bibrangedash 230}
-      \range{pages}{29}
     \endentry
     \entry{Wernet2004}{article}{}
       \name{author}{2}{}{%
