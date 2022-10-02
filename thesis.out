@@ -5,33 +5,27 @@
 \BOOKMARK [1][-]{section.1.2}{1.2 Tools for functional dissection of Drosophila neural circuits}{chapter.1}% 5
 \BOOKMARK [2][-]{subsection.1.2.1}{1.2.1 Targeting cell types: Gal4-UAS / LexA-lexAop}{section.1.2}% 6
 \BOOKMARK [2][-]{subsection.1.2.2}{1.2.2 Measuring neural activity}{section.1.2}% 7
-\BOOKMARK [2][-]{subsection.1.2.3}{1.2.3 Calcium Indicator: GCaMP for recording changes in intracellular calcium}{section.1.2}% 8
-\BOOKMARK [2][-]{subsection.1.2.4}{1.2.4 Manipulating neural activity}{section.1.2}% 9
-\BOOKMARK [1][-]{section.1.3}{1.3 Physiological techniques for recording neural activity}{chapter.1}% 10
-\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 Whole-cell patch clamp recording}{section.1.3}% 11
-\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Two-photon imaging}{section.1.3}% 12
-\BOOKMARK [1][-]{section.1.4}{1.4 Neural communication}{chapter.1}% 13
-\BOOKMARK [2][-]{subsection.1.4.1}{1.4.1 Electrical synapses}{section.1.4}% 14
-\BOOKMARK [2][-]{subsection.1.4.2}{1.4.2 Chemical synapses}{section.1.4}% 15
-\BOOKMARK [2][-]{subsection.1.4.3}{1.4.3 Voltage-gated ion channels}{section.1.4}% 16
-\BOOKMARK [1][-]{section.1.5}{1.5 Fly motion vision system}{chapter.1}% 17
-\BOOKMARK [2][-]{subsection.1.5.1}{1.5.1 Parallel ON and OFF processing pathways}{section.1.5}% 18
-\BOOKMARK [2][-]{subsection.1.5.2}{1.5.2 T4 and T5 cells}{section.1.5}% 19
-\BOOKMARK [1][-]{section.1.6}{1.6 Neural circuit underlying direction selectivity}{chapter.1}% 20
-\BOOKMARK [1][-]{section.1.7}{1.7 Neural algorithm underlying direction selectivity}{chapter.1}% 21
-\BOOKMARK [0][]{chapter.2}{2 Publications}{}% 22
-\BOOKMARK [1][-]{section.2.1}{2.1 A common directional tuning mechanism of Drosophila motion-sensing neurons in the ON and in the OFF pathway}{chapter.2}% 23
-\BOOKMARK [1][-]{section.2.2}{2.2 Voltage to Calcium Transformation Enhances Direction Selectivity in Drosophila T4 neurons}{chapter.2}% 24
-\BOOKMARK [0][]{chapter.3}{3 Discussion}{}% 25
-\BOOKMARK [1][-]{section.3.1}{3.1 Cellular implementation of PD enhancement and ND suppression in the T4 and T5 neurons}{chapter.3}% 26
-\BOOKMARK [1][-]{section.3.2}{3.2 The mechanism for the temporal delay in T4 and T5 input neurons}{chapter.3}% 27
-\BOOKMARK [1][-]{section.3.3}{3.3 Circuits downstream of T4 and T5 cells}{chapter.3}% 28
-\BOOKMARK [1][-]{section.3.4}{3.4 The direction selectivity of T4 output signals}{chapter.3}% 29
-\BOOKMARK [1][-]{section.3.5}{3.5 Optical voltage imaging in neurons}{chapter.3}% 30
-\BOOKMARK [1][-]{section.3.6}{3.6 Neuronal calcium signaling}{chapter.3}% 31
-\BOOKMARK [1][-]{section.3.7}{3.7 Differential expression of voltage-gated calcium channels}{chapter.3}% 32
-\BOOKMARK [1][-]{section.3.8}{3.8 Comparison between the ON and OFF pathways in the fly optic lobe and the mouse retina}{chapter.3}% 33
-\BOOKMARK [1][-]{section.3.9}{3.9 The function of the visual circuit during natural behavior}{chapter.3}% 34
-\BOOKMARK [1][-]{section.3.10}{3.10 Conclusion}{chapter.3}% 35
-\BOOKMARK [0][]{section.3.10}{Bibliography}{}% 36
-\BOOKMARK [0][]{Acknowledgements.0}{Acknowledgements}{}% 37
+\BOOKMARK [2][-]{subsection.1.2.3}{1.2.3 Manipulating neural activity}{section.1.2}% 8
+\BOOKMARK [1][-]{section.1.3}{1.3 Neural communication}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.3.1}{1.3.1 Electrical synapses}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.2}{1.3.2 Chemical synapses}{section.1.3}% 11
+\BOOKMARK [2][-]{subsection.1.3.3}{1.3.3 Voltage-gated ion channels}{section.1.3}% 12
+\BOOKMARK [1][-]{section.1.4}{1.4 The fly visual system}{chapter.1}% 13
+\BOOKMARK [2][-]{subsection.1.4.1}{1.4.1 The optic lobe}{section.1.4}% 14
+\BOOKMARK [2][-]{subsection.1.4.2}{1.4.2 Neural circuits underlying motion vision}{section.1.4}% 15
+\BOOKMARK [1][-]{section.1.5}{1.5 Neural algorithm underlying direction selectivity}{chapter.1}% 16
+\BOOKMARK [0][]{chapter.2}{2 Publications}{}% 17
+\BOOKMARK [1][-]{section.2.1}{2.1 A common directional tuning mechanism of Drosophila motion-sensing neurons in the ON and in the OFF pathway}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.2}{2.2 Voltage to Calcium Transformation Enhances Direction Selectivity in Drosophila T4 neurons}{chapter.2}% 19
+\BOOKMARK [0][]{chapter.3}{3 Discussion}{}% 20
+\BOOKMARK [1][-]{section.3.1}{3.1 Cellular implementation of PD enhancement and ND suppression in the T4 and T5 neurons}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.2}{3.2 The mechanism for the temporal delay in T4 and T5 input neurons}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.3}{3.3 Circuits downstream of T4 and T5 cells}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.4}{3.4 The direction selectivity of T4 output signals}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.5}{3.5 Neuronal calcium signaling}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.6}{3.6 Differential expression of voltage-gated calcium channels}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.7}{3.7 Comparison between the ON and OFF pathways in the fly optic lobe and the mouse retina}{chapter.3}% 27
+\BOOKMARK [1][-]{section.3.8}{3.8 The function of the visual circuit during natural behavior}{chapter.3}% 28
+\BOOKMARK [1][-]{section.3.9}{3.9 Conclusion}{chapter.3}% 29
+\BOOKMARK [0][]{section.3.9}{Bibliography}{}% 30
+\BOOKMARK [0][]{Acknowledgements.0}{Acknowledgements}{}% 31
