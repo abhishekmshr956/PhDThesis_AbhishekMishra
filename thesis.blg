@@ -1,24 +1,23 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'thesis.blg'
-[27] biber-darwin:313> INFO - === Sun Oct  2, 2022, 12:02:17
-[45] Biber.pm:371> INFO - Reading 'thesis.bcf'
-[123] Biber.pm:857> INFO - Found 157 citekeys in bib section 0
-[136] Biber.pm:3976> INFO - Processing section 0
-[146] Biber.pm:4136> INFO - Looking for bibtex format file 'Reference.bib' for section 0
-[154] bibtex.pm:1500> INFO - LaTeX decoding ...
-[443] bibtex.pm:1316> INFO - Found BibTeX data source 'Reference.bib'
-[460] Utils.pm:193> WARN - Duplicate entry key: 'Serbe2016' in file 'Reference.bib', skipping ...
-[1037] Utils.pm:193> WARN - month field 'nov' in entry 'RamonyCajal1915' is not an integer - this will probably not sort properly.
-[1509] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1509] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[1509] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1509] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[1509] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
-[1509] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
-[1694] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1694] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1694] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[1694] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[1856] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
-[2015] bbl.pm:720> INFO - Output to thesis.bbl
-[2016] Biber.pm:110> INFO - WARNINGS: 8
+[25] biber-darwin:313> INFO - === Mon Oct  3, 2022, 14:27:45
+[43] Biber.pm:371> INFO - Reading 'thesis.bcf'
+[112] Biber.pm:857> INFO - Found 156 citekeys in bib section 0
+[122] Biber.pm:3976> INFO - Processing section 0
+[131] Biber.pm:4136> INFO - Looking for bibtex format file 'Reference.bib' for section 0
+[137] bibtex.pm:1500> INFO - LaTeX decoding ...
+[414] bibtex.pm:1316> INFO - Found BibTeX data source 'Reference.bib'
+[421] Utils.pm:193> WARN - Duplicate entry key: 'Serbe2016' in file 'Reference.bib', skipping ...
+[1354] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1354] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1354] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1355] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1355] Utils.pm:193> WARN - BibTeX subsystem: warning: comma(s) at end of name (removing)
+[1355] Utils.pm:193> WARN - BibTeX subsystem: author, warning: comma(s) at end of name (removing)
+[1519] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1519] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1519] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1519] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[1670] bbl.pm:617> INFO - Writing 'thesis.bbl' with encoding 'UTF-8'
+[1803] bbl.pm:720> INFO - Output to thesis.bbl
+[1803] Biber.pm:110> INFO - WARNINGS: 7

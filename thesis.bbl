@@ -683,50 +683,6 @@
       \field{pages}{297\bibrangedash 306}
       \range{pages}{10}
     \endentry
-    \entry{Borst2010}{article}{}
-      \name{author}{3}{}{%
-        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
-           family={Borst},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=2b75762e744f92c8ecacf697db327212}{%
-           family={Haag},
-           familyi={H\bibinitperiod},
-           given={Juergen},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=a6b5347396123ece2b209a698e8b1ff2}{%
-           family={Reiff},
-           familyi={R\bibinitperiod},
-           given={Dierk\bibnamedelima F},
-           giveni={D\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Annual Reviews}%
-      }
-      \strng{namehash}{3bfb8caa345c7088820635e0b7b75826}
-      \strng{fullhash}{c6b429b204d14d805cddf23e6a9a0a26}
-      \strng{bibnamehash}{c6b429b204d14d805cddf23e6a9a0a26}
-      \strng{authorbibnamehash}{c6b429b204d14d805cddf23e6a9a0a26}
-      \strng{authornamehash}{3bfb8caa345c7088820635e0b7b75826}
-      \strng{authorfullhash}{c6b429b204d14d805cddf23e6a9a0a26}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1146/annurev-neuro-060909-153155}{doi: 10.1146/annurev-neuro-060909-153155}}
-      \field{journaltitle}{Annual review of neuroscience}
-      \field{title}{Fly motion vision}
-      \field{volume}{33}
-      \field{year}{2010}
-      \field{pages}{49\bibrangedash 70}
-      \range{pages}{22}
-    \endentry
     \entry{Borst2020b}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
@@ -4137,12 +4093,12 @@
            given={Aleksandar},
            giveni={A\bibinitperiod},
            givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=54c7b8f057db7fcb8f2e01f503f4f132}{%
+        {{uniquename=1,uniquepart=given,hash=54c7b8f057db7fcb8f2e01f503f4f132}{%
            family={Lee},
            familyi={L\bibinitperiod},
            given={Kisuk},
            giveni={K\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{uniquename=0,uniquepart=base,hash=35d41f46e6f0feebc748be902b1e6b17}{%
            family={Richardson},
            familyi={R\bibinitperiod},
@@ -6138,47 +6094,6 @@
       \field{pages}{e0250381}
       \range{pages}{-1}
     \endentry
-    \entry{RamonyCajal1915}{book}{}
-      \name{author}{2}{}{%
-        {{uniquename=0,uniquepart=base,hash=a028a4f013b5cfdbed65f819ee0fcb75}{%
-           family={{Ram{ó}n y Cajal}},
-           familyi={R\bibinitperiod},
-           given={Santiago},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=846e1e83b93bda0163585c77fb1d830c}{%
-           family={S{á}nchez},
-           familyi={S\bibinitperiod},
-           given={D.},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Madrid :}%
-      }
-      \list{publisher}{1}{%
-        {Imprenta de Hijos de Nicol{á}s Moya,}%
-      }
-      \strng{namehash}{023f90721ddcb55e5664e1f059cb8b5b}
-      \strng{fullhash}{023f90721ddcb55e5664e1f059cb8b5b}
-      \strng{bibnamehash}{023f90721ddcb55e5664e1f059cb8b5b}
-      \strng{authorbibnamehash}{023f90721ddcb55e5664e1f059cb8b5b}
-      \strng{authornamehash}{023f90721ddcb55e5664e1f059cb8b5b}
-      \strng{authorfullhash}{023f90721ddcb55e5664e1f059cb8b5b}
-      \field{sortinit}{R}
-      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.5962/bhl.title.37839}{\\doi: 10.5962/bhl.title.37839}}
-      \field{booktitle}{Contribuci{ó}n al conocimiento de los centros nerviosos de los insectos / por S.R. Cajal y D. S{á}nchez.}
-      \field{month}{11}
-      \field{title}{{Contribuci{ó}n al conocimiento de los centros nerviosos de los insectos / por S.R. Cajal y D. S{á}nchez.}}
-      \field{year}{1915}
-      \field{pages}{1\bibrangedash 180}
-      \range{pages}{180}
-    \endentry
     \entry{Ready1976}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=9fa8b650e7ba1f4eda7294eafd397142}{%
@@ -7197,6 +7112,42 @@
       \field{year}{1971}
       \field{pages}{377\bibrangedash 441}
       \range{pages}{65}
+    \endentry
+    \entry{Strausfeld1991}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=2ef8a87b71c055c099659f9853dea587}{%
+           family={Strausfeld},
+           familyi={S\bibinitperiod},
+           given={Nicholas\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=7b34fdbd72fdecd596f0c583dd483a0f}{%
+           family={Lee},
+           familyi={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{205aca4261889b8eea41d4aa56f55793}
+      \strng{fullhash}{205aca4261889b8eea41d4aa56f55793}
+      \strng{bibnamehash}{205aca4261889b8eea41d4aa56f55793}
+      \strng{authorbibnamehash}{205aca4261889b8eea41d4aa56f55793}
+      \strng{authornamehash}{205aca4261889b8eea41d4aa56f55793}
+      \strng{authorfullhash}{205aca4261889b8eea41d4aa56f55793}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1017/S0952523800010919}{doi: 10.1017/S0952523800010919}}
+      \field{journaltitle}{Visual neuroscience}
+      \field{number}{1-2}
+      \field{title}{Neuronal basis for parallel visual processing in the fly}
+      \field{volume}{7}
+      \field{year}{1991}
+      \field{pages}{13\bibrangedash 33}
+      \range{pages}{21}
     \endentry
     \entry{Straw2011}{article}{}
       \name{author}{4}{}{%

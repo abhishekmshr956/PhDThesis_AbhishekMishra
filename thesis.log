@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  2 OCT 2022 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.26)  3 OCT 2022 14:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1739,6 +1739,12 @@ Overfull \hbox (10.48949pt too wide) in paragraph at lines 6--6
  []
 
 
+Overfull \hbox (9.49132pt too wide) in paragraph at lines 32--32
+ [][] []\T1/pplj/m/n/10.95 Neural al-go-rithms un-der-ly-ing di-rec-tion se-lec
+-tiv-ity []  
+ []
+
+
 Overfull \hbox (3.48628pt too wide) in paragraph at lines 34--34
  [][] []\T1/pplj/m/n/10.95 A com-mon di-rec-tional tun-ing mech-a-nism of \T1/p
 plj/m/it/10.95 Drosophila \T1/pplj/m/n/10.95 motion- 
@@ -1905,38 +1911,32 @@ Overfull \hbox (53.84682pt too wide) in paragraph at lines 163--165
  []|  [] 
  []
 
-[10] [11 <./graphics/fly_optic_lobe.pdf>] [12] [13] [14]
-<graphics/t4t5inputsynapses.jpg, id=615, 2367.84625pt x 1466.47874pt>
+[10] [11 <./graphics/fly_optic_lobe.pdf>] [12] [13]
+<graphics/t4t5inputsynapses.jpg, id=604, 2367.84625pt x 1466.47874pt>
 File: graphics/t4t5inputsynapses.jpg Graphic file (type jpg)
 <use graphics/t4t5inputsynapses.jpg>
-Package pdftex.def Info: graphics/t4t5inputsynapses.jpg  used on input line 208
+Package pdftex.def Info: graphics/t4t5inputsynapses.jpg  used on input line 211
 .
 (pdftex.def)             Requested size: 426.19394pt x 263.95479pt.
 
-Overfull \hbox (18.78021pt too wide) in paragraph at lines 207--209
+Overfull \hbox (18.78021pt too wide) in paragraph at lines 210--212
  []|  [] 
  []
 
 
-Overfull \hbox (8.70517pt too wide) in paragraph at lines 213--214
+Overfull \hbox (8.70517pt too wide) in paragraph at lines 216--217
 []\T1/pplj/m/n/10.95 Most of these in-put el-e-ments have been char-ac-terised 
 phys-i-o-log-i-cally ([]Arenz
  []
 
-[15 <./graphics/t4t5inputsynapses.jpg>]
-Overfull \hbox (4.0428pt too wide) in paragraph at lines 215--215
-|[]\T1/iwona/m/sc/14.4/80ls neural al-go-rithm un-der-ly-ing di-rec-tion se-lec
-- 
- []
-
-[16]
-<graphics/HRBL_model.pdf, id=659, 542.025pt x 456.18541pt>
+[14] [15 <./graphics/t4t5inputsynapses.jpg>] [16]
+<graphics/HRBL_model.pdf, id=656, 542.025pt x 456.18541pt>
 File: graphics/HRBL_model.pdf Graphic file (type pdf)
 <use graphics/HRBL_model.pdf>
-Package pdftex.def Info: graphics/HRBL_model.pdf  used on input line 232.
+Package pdftex.def Info: graphics/HRBL_model.pdf  used on input line 235.
 (pdftex.def)             Requested size: 433.62057pt x 364.94882pt.
 
-Overfull \hbox (37.58778pt too wide) in paragraph at lines 231--233
+Overfull \hbox (37.58778pt too wide) in paragraph at lines 234--236
  []|  [] 
  []
 
@@ -1954,7 +1954,7 @@ LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.95> not available
 
 
 ]
-<papers/Haag_Mishra_2017.pdf, id=714, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=711, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf  used on input line 25.
@@ -1963,7 +1963,7 @@ File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf  used on input line 25.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<papers/Haag_Mishra_2017.pdf, id=717, page=1, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=714, page=1, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 1>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page1 used on input line
@@ -1990,7 +1990,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page1 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [21 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=757, page=2, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=754, page=2, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 2>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page2 used on input line
@@ -2007,7 +2007,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page2 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 [22 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=768, page=3, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=765, page=3, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 3>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page3 used on input line
@@ -2024,7 +2024,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page3 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [23 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=780, page=4, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=777, page=4, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 4>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page4 used on input line
@@ -2042,7 +2042,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page4 used on input line
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [24 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=787, page=5, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=784, page=5, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 5>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page5 used on input line
@@ -2059,7 +2059,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page5 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [25 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=795, page=6, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=792, page=6, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 6>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page6 used on input line
@@ -2077,7 +2077,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page6 used on input line
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [26 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=810, page=7, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=807, page=7, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 7>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page7 used on input line
@@ -2094,7 +2094,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page7 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [27 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=817, page=8, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=814, page=8, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 8>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page8 used on input line
@@ -2112,7 +2112,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page8 used on input line
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [28 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=825, page=9, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=822, page=9, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 9>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page9 used on input line
@@ -2129,7 +2129,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page9 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [29 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=834, page=10, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=831, page=10, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 10>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page10 used on input lin
@@ -2147,7 +2147,7 @@ e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [30 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=841, page=11, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=838, page=11, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 11>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page11 used on input lin
@@ -2164,7 +2164,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page11 used on input lin
 e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [31 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=848, page=12, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=845, page=12, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 12>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page12 used on input lin
@@ -2182,7 +2182,7 @@ e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [32 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=858, page=13, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=855, page=13, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 13>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page13 used on input lin
@@ -2199,7 +2199,7 @@ Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page13 used on input lin
 e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [33 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=869, page=14, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=866, page=14, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 14>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page14 used on input lin
@@ -2217,7 +2217,7 @@ e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [34 <./papers/Haag_Mishra_2017.pdf>]
-<papers/Haag_Mishra_2017.pdf, id=876, page=15, 614.295pt x 794.97pt>
+<papers/Haag_Mishra_2017.pdf, id=873, page=15, 614.295pt x 794.97pt>
 File: papers/Haag_Mishra_2017.pdf Graphic file (type pdf)
 <use papers/Haag_Mishra_2017.pdf, page 15>
 Package pdftex.def Info: papers/Haag_Mishra_2017.pdf , page15 used on input lin
@@ -2241,7 +2241,7 @@ e 25.
 
 
 ]
-<papers/Mishra_Haag_2022.pdf, id=896, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=893, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf  used on input line 25.
@@ -2250,7 +2250,7 @@ File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf  used on input line 25.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-<papers/Mishra_Haag_2022.pdf, id=899, page=1, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=896, page=1, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 1>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page1 used on input line
@@ -2277,7 +2277,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page1 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [39 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=944, page=2, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=941, page=2, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 2>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page2 used on input line
@@ -2294,7 +2294,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page2 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [40 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=949, page=3, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=946, page=3, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 3>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page3 used on input line
@@ -2311,7 +2311,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page3 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [41 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1039, page=4, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1036, page=4, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 4>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page4 used on input line
@@ -2328,7 +2328,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page4 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 [42 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1044, page=5, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1041, page=5, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 5>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page5 used on input line
@@ -2345,7 +2345,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page5 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [43 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1133, page=6, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1130, page=6, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 6>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page6 used on input line
@@ -2363,7 +2363,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page6 used on input line
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [44 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1215, page=7, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1212, page=7, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 7>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page7 used on input line
@@ -2380,7 +2380,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page7 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [45 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1240, page=8, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1237, page=8, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 8>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page8 used on input line
@@ -2398,7 +2398,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page8 used on input line
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [46 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1330, page=9, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1327, page=9, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 9>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page9 used on input line
@@ -2415,7 +2415,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page9 used on input line
  25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [47 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1384, page=10, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1381, page=10, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 10>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page10 used on input lin
@@ -2433,7 +2433,7 @@ e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [48 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1464, page=11, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1461, page=11, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 11>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page11 used on input lin
@@ -2450,7 +2450,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page11 used on input lin
 e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [49 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1539, page=12, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1536, page=12, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 12>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page12 used on input lin
@@ -2468,7 +2468,7 @@ e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [50 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1581, page=13, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1578, page=13, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 13>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page13 used on input lin
@@ -2485,7 +2485,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page13 used on input lin
 e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [51 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1586, page=14, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1583, page=14, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 14>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page14 used on input lin
@@ -2503,7 +2503,7 @@ e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
 
 [52 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1596, page=15, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1593, page=15, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 15>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page15 used on input lin
@@ -2520,7 +2520,7 @@ Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page15 used on input lin
 e 25.
 (pdftex.def)             Requested size: 552.86038pt x 715.4664pt.
  [53 <./papers/Mishra_Haag_2022.pdf>]
-<papers/Mishra_Haag_2022.pdf, id=1605, page=16, 614.295pt x 794.97pt>
+<papers/Mishra_Haag_2022.pdf, id=1602, page=16, 614.295pt x 794.97pt>
 File: papers/Mishra_Haag_2022.pdf Graphic file (type pdf)
 <use papers/Mishra_Haag_2022.pdf, page 16>
 Package pdftex.def Info: papers/Mishra_Haag_2022.pdf , page16 used on input lin
@@ -2558,7 +2558,7 @@ Overfull \hbox (2.20093pt too wide) in paragraph at lines 16--17
 es are not connection-
  []
 
-<graphics/Receptors_Fig_1.png, id=1642, 541.3023pt x 754.3382pt>
+<graphics/Receptors_Fig_1.png, id=1639, 541.3023pt x 754.3382pt>
 File: graphics/Receptors_Fig_1.png Graphic file (type png)
 <use graphics/Receptors_Fig_1.png>
 Package pdftex.def Info: graphics/Receptors_Fig_1.png  used on input line 21.
@@ -2577,7 +2577,7 @@ Overfull \hbox (159.78218pt too wide) has occurred while \output is active
  []
 
 [57 <./graphics/Receptors_Fig_1.png>] [58] [59]
-<graphics/LPi_figure.pdf, id=1699, 594.05943pt x 432.18008pt>
+<graphics/LPi_figure.pdf, id=1696, 594.05943pt x 432.18008pt>
 File: graphics/LPi_figure.pdf Graphic file (type pdf)
 <use graphics/LPi_figure.pdf>
 Package pdftex.def Info: graphics/LPi_figure.pdf  used on input line 53.
@@ -2587,7 +2587,7 @@ Overfull \hbox (19.80597pt too wide) in paragraph at lines 52--54
  []|  [] 
  []
 
-<graphics/LpiBlock.jpg, id=1708, 490.7133pt x 130.66415pt>
+<graphics/LpiBlock.jpg, id=1705, 490.7133pt x 130.66415pt>
 File: graphics/LpiBlock.jpg Graphic file (type jpg)
 <use graphics/LpiBlock.jpg>
 Package pdftex.def Info: graphics/LpiBlock.jpg  used on input line 71.
@@ -2628,7 +2628,7 @@ for direction-selective
  []
 
 [64]
-<graphics/fly_mouse_comparison.png, id=1784, 649.58685pt x 482.5227pt>
+<graphics/fly_mouse_comparison.png, id=1781, 649.58685pt x 482.5227pt>
 File: graphics/fly_mouse_comparison.png Graphic file (type png)
 <use graphics/fly_mouse_comparison.png>
 Package pdftex.def Info: graphics/fly_mouse_comparison.png  used on input line 
@@ -2685,14 +2685,14 @@ nt \T1/pplj/b/n/10.95 10, \T1/pplj/m/n/10.95 1773^^U1782 (1996). [][]doi: 10.11
 01/gad.10.14.1773[][] 
  []
 
-[70]
+
 Overfull \hbox (1.32918pt too wide) in paragraph at lines 115--115
 \T1/pplj/m/n/10.95 in-de-pen-dent K+ cur-rent sys-tems. \T1/pplj/m/it/10.95 Neu
 -ron \T1/pplj/b/n/10.95 7, \T1/pplj/m/n/10.95 763^^U773 (1991). [][]doi: 10.101
 6/0896-
  []
 
-
+[70]
 Overfull \hbox (0.75298pt too wide) in paragraph at lines 115--115
 [][]\T1/pplj/m/n/10.95 Denk, W. \T1/pplj/m/it/10.95 et al. \T1/pplj/m/n/10.95 A
 natom-i-cal and func-tional imag-ing of neu-rons us-ing 2-photon
@@ -2705,13 +2705,13 @@ ience \T1/pplj/b/n/10.95 16, \T1/pplj/m/n/10.95 4551^^U4562 (1996). [][]doi: 10
 .1523/JNEUROSCI.16-
  []
 
-[71]
+
 Overfull \hbox (11.7379pt too wide) in paragraph at lines 115--115
 \T1/pplj/m/it/10.95 An-nals of the New York Academy of Sci-ences \T1/pplj/b/n/1
 0.95 1238, \T1/pplj/m/n/10.95 74^^U90 (2011). [][]doi: 10.1111/j.1749-
  []
 
-
+[71]
 Overfull \hbox (78.52644pt too wide) in paragraph at lines 115--115
 \T1/pplj/m/n/10.95 sen-sory cod-ing. \T1/pplj/m/it/10.95 Jour-nal of Neu-ro-sci
 ence \T1/pplj/b/n/10.95 34, \T1/pplj/m/n/10.95 12127^^U12144 (2014). [][]doi: 1
@@ -2770,14 +2770,14 @@ schung B \T1/pplj/b/n/10.95 11, \T1/pplj/m/n/10.95 513^^U524 (1956). [][]doi: 1
 0.1515/znb-
  []
 
-[73]
+
 Overfull \hbox (3.31363pt too wide) in paragraph at lines 115--115
 \T1/pplj/m/n/10.95 Drosophila an-ten-nal lobe PNs. \T1/pplj/m/it/10.95 Jour-nal
  of neu-ro-phys-i-ol-ogy \T1/pplj/b/n/10.95 110, \T1/pplj/m/n/10.95 1490^^U1496
  (2013).
  []
 
-
+[73]
 Overfull \hbox (131.84195pt too wide) in paragraph at lines 115--115
 \T1/pplj/m/n/10.95 ways in Drosophila mo-tion vi-sion. \T1/pplj/m/it/10.95 Na-t
 ure \T1/pplj/b/n/10.95 468, \T1/pplj/m/n/10.95 300^^U304 (2010). [][]doi: https
@@ -2876,14 +2876,14 @@ Overfull \hbox (45.62181pt too wide) in paragraph at lines 115--115
 4/eLife.24394[][] 
  []
 
-[78]
+
 Overfull \hbox (86.74992pt too wide) in paragraph at lines 115--115
 \T1/pplj/m/n/10.95 di-rec-tion se-lec-tiv-ity in Drosophila. \T1/pplj/m/it/10.9
 5 Neu-ron \T1/pplj/b/n/10.95 99, \T1/pplj/m/n/10.95 680^^U688 (2018). [][]doi: 
 10.1016/j.neuron.2018.07.005[][] 
  []
 
-[79] [80
+[78] [79] [80
 
 
 ] (./sidematter/acknowledgments.tex) [81] [82
@@ -2936,19 +2936,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 5FC2D0C537CA2C8EFD476B8D84F1F7B5;2687.
+(rerunfilecheck)             Checksum: C669B096C349F1DA9E6E393690A8BB01;2705.
 Package logreq Info: Writing requests to 'thesis.run.xml'.
 \openout1 = `thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 36027 strings out of 492649
- 703488 string characters out of 6129622
- 1398521 words of memory out of 5000000
- 39022 multiletter control sequences out of 15000+600000
+ 36022 strings out of 492649
+ 703371 string characters out of 6129622
+ 1397613 words of memory out of 5000000
+ 39018 multiletter control sequences out of 15000+600000
  669674 words of font info for 183 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,23n,97p,10376b,3079s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,22n,97p,10376b,3085s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
 exlive/2018/texmf-dist/fonts/enc/dvips/iwona/ec-iwona.enc}{/usr/local/texlive/2
 018/texmf-dist/fonts/enc/dvips/iwona/ec-iwona-sc.enc}</usr/local/texlive/2018/t
@@ -2976,10 +2976,10 @@ ic/stix/stix-mathrm.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/pal
 atino/uplb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/u
 plbi8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.
 pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on thesis.pdf (95 pages, 26507709 bytes).
+Output written on thesis.pdf (95 pages, 26505164 bytes).
 PDF statistics:
- 2287 PDF objects out of 2487 (max. 8388607)
- 1547 compressed objects within 16 object streams
- 298 named destinations out of 1000 (max. 500000)
+ 2282 PDF objects out of 2487 (max. 8388607)
+ 1542 compressed objects within 16 object streams
+ 297 named destinations out of 1000 (max. 500000)
  29678 words of extra memory for PDF output out of 29859 (max. 10000000)
 
