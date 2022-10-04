@@ -3091,57 +3091,6 @@
       \field{pages}{20104\bibrangedash 20109}
       \range{pages}{6}
     \endentry
-    \entry{Haikala2013}{article}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=33ec6b03aad5ff19242a3b6c6c7e1131}{%
-           family={Haikala},
-           familyi={H\bibinitperiod},
-           given={V{ä}in{ö}},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=4164aaeddc1ff5520f5b6588b3405d0a}{%
-           family={Joesch},
-           familyi={J\bibinitperiod},
-           given={Maximilian},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=bae6200a7c7df7e5acb349481f31b067}{%
-           family={Borst},
-           familyi={B\bibinitperiod},
-           given={Alexander},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=c4c0c4c56ef146dc21bac1317bfc7c14}{%
-           family={Mauss},
-           familyi={M\bibinitperiod},
-           given={Alex\bibnamedelima S},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Soc Neuroscience}%
-      }
-      \strng{namehash}{a919d8b87e5a65ad1a1861c10a7f05b9}
-      \strng{fullhash}{dd9171d87d222580752dd88083f7be0f}
-      \strng{bibnamehash}{dd9171d87d222580752dd88083f7be0f}
-      \strng{authorbibnamehash}{dd9171d87d222580752dd88083f7be0f}
-      \strng{authornamehash}{a919d8b87e5a65ad1a1861c10a7f05b9}
-      \strng{authorfullhash}{dd9171d87d222580752dd88083f7be0f}
-      \field{sortinit}{H}
-      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.0340-13.2013}{doi: 10.1523/JNEUROSCI.0340-13.2013}}
-      \field{journaltitle}{Journal of Neuroscience}
-      \field{number}{34}
-      \field{title}{Optogenetic control of fly optomotor responses}
-      \field{volume}{33}
-      \field{year}{2013}
-      \field{pages}{13927\bibrangedash 13934}
-      \range{pages}{8}
-    \endentry
     \entry{Hamada2008}{article}{}
       \name{author}{7}{}{%
         {{uniquename=0,uniquepart=base,hash=7db84fff29e6aaec63bc7f3f2915db08}{%
@@ -4160,54 +4109,6 @@
       \field{pages}{331\bibrangedash 336}
       \range{pages}{6}
     \endentry
-    \entry{Kim2017}{article}{}
-      \name{author}{4}{}{%
-        {{uniquename=0,uniquepart=base,hash=f55fbaaca148300ac11f7752528cae3d}{%
-           family={Kim},
-           familyi={K\bibinitperiod}}}%
-        {{uniquename=0,uniquepart=base,hash=dd26f971c9e2c6dcd33902a0e392ce05}{%
-           family={Fenk},
-           familyi={F\bibinitperiod},
-           given={Lisa\bibnamedelima M},
-           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=2c21024a7d12e7e15f5e7025a67579d1}{%
-           family={Lyu},
-           familyi={L\bibinitperiod},
-           given={Cheng},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=b2c282fbb12070fb05bc82b937c86b2b}{%
-           family={Maimon},
-           familyi={M\bibinitperiod},
-           given={Gaby},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{07c4d481d0495d958a769381d2b0739a}
-      \strng{fullhash}{0e4f96584530501ab0edc4a4eea88a6d}
-      \strng{bibnamehash}{0e4f96584530501ab0edc4a4eea88a6d}
-      \strng{authorbibnamehash}{0e4f96584530501ab0edc4a4eea88a6d}
-      \strng{authornamehash}{07c4d481d0495d958a769381d2b0739a}
-      \strng{authorfullhash}{0e4f96584530501ab0edc4a4eea88a6d}
-      \field{sortinit}{K}
-      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cell.2016.12.005}{doi: 10.1016/j.cell.2016.12.005}}
-      \field{journaltitle}{Cell}
-      \field{number}{1-2}
-      \field{title}{Quantitative predictions orchestrate visual signaling in Drosophila}
-      \field{volume}{168}
-      \field{year}{2017}
-      \field{pages}{280\bibrangedash 294}
-      \range{pages}{15}
-    \endentry
     \entry{King2007}{article}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=63673afb04cfc41f1139eabf6193efe9}{%
@@ -4351,45 +4252,6 @@
       \field{year}{1998}
       \field{pages}{1902\bibrangedash 1917}
       \range{pages}{16}
-    \endentry
-    \entry{Krapp1996}{article}{}
-      \name{author}{2}{}{%
-        {{uniquename=0,uniquepart=base,hash=c7a9e3b8d7e0303962a405300d1b75db}{%
-           family={Krapp},
-           familyi={K\bibinitperiod},
-           given={Holger\bibnamedelima G},
-           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{uniquename=0,uniquepart=base,hash=170274fdaa3335badd25a47bb8682c90}{%
-           family={Hengstenberg},
-           familyi={H\bibinitperiod},
-           given={Roland},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Nature Publishing Group}%
-      }
-      \strng{namehash}{61ee0104bf0a1144ad3c7f65c7384b06}
-      \strng{fullhash}{61ee0104bf0a1144ad3c7f65c7384b06}
-      \strng{bibnamehash}{61ee0104bf0a1144ad3c7f65c7384b06}
-      \strng{authorbibnamehash}{61ee0104bf0a1144ad3c7f65c7384b06}
-      \strng{authornamehash}{61ee0104bf0a1144ad3c7f65c7384b06}
-      \strng{authorfullhash}{61ee0104bf0a1144ad3c7f65c7384b06}
-      \field{sortinit}{K}
-      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1038/384463a0}{doi: 10.1038/384463a0}}
-      \field{journaltitle}{Nature}
-      \field{number}{6608}
-      \field{title}{Estimation of self-motion by optic flow processing in single visual interneurons}
-      \field{volume}{384}
-      \field{year}{1996}
-      \field{pages}{463\bibrangedash 466}
-      \range{pages}{4}
     \endentry
     \entry{Land1997}{article}{}
       \name{author}{1}{}{%
