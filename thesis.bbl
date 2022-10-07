@@ -116,7 +116,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2017.01.051}{doi: 10.1016/j.cub.2017.01.051}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2017.01.051}{\\doi: 10.1016/j.cub.2017.01.051}}
       \field{journaltitle}{Current Biology}
       \field{number}{7}
       \field{title}{The temporal tuning of the Drosophila motion detectors is determined by the dynamics of their input elements}
@@ -275,7 +275,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2015.11.004}{doi: 10.1016/j.neuron.2015.11.004}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2015.11.004}{\\doi: 10.1016/j.neuron.2015.11.004}}
       \field{journaltitle}{Neuron}
       \field{number}{6}
       \field{title}{Neural mechanisms for Drosophila contrast vision}
@@ -283,45 +283,6 @@
       \field{year}{2015}
       \field{pages}{1240\bibrangedash 1252}
       \range{pages}{13}
-    \endentry
-    \entry{Barlow1965}{article}{}
-      \name{author}{2}{}{%
-        {{uniquename=1,uniquepart=given,hash=b3a0e1615a7f454a572d574eec1060e3}{%
-           family={Barlow},
-           familyi={B\bibinitperiod},
-           given={HB},
-           giveni={H\bibinitperiod},
-           givenun=1}}%
-        {{uniquename=0,uniquepart=base,hash=617b46960edf4fdb11d0942e03e86ffa}{%
-           family={Levick},
-           familyi={L\bibinitperiod},
-           given={William\bibnamedelima R},
-           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Wiley-Blackwell}%
-      }
-      \strng{namehash}{8ada12fb010b194d43286bbe50a4eeb7}
-      \strng{fullhash}{8ada12fb010b194d43286bbe50a4eeb7}
-      \strng{bibnamehash}{8ada12fb010b194d43286bbe50a4eeb7}
-      \strng{authorbibnamehash}{8ada12fb010b194d43286bbe50a4eeb7}
-      \strng{authornamehash}{8ada12fb010b194d43286bbe50a4eeb7}
-      \strng{authorfullhash}{8ada12fb010b194d43286bbe50a4eeb7}
-      \field{sortinit}{B}
-      \field{sortinithash}{276475738cc058478c1677046f857703}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1113/jphysiol.1965.sp007638}{doi: 10.1113/jphysiol.1965.sp007638}}
-      \field{journaltitle}{The Journal of physiology}
-      \field{number}{3}
-      \field{title}{The mechanism of directionally selective units in rabbit's retina.}
-      \field{volume}{178}
-      \field{year}{1965}
-      \field{pages}{477}
-      \range{pages}{1}
     \endentry
     \entry{Barlow1963}{article}{}
       \name{author}{2}{}{%
@@ -353,7 +314,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1126/science.139.3553.412}{doi: 10.1126/science.139.3553.412}}
+      \field{addendum}{\href{http://dx.doi.org/10.1126/science.139.3553.412}{\\doi: 10.1126/science.139.3553.412}}
       \field{journaltitle}{Science}
       \field{number}{3553}
       \field{title}{Selective sensitivity to direction of movement in ganglion cells of the rabbit retina}
@@ -361,6 +322,42 @@
       \field{year}{1963}
       \field{pages}{412\bibrangedash 414}
       \range{pages}{3}
+    \endentry
+    \entry{Barlow1965}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=bd5534352204e9c904fe1152163cf9bb}{%
+           family={Barlow},
+           familyi={B\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=617b46960edf4fdb11d0942e03e86ffa}{%
+           family={Levick},
+           familyi={L\bibinitperiod},
+           given={William\bibnamedelima R},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{90e345a2f6e39b22726795d099c6e047}
+      \strng{fullhash}{90e345a2f6e39b22726795d099c6e047}
+      \strng{bibnamehash}{90e345a2f6e39b22726795d099c6e047}
+      \strng{authorbibnamehash}{90e345a2f6e39b22726795d099c6e047}
+      \strng{authornamehash}{90e345a2f6e39b22726795d099c6e047}
+      \strng{authorfullhash}{90e345a2f6e39b22726795d099c6e047}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{\href{http://dx.doi.org/10.1113/jphysiol.1965.sp007638}{doi: 10.1113/jphysiol.1965.sp007638}}
+      \field{journaltitle}{The Journal of physiology}
+      \field{number}{3}
+      \field{title}{The mechanism of directionally selective units in rabbit's retina.}
+      \field{volume}{178}
+      \field{year}{1965}
+      \field{pages}{477}
+      \range{pages}{1}
     \endentry
     \entry{Bath2014}{article}{}
       \name{author}{6}{}{%
@@ -1142,7 +1139,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2008.07.094}{doi: 10.1016/j.cub.2008.07.094}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2008.07.094}{\\doi: 10.1016/j.cub.2008.07.094}}
       \field{journaltitle}{Current Biology}
       \field{number}{17}
       \field{title}{Visually mediated motor planning in the escape response of Drosophila}
@@ -1292,7 +1289,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1101/gad.10.14.1773}{doi: 10.1101/gad.10.14.1773}}
+      \field{addendum}{\href{http://dx.doi.org/10.1101/gad.10.14.1773}{\\doi: 10.1101/gad.10.14.1773}}
       \field{journaltitle}{Genes \& development}
       \field{number}{14}
       \field{title}{grim, a novel cell death gene in Drosophila.}
@@ -1486,7 +1483,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2011.05.023}{\\doi: 10.1016/j.neuron.2011.05.023}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2011.05.023}{doi: 10.1016/j.neuron.2011.05.023}}
       \field{journaltitle}{Neuron}
       \field{number}{6}
       \field{title}{Defining the computational structure of the motion detector in Drosophila}
@@ -1600,7 +1597,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.50901}{\\doi: 10.7554/eLife.50901}}
+      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.50901}{doi: 10.7554/eLife.50901}}
       \field{journaltitle}{Elife}
       \field{title}{A genetic, genomic, and computational resource for exploring neural circuit function}
       \field{volume}{9}
@@ -1713,7 +1710,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1126/science.2321027}{\\doi: 10.1126/science.2321027}}
+      \field{addendum}{\href{http://dx.doi.org/10.1126/science.2321027}{doi: 10.1126/science.2321027}}
       \field{journaltitle}{Science}
       \field{number}{4951}
       \field{title}{Two-photon laser scanning fluorescence microscopy}
@@ -1817,7 +1814,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.16-15-04551.1996}{doi: 10.1523/JNEUROSCI.16-15-04551.1996}}
+      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.16-15-04551.1996}{\\doi: 10.1523/JNEUROSCI.16-15-04551.1996}}
       \field{journaltitle}{Journal of Neuroscience}
       \field{number}{15}
       \field{title}{Visual motion-detection circuits in flies: parallel direction-and non-direction-sensitive pathways between the medulla and lobula plate}
@@ -1892,7 +1889,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2019.10.035}{\\doi: 10.1016/j.cub.2019.10.035}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.cub.2019.10.035}{doi: 10.1016/j.cub.2019.10.035}}
       \field{journaltitle}{Current Biology}
       \field{number}{2}
       \field{title}{Dynamic signal compression for robust motion vision in flies}
@@ -2159,7 +2156,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.62953}{\\doi: 10.7554/eLife.62953}}
+      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.62953}{doi: 10.7554/eLife.62953}}
       \field{journaltitle}{Elife}
       \field{title}{Conditional protein tagging methods reveal highly specific subcellular distribution of ion channels in motion-sensing neurons}
       \field{volume}{9}
@@ -2236,7 +2233,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1111/j.1749-6632.2011.06240.x}{doi: 10.1111/j.1749-6632.2011.06240.x}}
+      \field{addendum}{\href{http://dx.doi.org/10.1111/j.1749-6632.2011.06240.x}{\\doi: 10.1111/j.1749-6632.2011.06240.x}}
       \field{journaltitle}{Annals of the New York Academy of Sciences}
       \field{number}{1}
       \field{title}{Immunodeficiency due to defects in store-operated calcium entry}
@@ -2365,7 +2362,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.1032-14.2014}{doi: 10.1523/JNEUROSCI.1032-14.2014}}
+      \field{addendum}{\href{http://dx.doi.org/10.1523/JNEUROSCI.1032-14.2014}{\\doi: 10.1523/JNEUROSCI.1032-14.2014}}
       \field{journaltitle}{Journal of Neuroscience}
       \field{number}{36}
       \field{title}{Benefits of pathway splitting in sensory coding}
@@ -2809,7 +2806,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1152/jn.91103.2008}{\\doi: 10.1152/jn.91103.2008}}
+      \field{addendum}{\href{http://dx.doi.org/10.1152/jn.91103.2008}{doi: 10.1152/jn.91103.2008}}
       \field{journaltitle}{Journal of neurophysiology}
       \field{number}{1}
       \field{title}{Cav2-type calcium channels encoded by cac regulate AP-independent neurotransmitter release at cholinergic synapses in adult Drosophila brain}
@@ -2955,7 +2952,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.17421}{doi: 10.7554/eLife.17421}}
+      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.17421}{\\doi: 10.7554/eLife.17421}}
       \field{journaltitle}{Elife}
       \field{title}{Complementary mechanisms create direction selectivity in the fly}
       \field{volume}{5}
@@ -3208,7 +3205,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1007/BF00656997}{doi: 10.1007/BF00656997}}
+      \field{addendum}{\href{http://dx.doi.org/10.1007/BF00656997}{\\doi: 10.1007/BF00656997}}
       \field{journaltitle}{Pfl{ü}gers Archiv}
       \field{number}{2}
       \field{title}{Improved patch-clamp techniques for high-resolution current recording from cells and cell-free membrane patches}
@@ -3360,7 +3357,7 @@
       \field{addendum}{\href{http://dx.doi.org/10.1515/znb-1956-9-1004}{doi: 10.1515/znb-1956-9-1004}}
       \field{journaltitle}{Zeitschrift f{ü}r Naturforschung B}
       \field{number}{9-10}
-      \field{title}{Systemtheoretische analyse der zeit-, reihenfolgen-und vorzeichenauswertung bei der bewegungsperzeption des r{ü}sselk{ä}fers chlorophanus}
+      \field{title}{Systemtheoretische analyse der zeit-, \\reihenfolgen-und vorzeichenauswertung bei der bewegungsperzeption des r{ü}sselk{ä}fers chlorophanus}
       \field{volume}{11}
       \field{year}{1956}
       \field{pages}{513\bibrangedash 524}
@@ -3429,7 +3426,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1113/jphysiol.1952.sp004764}{\\doi: 10.1113/jphysiol.1952.sp004764}}
+      \field{addendum}{\href{http://dx.doi.org/10.1113/jphysiol.1952.sp004764}{doi: 10.1113/jphysiol.1952.sp004764}}
       \field{journaltitle}{The Journal of physiology}
       \field{number}{4}
       \field{title}{A quantitative description of membrane current and its application to conduction and excitation in nerve}
@@ -3861,7 +3858,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1038/nature09545}{doi: https://doi.org/10.1038/nature09545}}
+      \field{addendum}{\href{http://dx.doi.org/https://doi.org/10.1038/nature09545}{\\doi: 10.1038/nature09545}}
       \field{journaltitle}{Nature}
       \field{number}{7321}
       \field{title}{ON and OFF pathways in Drosophila motion vision}
@@ -4385,7 +4382,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.13238}{doi: 10.7554/eLife.13238}}
+      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.13238}{\\doi: 10.7554/eLife.13238}}
       \field{journaltitle}{Elife}
       \field{title}{Gap junction networks in mushroom bodies participate in visual learning and memory in Drosophila}
       \field{volume}{5}
@@ -5552,7 +5549,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1126/science.2441470}{doi: 10.1126/science.2441470}}
+      \field{addendum}{\href{http://dx.doi.org/10.1126/science.2441470}{\\doi: 10.1126/science.2441470}}
       \field{journaltitle}{Science}
       \field{number}{4816}
       \field{title}{Cloning of genomic and complementary DNA from Shaker, a putative potassium channel gene from Drosophila}
@@ -5947,7 +5944,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1371/journal.pone.0250381}{\\doi: 10.1371/journal.pone.0250381}}
+      \field{addendum}{\href{http://dx.doi.org/10.1371/journal.pone.0250381}{doi: 10.1371/journal.pone.0250381}}
       \field{journaltitle}{PLoS One}
       \field{number}{5}
       \field{title}{The number of neurons in Drosophila and mosquito brains}
@@ -6106,7 +6103,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.isci.2018.08.019}{doi: 10.1016/j.isci.2018.08.019}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.isci.2018.08.019}{\\doi: 10.1016/j.isci.2018.08.019}}
       \field{journaltitle}{IScience}
       \field{title}{Glutamate signaling in the fly visual system}
       \field{volume}{7}
@@ -6347,7 +6344,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1242/bio.012690}{doi: 10.1242/bio.012690}}
+      \field{addendum}{\href{http://dx.doi.org/10.1242/bio.012690}{\\doi: 10.1242/bio.012690}}
       \field{journaltitle}{Biology open}
       \field{number}{9}
       \field{title}{Local motion detectors are required for the computation of expansion flow-fields}
@@ -7242,7 +7239,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2017.03.010}{doi: 10.1016/j.neuron.2017.03.010}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2017.03.010}{\\doi: 10.1016/j.neuron.2017.03.010}}
       \field{journaltitle}{Neuron}
       \field{number}{1}
       \field{title}{The emergence of directional selectivity in the visual motion pathway of Drosophila}
@@ -7281,7 +7278,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2006.05.019}{doi: 10.1016/j.neuron.2006.05.019}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2006.05.019}{\\doi: 10.1016/j.neuron.2006.05.019}}
       \field{journaltitle}{Neuron}
       \field{number}{6}
       \field{title}{Principles of two-photon excitation microscopy and its applications to neuroscience}
@@ -7509,7 +7506,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.24394}{doi: 10.7554/eLife.24394}}
+      \field{addendum}{\href{http://dx.doi.org/10.7554/eLife.24394}{\\doi: 10.7554/eLife.24394}}
       \field{journaltitle}{Elife}
       \field{title}{The comprehensive connectome of a neural substrate for ‘ON’motion detection in Drosophila}
       \field{volume}{6}
@@ -7610,7 +7607,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2018.07.005}{doi: 10.1016/j.neuron.2018.07.005}}
+      \field{addendum}{\href{http://dx.doi.org/10.1016/j.neuron.2018.07.005}{\\doi: 10.1016/j.neuron.2018.07.005}}
       \field{journaltitle}{Neuron}
       \field{number}{4}
       \field{title}{Linear summation underlies direction selectivity in Drosophila}
